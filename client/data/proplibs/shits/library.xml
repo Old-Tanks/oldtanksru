@@ -1,0 +1,15 @@
+<library name="Shits">
+	<prop-group name="Comm Shits">
+		<prop name="Billboard">
+			<mesh file="bilboard.3ds">
+					<texture name="default" diffuse-map="bilboard.jpg" />
+					<texture name="volvo 1" diffuse-map="volvo_1.jpg" />
+					<texture name="volvo 2" diffuse-map="volvo_2.jpg" />
+					<texture-ext-area x="5" y="7" width="150" height="70"/>
+					<texture-ext-area x="5" y="85" width="150" height="70"/>
+			</mesh>
+		</prop>
+	</prop-group>
+
+
+</library>

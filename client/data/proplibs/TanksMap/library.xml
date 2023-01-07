@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="TanksMap">
+    <prop-group name="default">
+        <prop name="River">
+            <mesh file="river.3ds">
+				<texture name="river" diffuse-map="river.jpg"/>
+            </mesh>
+        </prop>
+		<prop name="Outer">
+            <mesh file="outer.3ds">
+				<texture name="outer_ar" diffuse-map="outer_ar.jpg"/>
+            </mesh>
+        </prop>
+		<prop name="Builds1">
+            <mesh file="builds1.3ds">
+				<texture name="builds_1" diffuse-map="builds_1.jpg"/>
+            </mesh>
+        </prop>
+		<prop name="Builds2">
+            <mesh file="builds2.3ds">
+				<texture name="builds_2" diffuse-map="builds_2.jpg"/>
+            </mesh>
+        </prop>
+		<prop name="Part1">
+            <mesh file="part1.3ds">
+				<texture name="part_1" diffuse-map="part_1.jpg"/>
+            </mesh>
+        </prop>
+		<prop name="Part2">
+            <mesh file="part2.3ds">
+				<texture name="part_2" diffuse-map="part_2.jpg"/>
+            </mesh>
+        </prop>
+		<prop name="Tran">
+            <mesh file="tran_m.3ds">
+				<texture name="transmat" diffuse-map="transmat.png"/>
+            </mesh>
+        </prop>
+    </prop-group>
+	<prop-group name="bonus">
+		<prop name="Box">
+			<mesh file="drop.3ds">
+			</mesh>
+		</prop>
+	</prop-group>
+	<prop-group name="Sprites">
+		<prop name="Tree 1">
+			<sprite file="wood1.png" origin-y="0.8" scale="1.4"/>
+		</prop>
+		<prop name="Tree 2">
+			<sprite file="wood2.png" origin-y="0.8" scale="1.4"/>
+		</prop>
+		<prop name="Bush 1">
+			<sprite file="bush1.png" origin-y="0.8" scale="1.4"/>
+		</prop>
+		<prop name="Bush 2">
+			<sprite file="bush2.png" origin-y="0.8" scale="1.4"/>
+		</prop>
+		<prop name="Ezh">
+			<sprite file="ezh.png" origin-y="0.8" scale="1.4"/>
+		</prop>
+	</prop-group>
+</library>

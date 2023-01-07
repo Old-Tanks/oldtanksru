@@ -1,0 +1,6 @@
+<images>
+	<image name='fs_blue.jpg' new-name='fs_blue.jpg'/>
+	<image name='fs_red.jpg' new-name='fs_red.jpg'/>
+	<image name='wfblue.png' new-name='wfblue.jpg' alpha='flag_alpha.jpg'/>
+	<image name='wfred.png' new-name='wfred.jpg' alpha='flag_alpha.jpg'/>
+</images>

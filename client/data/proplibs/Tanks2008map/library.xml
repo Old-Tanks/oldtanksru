@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Tanks2008map">
+    <prop-group name="default">
+        <prop name="Map">
+            <mesh file="check.3ds">
+                <texture name="Map" diffuse-map="check.jpg" />
+            </mesh>
+        </prop>
+        <prop name="River">
+            <mesh file="river.3ds">
+                <texture name="River" diffuse-map="river.jpg" />
+            </mesh>
+        </prop>
+    </prop-group>
+</library>

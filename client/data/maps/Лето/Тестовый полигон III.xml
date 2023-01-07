@@ -1,0 +1,119 @@
+<map version="1.0.Light">
+ <skybox val="1"/> <static-geometry>
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 3x3">
+      <rotation>
+        <z>0.000000</z>
+      </rotation>
+      <texture-name>Tile Road 7</texture-name>
+      <position>
+        <x>1500.000</x>
+        <y>-1500.000</y>
+        <z>0.000</z>
+      </position>
+    </prop>
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 3x3">
+      <rotation>
+        <z>0.000000</z>
+      </rotation>
+      <texture-name>Tile Road 7</texture-name>
+      <position>
+        <x>3000.000</x>
+        <y>-3000.000</y>
+        <z>0.000</z>
+      </position>
+    </prop>
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 3x3">
+      <rotation>
+        <z>0.000000</z>
+      </rotation>
+      <texture-name>Tile Road 7</texture-name>
+      <position>
+        <x>1500.000</x>
+        <y>-3000.000</y>
+        <z>0.000</z>
+      </position>
+    </prop>
+    <prop library-name="Land v1" group-name="Tiles" name="Tile 3x3">
+      <rotation>
+        <z>0.000000</z>
+      </rotation>
+      <texture-name>Tile Road 7</texture-name>
+      <position>
+        <x>3000.000</x>
+        <y>-1500.000</y>
+        <z>0.000</z>
+      </position>
+    </prop>
+  </static-geometry>
+  <collision-geometry>
+    <collision-plane id="0">
+      <width>1500.000</width>
+      <length>1500.000</length>
+      <position>
+        <x>1250.000</x>
+        <y>-1250.000</y>
+        <z>0.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>1500.000</width>
+      <length>1500.000</length>
+      <position>
+        <x>2750.000</x>
+        <y>-2750.000</y>
+        <z>0.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>1500.000</width>
+      <length>1500.000</length>
+      <position>
+        <x>1250.000</x>
+        <y>-2750.000</y>
+        <z>0.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+    <collision-plane id="0">
+      <width>1500.000</width>
+      <length>1500.000</length>
+      <position>
+        <x>2750.000</x>
+        <y>-1250.000</y>
+        <z>0.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>1.570796</z>
+      </rotation>
+    </collision-plane>
+  </collision-geometry>
+  <spawn-points>
+    <spawn-point type="dm">
+      <rotation>
+        <z>0.000</z>
+      </rotation>
+      <position>
+        <x>3250.000</x>
+        <y>-2750.000</y>
+        <z>0.000</z>
+      </position>
+    </spawn-point>
+  </spawn-points>
+  <bonus-regions/>
+</map>

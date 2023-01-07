@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<library name="CP">
+ 	<prop-group name="Stand">
+		<prop name="Gray">
+			<mesh file="dom_stand.3ds">
+				<texture name="DEFAULT" diffuse-map="ds0_gray.jpg"/>
+			</mesh>
+		</prop>
+		<prop name="Blue">
+			<mesh file="dom_stand.3ds">
+				<texture name="DEFAULT" diffuse-map="ds0_blue.jpg"/>
+			</mesh>
+		</prop>
+		<prop name="Red">
+			<mesh file="dom_stand.3ds">
+				<texture name="DEFAULT" diffuse-map="ds0_red.jpg"/>
+			</mesh>
+		</prop>
+	</prop-group>
+	<prop-group name="Domination">
+	    <prop name="Gray">
+			<sprite file="p0_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Gray A">
+			<sprite file="p0a_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Gray B">
+			<sprite file="p0b_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Gray C">
+			<sprite file="p0c_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Gray D">
+			<sprite file="p0d_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Gray E">
+			<sprite file="p0e_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Gray F">
+			<sprite file="p0f_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Gray G">
+			<sprite file="p0g_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Gray H">
+			<sprite file="p0h_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue">
+			<sprite file="p0_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue A">
+			<sprite file="p0a_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue B">
+			<sprite file="p0b_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue C">
+			<sprite file="p0c_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue D">
+			<sprite file="p0d_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue E">
+			<sprite file="p0e_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue F">
+			<sprite file="p0f_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue G">
+			<sprite file="p0g_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue H">
+			<sprite file="p0h_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red">
+			<sprite file="p0_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red A">
+			<sprite file="p0a_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red B">
+			<sprite file="p0b_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red C">
+			<sprite file="p0c_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red D">
+			<sprite file="p0d_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red E">
+			<sprite file="p0e_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red F">
+			<sprite file="p0f_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red G">
+			<sprite file="p0g_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red H">
+			<sprite file="p0h_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Bright">
+	    <prop name="Gray">
+			<sprite file="p1_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Gray A">
+			<sprite file="p1a_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Gray B">
+			<sprite file="p1b_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Gray C">
+			<sprite file="p1c_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Gray D">
+			<sprite file="p1d_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Gray E">
+			<sprite file="p1e_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Gray F">
+			<sprite file="p1f_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Gray G">
+			<sprite file="p1g_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Gray H">
+			<sprite file="p1h_gray.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue A">
+			<sprite file="p1a_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue">
+			<sprite file="p1_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue B">
+			<sprite file="p1b_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue C">
+			<sprite file="p1c_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue D">
+			<sprite file="p1d_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue E">
+			<sprite file="p1e_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue F">
+			<sprite file="p1f_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue G">
+			<sprite file="p1g_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Blue H">
+			<sprite file="p1h_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red">
+			<sprite file="p1_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red A">
+			<sprite file="p1a_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red B">
+			<sprite file="p1b_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red C">
+			<sprite file="p1c_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red D">
+			<sprite file="p1d_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red E">
+			<sprite file="p1e_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red F">
+			<sprite file="p1f_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red G">
+			<sprite file="p1g_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+		<prop name="Red H">
+			<sprite file="p1h_red.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Special">
+	    <prop name="Blue NY">
+			<sprite file="p1ny_blue.png" origin-y="0.99" scale="2.0"/>
+		</prop>
+	</prop-group>
+</library>

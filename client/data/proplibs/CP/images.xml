@@ -1,0 +1,60 @@
+<images>
+	<image name='ds0_gray.jpg' new-name='ds0_gray.jpg'/>
+	<image name='ds0_blue.jpg' new-name='ds0_blue.jpg'/>
+	<image name='ds0_red.jpg' new-name='ds0_red.jpg'/>
+	<image name='p0_gray.png' new-name='p_gray.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0a_gray.png' new-name='pa_gray.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0b_gray.png' new-name='pb_gray.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0c_gray.png' new-name='pc_gray.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0d_gray.png' new-name='pd_gray.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0e_gray.png' new-name='pe_gray.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0f_gray.png' new-name='pf_gray.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0g_gray.png' new-name='pg_gray.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0h_gray.png' new-name='ph_gray.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0_blue.png' new-name='p_blue.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0a_blue.png' new-name='pa_blue.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0b_blue.png' new-name='pb_blue.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0c_blue.png' new-name='pc_blue.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0d_blue.png' new-name='pd_blue.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0e_blue.png' new-name='pe_blue.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0f_blue.png' new-name='pf_blue.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0g_blue.png' new-name='pg_blue.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0h_blue.png' new-name='ph_blue.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0_red.png' new-name='p_red.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0a_red.png' new-name='pa_red.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0b_red.png' new-name='pb_red.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0c_red.png' new-name='pc_red.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0d_red.png' new-name='pd_red.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0e_red.png' new-name='pe_red.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0f_red.png' new-name='pf_red.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0g_red.png' new-name='pg_red.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p0h_red.png' new-name='ph_red.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p1_gray.png' new-name='p_gray.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1a_gray.png' new-name='pa_gray.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1b_gray.png' new-name='pb_gray.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1c_gray.png' new-name='pc_gray.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1d_gray.png' new-name='pd_gray.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1e_gray.png' new-name='pe_gray.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1f_gray.png' new-name='pf_gray.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1g_gray.png' new-name='pg_gray.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1h_gray.png' new-name='ph_gray.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1_blue.png' new-name='p_blue.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1a_blue.png' new-name='pa_blue.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1b_blue.png' new-name='pb_blue.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1c_blue.png' new-name='pc_blue.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1d_blue.png' new-name='pd_blue.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1e_blue.png' new-name='pe_blue.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1f_blue.png' new-name='pf_blue.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1g_blue.png' new-name='pg_blue.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1h_blue.png' new-name='ph_blue.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1ny_blue.png' new-name='pn_blue.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1_red.png' new-name='p1_red.jpg' alpha='p1_alpha.jpg'/>
+	<image name='p1a_red.png' new-name='pa_red.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p1b_red.png' new-name='pb_red.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p1c_red.png' new-name='pc_red.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p1d_red.png' new-name='pd_red.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p1e_red.png' new-name='pe_red.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p1f_red.png' new-name='pf_red.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p1g_red.png' new-name='pg_red.jpg' alpha='p0_alpha.jpg'/>
+	<image name='p1h_red.png' new-name='ph_red.jpg' alpha='p0_alpha.jpg'/>
+</images>

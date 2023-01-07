@@ -1,0 +1,156 @@
+<library name="Halloween">
+	<prop-group name="Halloween tool">
+		<prop name="Pumpkin">
+			<mesh file="pumpkin.3ds">
+				<texture name="pumpkin" diffuse-map="pumpkin.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Graves1">
+			<mesh file="gravest1.3ds">
+				<texture name="gravest1" diffuse-map="gravest.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Graves2">
+			<mesh file="gravest2.3ds">
+				<texture name="gravest2" diffuse-map="gravest.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Graves3">
+			<mesh file="gravest3.3ds">
+				<texture name="gravest3" diffuse-map="gravest.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Wall">
+			<mesh file="wall_h.3ds">
+				<texture name="wall_1" diffuse-map="wall_st1.jpg" />
+				<texture name="wall_2" diffuse-map="wall_st2.jpg" />
+			</mesh>
+		</prop>
+	</prop-group>
+	<prop-group name="Trees">
+		<prop name="Tree1">
+				<mesh  file="tree01.3ds"/>	
+		</prop>
+		<prop name="Tree2">
+				<mesh  file="tree02.3ds"/>	
+		</prop>
+	</prop-group>
+	<prop-group name="Sprites">
+		<prop name="Ghost">
+			<sprite file="ghost.png" origin-y="0.99" scale="2.5"/>
+		</prop>
+		<prop name="TreeS1">
+			<sprite file="trees1.png" origin-y="0.99" scale="2.5"/>
+		</prop>
+		<prop name="TreeS2">
+			<sprite file="trees2.png" origin-y="0.99" scale="2.5"/>
+		</prop>
+		<prop name="TreeS3">
+			<sprite file="trees3.png" origin-y="0.99" scale="2.5"/>
+		</prop>
+		<prop name="TreeS4">
+			<sprite file="trees4.png" origin-y="0.99" scale="2.5"/>
+		</prop>
+		<prop name="Tree 1">
+			<sprite file="wood1.png" origin-y="0.95" scale="1.5"/>
+		</prop>
+		<prop name="Bush 1">
+			<sprite file="bush1.png" origin-y="0.95" scale="0.7"/>
+		</prop>
+		<prop name="Bush 2">
+			<sprite file="bush2.png" origin-y="0.95" scale="0.6"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Land">
+		<prop name="Shov 1x1">
+			<mesh file="tile_01.3DS">
+				<texture name="Dark Gravel" diffuse-map="dark_gravel.jpg" />
+				<texture name="GtD Transition 1" diffuse-map="dg_tr_1.jpg" />
+				<texture name="GtD Transition 2" diffuse-map="dg_tr_2.jpg" />
+				<texture name="GtD Transition 3" diffuse-map="dg_tr_3.jpg" />
+				<texture name="GtD Transition 4" diffuse-map="dg_tr_4.jpg" />
+				<texture name="GtD Corner 1" diffuse-map="dg_cor_1.jpg" />
+				<texture name="GtD Corner 2" diffuse-map="dg_cor_2.jpg" />
+				<texture name="GtD Corner 3" diffuse-map="dg_cor_3.jpg" />
+				<texture name="GtD Corner 4" diffuse-map="dg_cor_4.jpg" />
+				<texture name="GtD Inner 1" diffuse-map="dg_incor_1.jpg" />
+				<texture name="GtD Inner 2" diffuse-map="dg_incor_2.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Grass 3x2">
+			<mesh  file="tile3_2.3DS">
+					<texture name="Grass 3x2 var1" diffuse-map="grass3_2_1.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Blood Bet">
+		    <mesh file="tile_02.3DS">
+		        <texture name="Beton Bld 16" diffuse-map="beton_b16.jpg" />
+		        <texture name="Beton Bld 17" diffuse-map="beton_b17.jpg" />
+		        <texture name="Beton Bld 18" diffuse-map="beton_b18.jpg" />
+		        <texture name="Beton Bld 19" diffuse-map="beton_b19.jpg" />
+		        <texture name="Beton Bld 20" diffuse-map="beton_b20.jpg" />
+		    </mesh>
+		</prop>
+        <prop name="Gravel Brid">
+		    <mesh file="brid_2.3DS">
+		        <texture name="Brid Grv 1" diffuse-map="brid_gr01.jpg" />
+		        <texture name="Brid Grv 2" diffuse-map="brid_gr02.jpg" />
+		        <texture name="Brid Grv 3" diffuse-map="brid_gr03.jpg" />
+		    </mesh>
+		</prop>
+	</prop-group>
+	<prop-group name="Old Builds">
+		<prop name="Village House 1">
+			<mesh file="vilhou_1.3ds">
+				<texture name="vilhou_1" diffuse-map="vilhou1.jpg" />
+				<texture name="vilhou_1 halloween" diffuse-map="vilhou1_h.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Village House 2">
+			<mesh file="vilhou_2.3ds">
+				<texture name="vilhou_2" diffuse-map="vilhou2.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Village House 3">
+			<mesh file="vilhou_3.3ds">
+				<texture name="vilhou_3" diffuse-map="vilhou3.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Village House 4">
+			<mesh file="vilhou_4.3ds">
+				<texture name="vilhou_4" diffuse-map="vilhou4.jpg" />
+				<texture name="vilhou_4 halloween" diffuse-map="vilhou4_h.jpg" />
+			</mesh>
+		</prop>
+	</prop-group>
+	<prop-group name ="Blood Instruments">
+       <prop name="smile_wtile">
+           <mesh file="wtile_1.3ds">
+               <texture name="smile_01" diffuse-map="sml_01.jpg" />
+               <texture name="smile_02" diffuse-map="sml_02.jpg" />
+               <texture name="smile_03" diffuse-map="sml_03.jpg" />
+               <texture name="smile_04" diffuse-map="sml_04.jpg" />
+               <texture name="smile_05" diffuse-map="sml_05.jpg" />
+               <texture name="smile_06" diffuse-map="sml_06.jpg" />
+               <texture name="smile_07" diffuse-map="sml_07.jpg" />
+               <texture name="smile_08" diffuse-map="sml_08.jpg" />
+               <texture name="smile_09" diffuse-map="sml_09.jpg" />
+               <texture name="smile_10" diffuse-map="sml_10.jpg" />
+               <texture name="smile_11" diffuse-map="sml_11.jpg" />
+               <texture name="smile_12" diffuse-map="sml_12.jpg" />
+               <texture name="smile_13" diffuse-map="sml_13.jpg" />
+               <texture name="smile_14" diffuse-map="sml_14.jpg" />
+               <texture name="smile_15" diffuse-map="sml_15.jpg" />
+               <texture name="smile_16" diffuse-map="sml_16.jpg" />
+               <texture name="smile_17" diffuse-map="sml_17.jpg" />
+               <texture name="smile_18" diffuse-map="sml_18.jpg" />
+               <texture name="smile_19" diffuse-map="sml_19.jpg" />
+               <texture name="smile_20" diffuse-map="sml_20.jpg" />
+               <texture name="smile_21" diffuse-map="sml_21.jpg" />
+               <texture name="smile_22" diffuse-map="sml_22.jpg" />
+               <texture name="smile_23" diffuse-map="sml_23.jpg" />
+               <texture name="smile_24" diffuse-map="sml_24.jpg" />
+           </mesh>
+       </prop>
+    </prop-group>
+</library>

@@ -1,0 +1,18 @@
+<library name="Island Test">
+	<prop-group name="Test Props">
+		<prop name="Test Level">
+			<mesh file="level.3ds"/>
+				<texture name="level" diffuse-map="level.jpg" />
+				<texture name="level2" diffuse-map="level2.jpg" />
+		</prop>
+		<!-- <prop name="Test Ground">
+			<mesh file="model.3ds"/>
+		</prop>
+		<prop name="Test Island">
+			<mesh file="flyland.3ds"/>
+		</prop>
+		<prop name="Hero">
+			<mesh file="hero.3ds"/>
+		</prop> -->
+	</prop-group>
+</library>

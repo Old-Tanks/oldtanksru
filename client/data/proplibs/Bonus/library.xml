@@ -1,0 +1,204 @@
+<library name="bonus">
+	<prop-group name="bonus">
+		<prop name="1_cry">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="1Kr.jpg" />
+			</mesh>
+		</prop>
+		<prop name="100_cry">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="100Kr.jpg" />
+			</mesh>
+		</prop>
+		<prop name="DD">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="DD.jpg" />
+			</mesh>
+		</prop>
+		<prop name="DA">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="DA.jpg" />
+			</mesh>
+		</prop>
+		<prop name="DS">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="DS.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Medkit">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="Medkit.jpg" />
+			</mesh>
+		</prop>
+		</prop-group>
+	<prop-group name="test">
+		<prop name="50_cry">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="50Kr.jpg" />
+					<texture name="50Kr_Cn" diffuse-map="50Kr_Cn.jpg" />
+					<texture name="excluded" diffuse-map="50Kr_Excluded.jpg" />
+			</mesh>
+		</prop>
+		<prop name="200_cry">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="200kr.jpg" />
+			</mesh>
+		</prop>
+		<prop name="1000_cry">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="1000Kr.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Euro2012">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="Euro2012.jpg" />
+			</mesh>
+		</prop>
+		</prop-group>
+	<prop-group name="old_bonus">
+		<prop name="1_cry">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="Old_KrBox.jpg" />
+			</mesh>
+		</prop>
+		<prop name="DD">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="Old_DD.jpg" />
+					<texture name="Old_DD2" diffuse-map="Old_DD2.jpg" />
+			</mesh>
+		</prop>
+		<prop name="DA">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="Older_DA.jpg" />
+			</mesh>
+		</prop>
+		<prop name="DS">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="Old_DS.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Medkit">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="Old_Medkit.jpg" />
+			</mesh>
+		</prop>
+		</prop-group>
+	<prop-group name="older_bonus">
+		<prop name="DD">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="Older_DD.jpg" />
+			</mesh>
+		</prop>
+		<prop name="DA">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="Older_DA.jpg" />
+			</mesh>
+		</prop>
+		<prop name="DS">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="Older_DS.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Medkit">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="Older_Medkit.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Repair">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="Older_Repair.jpg" />
+			</mesh>
+		</prop>
+		</prop-group>
+	<prop-group name="new_year_11_bonus">
+		<prop name="1_cry">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="1Kr_NewYear11.jpg" />
+					<texture name="excluded" diffuse-map="1Kr_NewYear11_Excluded.jpg" />
+			</mesh>
+		</prop>
+		<prop name="100_cry">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="100Kr_NewYear11.jpg" />
+			</mesh>
+		</prop>
+		<prop name="DD">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="DD_NewYear11.jpg" />
+					<texture name="excluded" diffuse-map="DD_NewYear11_Excluded.jpg" />
+			</mesh>
+		</prop>
+		<prop name="DA">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="DA_NewYear11.jpg" />
+					<texture name="excluded" diffuse-map="DA_NewYear11_Excluded.jpg" />
+			</mesh>
+		</prop>
+		<prop name="DS">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="DS_NewYear11.jpg" />
+					<texture name="excluded" diffuse-map="DS_NewYear11_Excluded.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Medkit">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="Medkit_NewYear11.jpg" />
+					<texture name="excluded" diffuse-map="Medkit_NewYear11_Excluded.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Random">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="Random.jpg" />
+			</mesh>
+		</prop>
+		</prop-group>
+	<prop-group name="new_year_12_bonus">
+		<prop name="1_cry">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="1Kr_NewYear12.jpg" />
+					<texture name="excluded" diffuse-map="1Kr_NewYear12_Excluded.jpg" />
+					<texture name="excluded2" diffuse-map="1Kr_NewYear12_Excluded2.jpg" />
+			</mesh>
+		</prop>
+		<prop name="2_cry">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="2Kr.jpg" />
+			</mesh>
+		</prop>
+		<prop name="100_cry">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="100Kr_NewYear12.jpg" />
+					<texture name="excluded" diffuse-map="100Kr_NewYear12_Excluded.jpg" />
+					<texture name="excluded2" diffuse-map="100Kr_NewYear12_Excluded2.jpg" />
+			</mesh>
+		</prop>
+		<prop name="DD">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="DD_NewYear12.jpg" />
+					<texture name="excluded" diffuse-map="DD_NewYear12_Excluded.jpg" />
+					<texture name="excluded2" diffuse-map="DD_NewYear12_Excluded2.jpg" />
+			</mesh>
+		</prop>
+		<prop name="DA">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="DA_NewYear12.jpg" />
+					<texture name="excluded" diffuse-map="DA_NewYear12_Excluded.jpg" />
+					<texture name="excluded2" diffuse-map="DA_NewYear12_Excluded2.jpg" />
+			</mesh>
+		</prop>
+		<prop name="DS">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="DS_NewYear12.jpg" />
+					<texture name="excluded" diffuse-map="DS_NewYear12_Excluded.jpg" />
+					<texture name="excluded2" diffuse-map="DS_NewYear12_Excluded2.jpg" />
+			</mesh>
+		</prop>
+		<prop name="Medkit">
+			<mesh file="drop.3ds">
+					<texture name="default" diffuse-map="Medkit_NewYear12.jpg" />
+					<texture name="excluded" diffuse-map="Medkit_NewYear12_Excluded.jpg" />
+					<texture name="excluded2" diffuse-map="Medkit_NewYear12_Excluded2.jpg" />
+			</mesh>
+		</prop>
+		</prop-group>
+</library>

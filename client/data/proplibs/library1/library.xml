@@ -1,0 +1,174 @@
+<library name="Library1">
+	<prop-group name="Spec">
+		<prop name="Bridge">
+				<mesh  file="bridge_01.3DS"/>
+		</prop>
+		<prop name="wall">
+				<mesh  file="slope_1.3DS">
+					<texture name="stone" diffuse-map="stone.jpg" />
+					<texture name="stone2" diffuse-map="stone2.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Rise">
+				<mesh  file="rise_01.3DS"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Tiles">
+		<prop name="Tile 01">
+				<mesh  file="tile_01.3DS">
+					<texture name="grass" diffuse-map="grass.jpg" />
+					<texture name="stone" diffuse-map="stone.jpg" />
+					<texture name="Grass To Stone 1" diffuse-map="g_s_h_4.jpg" />
+					<texture name="Grass To Stone 2" diffuse-map="g_s_h_3.jpg" />
+					<texture name="Grass To Stone 3" diffuse-map="g_s_h_2.jpg" />
+					<texture name="Grass To Stone 4" diffuse-map="g_s_h_1.jpg" />
+					<texture name="Stone To Grass q1" diffuse-map="s_g_4.jpg" />
+					<texture name="Stone To Grass q2" diffuse-map="s_g_3.jpg" />
+					<texture name="Stone To Grass q3" diffuse-map="s_g_2.jpg" />
+					<texture name="Stone To Grass q4" diffuse-map="s_g_1.jpg" />
+					<texture name="Grass To Stone q1" diffuse-map="g_s_4.jpg" />
+					<texture name="Grass To Stone q2" diffuse-map="g_s_3.jpg" />
+					<texture name="Grass To Stone q3" diffuse-map="g_s_2.jpg" />
+					<texture name="Grass To Stone q4" diffuse-map="g_s_1.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Tile 02">
+				<mesh  file="tile_02.3DS"/>
+		</prop>
+		<prop name="Tile 03">
+				<mesh  file="tile_03.3DS"/>
+		</prop>
+		<prop name="Tile 04">
+				<mesh  file="tile_04.3DS"/>
+		</prop>
+		<prop name="Tile 05">
+				<mesh  file="tile_05.3DS"/>
+		</prop>
+		<prop name="Tile 06">
+				<mesh  file="tile_06.3DS"/>
+		</prop>
+		<prop name="Tile 07">
+				<mesh  file="tile_07.3DS"/>
+		</prop>
+		<prop name="Tile 08">
+				<mesh  file="tile_08.3DS"/>
+		</prop>
+		<prop name="Tile 09">
+				<mesh  file="tile_09.3DS"/>
+		</prop>
+		<prop name="Tile 10">
+				<mesh  file="tile_10.3DS"/>
+		</prop>
+		<prop name="Tile 11">
+				<mesh  file="tile_11.3DS"/>
+		</prop>
+		<prop name="Tile 12">
+				<mesh  file="tile_12.3DS"/>
+		</prop>
+		<prop name="Tile 13">
+				<mesh  file="tile_13.3DS"/>
+		</prop>
+		<prop name="Tile 14">
+				<mesh  file="tile_14.3DS"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Estacades">
+		<prop name="Est">
+			<mesh file="est.3DS"/>
+		</prop>
+		<prop name="Est Rise">
+			<mesh file="est_rise.3DS"/>
+		</prop>
+		<prop name="Est Corner">
+			<mesh file="est_corner.3DS"/>
+		</prop>
+		<prop name="Est 3-Way">
+			<mesh file="est_3way.3DS"/>
+		</prop>
+		<prop name="Column Base">
+			<mesh file="column_base.3DS"/>
+		</prop>
+		<prop name="Column Rise Rise">
+			<mesh file="column_rise.3DS"/>
+		</prop>
+		<prop name="Column End">
+			<mesh file="column_end.3DS"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Builds">
+		<prop name="Build With Arch">
+			<mesh file="build_1_normal_lod0.3DS"/>
+		</prop>
+		<prop name="Build 2">
+			<mesh file="build_2_normal_lod0.3DS"/>
+		</prop>
+		<prop name="Build 3">
+			<mesh file="build_3_normal_lod0.3DS"/>
+		</prop>
+		<prop name="Build 4">
+			<mesh file="build_4_normal_lod0.3DS"/>
+		</prop>
+		<prop name="Build Clock">
+			<mesh file="build_clock.3DS"/>
+		</prop>
+		<prop name="Stella">
+			<mesh file="stella.3DS"/>
+		</prop>
+		<prop name="Garage">
+			<mesh file="garage.3DS"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Spawn Points">
+		<prop name="dm">
+			<mesh file="deathmatch_SP.3DS"/>
+		</prop>
+		<prop name="red">
+			<mesh file="team_red_SP.3DS"/>
+		</prop>
+		<prop name="blue">
+			<mesh file="team_blue_SP.3DS"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Sprites">
+		<prop name="Tree 1">
+			<sprite file="wood1.png" origin-y="0.8"/>
+		</prop>
+		<prop name="Bush 1">
+			<sprite file="bush1.png"/>
+		</prop>
+		<prop name="Bush 2">
+			<sprite file="bush2.png"/>
+		</prop>
+		<prop name="Ezh">
+			<sprite file="ezh.png"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Sprites2">
+		<prop name="Tree 1">
+			<sprite file="wood1.png" origin-y="0.8" scale="2"/>
+		</prop>
+		<prop name="Tree 2">
+			<sprite file="wood2.png" origin-y="0.8" scale="2"/>
+		</prop>
+		<prop name="Bush 1">
+			<sprite file="bush1.png" origin-y="0.8" scale="2"/>
+		</prop>
+		<prop name="Bush 2">
+			<sprite file="bush2.png" origin-y="0.8" scale="2"/>
+		</prop>
+		<prop name="Ezh">
+			<sprite file="ezh.png" origin-y="0.8" scale="2"/>
+		</prop>
+	</prop-group>
+	<prop-group name="Bonus Regions">
+		<prop name="bonus1">
+			<mesh file="bonus_1.3DS"/>
+		</prop>
+		<prop name="bonus2">
+			<mesh file="bonus_2.3DS"/>
+		</prop>
+		<prop name="bonus3">
+			<mesh file="bonus_3.3DS"/>
+		</prop>
+	</prop-group>
+</library>

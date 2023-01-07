@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Team Flagsnew">
+    <prop-group name="default">
+        <prop name="Stand_Blue">
+            <mesh file="fs_blue.3ds"/>
+        </prop>
+		<prop name="Stand_Red">
+            <mesh file="fs_red.3ds"/>
+		</prop>
+		<prop name="Flag_Blue">
+		     <sprite file="wfblue.png" origin-y="0.80" scale="1.6"/>
+		</prop>
+		<prop name="Flag_Red">
+		     <sprite file="wfred.png" origin-y="0.80" scale="1.6"/>
+		</prop>
+    </prop-group>
+</library>
