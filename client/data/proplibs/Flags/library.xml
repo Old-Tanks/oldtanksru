@@ -21,12 +21,12 @@
             </mesh>
         </prop>
 		<prop name="Flag Sprite Blue">
-		<sprite file="blue_flag_ny.gif" origin-y="0.99" scale="1.4"/>
+		<sprite file="blue_flag.png" origin-y="0.99" scale="1.4"/>
 
 		
 		</prop>
 		<prop name="Flag Sprite Red">
-		<sprite file="red_flag_ny.gif" origin-y="0.99" scale="1.4"/>
+		<sprite file="red_flag.png" origin-y="0.99" scale="1.4"/>
 		
 		</prop>
     </prop-group>
