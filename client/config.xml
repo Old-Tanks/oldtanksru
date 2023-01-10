@@ -1909,6 +1909,7 @@
 <map name="2013 С Новым Годом!" xml="NY 2013.xml" preview="NY 2013.jpg" winter="0"/>
 <map name="2018 С Новым Годом!" xml="NY 2018.xml" preview="NY 2018.jpg" winter="0"/>
 <map name="2019 С Новым Годом!" xml="NY 2019.xml" preview="NY 2019.jpg" winter="0"/>
+<map name="2021 С Новым Годом!" xml="NY 2021.xml" preview="NY 2021.jpg" winter="0"/>
 <map name="Mishin870" xml="Mishin870.xml" preview="Mishin870.jpg" winter="0"/-->
 <map name="2042" xml="2042.xml" preview="2042.jpg" winter="1"/>
 <map name="refmap" xml="refmap.xml" preview="refmap.jpg?v120" winter="0"/>
@@ -2032,6 +2033,8 @@
 <map name="Пьедестал" xml="Пьедестал.xml" preview="Пьедестал.jpg" winter="0"/>
 <map name="Развалины" xml="Руины.xml" preview="Руины.jpg" winter="0"/>
 <map name="Ред Алерт" xml="Ред Алерт.xml" preview="Ред Алерт.jpg" winter="1"/>
+<map name="Ринг" xml="Ринг.xml" preview="Ринг.jpg" winter="1"/>
+<map name="Рио" xml="Рио.xml" preview="Рио.jpg" winter="0"/>
 <!--map name="С новым годом!" xml="NY 2014.xml" preview="NY 2014.jpg" winter="0"/>
 <map name="С новым годом! 2016" xml="NY 2016.xml" preview="NY 2016.jpg" winter="0"/>
 <map name="С новым годом! (гонка)" xml="NY race.xml" preview="NY race.jpg" winter="0"/-->
@@ -2072,7 +2075,9 @@
 <map name="ХЕЛЛОУИН 2012" xml="halloween2012.xml" preview="halloween2012.jpg" winter="0"/>
 <map name="ХЕЛЛОУИН 2013" xml="halloween2013.xml" preview="halloween2013.jpg" winter="0"/>
 <map name="Хэллоуин 2014" xml="halloween2014.xml" preview="halloween2014.jpg" winter="0"/>
-<map name="Хэллоуин 2015" xml="halloween2015.xml" preview="halloween2015.jpg" winter="0"/-->
+<map name="Хэллоуин 2015" xml="halloween2015.xml" preview="halloween2015.jpg" winter="0"/>
+<map name="Хэллоуин 2020" xml="halloween2020.xml" preview="halloween2020.jpg" winter="0"/>
+<map name="Хэллоуин" xml="halloween.xml" preview="halloween.jpg" winter="0"/-->
 <map name="Чернобыль" xml="Чернобыль.xml" preview="Чернобыль.jpg" winter="1"/>
 <map name="Шоссе" xml="Шоссе.xml" preview="Шоссе.jpg" winter="1"/>
 <map name="Шум" xml="Шум.xml" preview="Шум.jpg" winter="1"/>
