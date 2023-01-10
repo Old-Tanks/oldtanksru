@@ -1915,9 +1915,11 @@
 <map name="Tankistograd" xml="Tankograd.xml" preview="Tankograd.jpg" winter="1"/>
 <map name="tanki" xml="tanki.xml" preview="tanki.jpg" winter="0"/>
 <map name="Ангары" xml="Ангары.xml" preview="Ангары.jpg" winter="1"/>
+<map name="Антарес" xml="Антарес.xml" preview="Антарес.jpg" winter="1"/>
 <map name="Арена" xml="Арена.xml" preview="Арена.jpg" winter="1"/>
 <map name="Арена II" xml="Арена II.xml" preview="Арена II.jpg" winter="0"/>
 <map name="Астрелла" xml="Астрелла.xml" preview="Астрелла.jpg" winter="0"/>
+<map name="Архипелаг ММ" xml="Архипелаг.xml" preview="Архипелаг.jpg" winter="1"/>
 <map name="Атра" xml="Атра.xml" preview="Атра.jpg" winter="1"/>
 <map name="Атра II" xml="Атра II.xml" preview="Атра II.jpg" winter="1"/>
 <map name="Атра III" xml="Атра III.xml" preview="Атра III.jpg" winter="1"/>
@@ -2051,6 +2053,7 @@
 <map name="Тишина" xml="Тишина.xml" preview="Тишина.jpg" winter="0"/>
 <map name="Тишина II" xml="Тишина II.xml" preview="Тишина II.jpg" winter="1"/>
 <map name="Тишина III" xml="Тишина III.xml" preview="Тишина III.jpg" winter="0"/>
+<map name="Тишина ММ" xml="Тишина ММ.xml" preview="Тишина ММ.jpg" winter="1"/>
 <map name="Трасса" xml="Трасса.xml" preview="Трасса.jpg" winter="0"/>
 <map name="Трек" xml="Трек.xml" preview="Трек.jpg" winter="1"/>
 <map name="Трек тест" xml="Трек тест.xml" preview="Трек тест.jpg" winter="0"/>
