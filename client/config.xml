@@ -1904,184 +1904,184 @@
 <image id="tank_explosion_explosion" url="explosion/explosion.png"/>
 </images>
 <maps>
-<!--map name="2011 С Новым Годом!" xml="NY 2011.xml" preview="NY 2011.jpg" winter="0"/>
-<map name="2012 С Новым Годом!" xml="NY 2012.xml" preview="NY 2012.jpg" winter="0"/>
-<map name="2013 С Новым Годом!" xml="NY 2013.xml" preview="NY 2013.jpg" winter="0"/>
-<map name="2018 С Новым Годом!" xml="NY 2018.xml" preview="NY 2018.jpg" winter="0"/>
-<map name="2019 С Новым Годом!" xml="NY 2019.xml" preview="NY 2019.jpg" winter="0"/>
-<map name="2021 С Новым Годом!" xml="NY 2021.xml" preview="NY 2021.jpg" winter="0"/>
-<map name="Mishin870" xml="Mishin870.xml" preview="Mishin870.jpg" winter="0"/-->
-<map name="2042" xml="2042.xml" preview="2042.jpg" winter="1"/>
-<map name="refmap" xml="refmap.xml" preview="refmap.jpg?v120" winter="0"/>
-<map name="Tankistograd" xml="Tankograd.xml" preview="Tankograd.jpg" winter="1"/>
-<map name="tanki" xml="tanki.xml" preview="tanki.jpg" winter="0"/>
-<map name="Ангары" xml="Ангары.xml" preview="Ангары.jpg" winter="1"/>
-<map name="Антарес" xml="Антарес.xml" preview="Антарес.jpg" winter="1"/>
-<map name="Арена" xml="Арена.xml" preview="Арена.jpg" winter="1"/>
-<map name="Арена II" xml="Арена II.xml" preview="Арена II.jpg" winter="0"/>
-<map name="Архипелаг ММ" xml="Архипелаг.xml" preview="Архипелаг.jpg" winter="0"/>
-<map name="Астрелла" xml="Астрелла.xml" preview="Астрелла.jpg" winter="0"/>
-<map name="Атра" xml="Атра.xml" preview="Атра.jpg" winter="1"/>
-<map name="Атра II" xml="Атра II.xml" preview="Атра II.jpg" winter="1"/>
-<map name="Атра III" xml="Атра III.xml" preview="Атра III.jpg" winter="1"/>
-<map name="Барда" xml="Барда.xml" preview="Барда.jpg" winter="1"/>
-<map name="Барда 2.0" xml="Барда 2.xml" preview="Барда 2.jpg" winter="0"/>
-<map name="Бастион" xml="Бастион.xml" preview="Бастион.jpg" winter="1"/>
-<map name="Бастион (новая графика)" xml="Бастион (новая графика).xml" preview="Бастион (новая графика).jpg" winter="0"/>
-<map name="Бездна" xml="Бездна.xml" preview="Бездна.jpg" winter="0"/>
-<map name="Безумие" xml="Безумие.xml" preview="Безумие.jpg" winter="0"/>
-<map name="Безумие (космос)" xml="Безумие (космос).xml" preview="Безумие (космос).jpg" winter="0"/>
-<map name="Берлин" xml="Берлин.xml" preview="Берлин.jpg" winter="1"/>
-<map name="Бобруйск" xml="Бобруйск.xml" preview="Бобруйск.jpg" winter="1"/>
-<map name="Бойня" xml="Бойня.xml" preview="Бойня.jpg" winter="1"/>
-<map name="Брест" xml="Брест.xml" preview="Брест.jpg" winter="1"/>
-<map name="Брест II" xml="Брест II.xml" preview="Брест II.jpg" winter="1"/>
-<map name="Брянцев" xml="Брянцев.xml" preview="Брянцев.jpg" winter="0"/>
-<map name="Бумбокс" xml="Бумбокс.xml" preview="Бумбокс.jpg" winter="1"/>
-<map name="Бумбокс 2.0" xml="Бумбокс 2.xml" preview="Бумбокс 2.jpg" winter="0"/>
-<map name="Вавилон" xml="Вавилон.xml" preview="Вавилон.jpg" winter="1"/>
-<map name="Вокзал" xml="Вокзал.xml" preview="Вокзал.jpg" winter="1"/>
-<map name="Волна" xml="Волна.xml" preview="Волна.jpg" winter="1"/>
-<map name="Вольфенштейн" xml="Вольфенштейн.xml" preview="Вольфенштейн.jpg" winter="1"/>
-<map name="Ворон" xml="Ворон.xml" preview="Ворон.jpg" winter="0"/>
-<map name="Галерея (новая графика)" xml="Галерея (новая графика).xml" preview="Галерея (новая графика).jpg" winter="0"/>
-<map name="Гардер" xml="Гардер.xml" preview="Гардер.jpg" winter="0"/>
-<map name="Гладиатор" xml="Гладиатор.xml" preview="Гладиатор.jpg" winter="1"/>
-<map name="Гонка" xml="Гонка.xml" preview="Гонка.jpg" winter="0"/>
-<map name="Гора" xml="Гора.xml" preview="Гора.jpg" winter="0"/>
-<map name="Гравити" xml="Гравити.xml" preview="Гравити.jpg" winter="1"/>
-<map name="Губаха" xml="Губаха.xml" preview="Губаха.jpg" winter="1"/>
-<map name="Депо (новая графика)" xml="Депо (новая графика).xml" preview="Депо (новая графика).jpg" winter="0"/>
-<map name="Долина" xml="Долина.xml" preview="Долина.jpg" winter="1"/>
-<map name="Дуалити" xml="Дуалити.xml" preview="Дуалити.jpg" winter="1"/>
-<map name="Дуст" xml="Дуст.xml" preview="Дуст.jpg" winter="0"/>
-<map name="Дуэль" xml="Дуэль.xml" preview="Дуэль.jpg" winter="1"/>
-<map name="Дюссельдорф" xml="Дюссельдорф.xml" preview="Дюссельдорф.jpg" winter="1"/>
-<map name="Дюссельдорф 2.0" xml="Дюссельдорф 2.xml" preview="Дюссельдорф 2.jpg" winter="0"/>
-<map name="Жаворонки" xml="Жаворонки.xml" preview="Жаворонки.jpg" winter="1"/>
-<map name="Зона" xml="Зона.xml" preview="Зона.jpg" winter="1"/>
-<map name="Иран" xml="Иран.xml" preview="Иран.jpg" winter="1"/>
-<map name="Каньон" xml="Каньон.xml" preview="Каньон.jpg" winter="1"/>
-<map name="Карта" xml="Карта.xml" preview="Карта.jpg" winter="0"/>
-<map name="Карта II" xml="Карта II.xml" preview="Карта II.jpg" winter="0"/>
-<map name="Карта III" xml="Карта III.xml" preview="Карта III.jpg" winter="0"/>
-<map name="Карта IV" xml="Карта IV.xml" preview="Карта IV.jpg" winter="0"/>
-<map name="Карусель" xml="Карусель.xml" preview="Карусель.jpg" winter="0"/>
-<map name="Кёнигсберг" xml="Кёнигсберг.xml" preview="Кёнигсберг.jpg" winter="0"/>
-<map name="Киберспорт" xml="Киберспорт.xml" preview="Киберспорт.jpg" winter="0"/>
-<map name="Киберспорт II" xml="Киберспорт II.xml" preview="Киберспорт II.jpg" winter="1"/>
-<map name="Колхоз" xml="Колхоз.xml" preview="Колхоз.jpg" winter="1"/>
-<map name="Контейнеры" xml="Контейнеры.xml" preview="Контейнеры.jpg" winter="0"/>
-<map name="Королевство" xml="Королевство.xml" preview="Королевство.jpg" winter="0"/>
-<map name="Кунгур" xml="Кунгур.xml" preview="Кунгур.jpg" winter="1"/>
-<map name="Кунгур 2.0" xml="Кунгур 2.xml" preview="Кунгур 2.jpg" winter="0"/>
-<map name="Кураж" xml="Кураж.xml" preview="Кураж.jpg" winter="1"/>
-<map name="Крест" xml="Крест.xml" preview="Крест.jpg" winter="0"/>
-<map name="Крушение" xml="Крушение.xml" preview="Крушение.jpg" winter="0"/>
-<map name="Крушение II" xml="Крушение II.xml" preview="Крушение II.jpg" winter="0"/>
-<map name="Крушение (новая графика)" xml="Крушение (новая графика).xml" preview="Крушение (новая графика).jpg" winter="0"/>
-<map name="Лабиринт" xml="Лабиринт.xml" preview="Лабиринт.jpg" winter="0"/>
-<map name="Лагерь" xml="Лагерь.xml" preview="Лагерь.jpg" winter="1"/>
-<map name="Лунная тишина" xml="Лунная тишина.xml" preview="Лунная тишина.jpg" winter="0"/>
-<!--map name="Лунное Рио" xml="Лунное Рио.xml" preview="Лунное Рио.jpg" winter="0"/-->
-<map name="Магадан" xml="Магадан.xml" preview="Магадан.jpg" winter="1"/>
-<map name="Магистраль" xml="Магистраль.xml" preview="Магистраль.jpg" winter="1"/>
-<map name="МегаПропс" xml="Megaprops.xml" preview="Megaprops.jpg" winter="0"/>
-<map name="Мини Брест" xml="Мини Брест.xml" preview="Мини Брест.jpg" winter="0"/>
-<map name="Молотов" xml="Молотов.xml" preview="Молотов.jpg" winter="1"/>
-<map name="Молотов II" xml="Молотов II.xml" preview="Молотов II.jpg" winter="0"/>
-<map name="Монте-Карло" xml="Монте-Карло.xml" preview="Монте-Карло.jpg" winter="1"/>
-<map name="Мостик" xml="Мостик.xml" preview="Мостик.jpg" winter="1"/>
-<map name="Мостик 2.0" xml="Мостик 2.xml" preview="Мостик 2.jpg" winter="0"/>
-<map name="Мосты" xml="Мосты.xml" preview="Мосты.jpg" winter="1"/>
-<map name="Наследие" xml="Наследие.xml" preview="Наследие.jpg" winter="0"/>
-<map name="Наследие (новая графика)" xml="Наследие (новая графика).xml" preview="Наследие (новая графика).jpg" winter="0"/>
-<map name="Новая песочница" xml="Новая песочница.xml" preview="Новая песочница.jpg" winter="0"/>
-<map name="Новые Детали" xml="Новые Детали.xml" preview="Новые Детали.jpg" winter="0"/>
-<map name="Новые Пропы" xml="Новые Пропы.xml" preview="Новые Пропы.jpg" winter="0"/>
-<map name="Новый Кунгур" xml="Новый кунгур.xml" preview="Новый кунгур.jpg" winter="0"/>
-<map name="Новый Трибьют" xml="Новый Трибьют.xml" preview="Новый Трибьют.jpg" winter="0"/>
-<map name="Новый формат" xml="Новый формат.xml" preview="Новый формат.jpg" winter="0"/>
-<map name="Новэл" xml="Новэл.xml" preview="Новэл.jpg" winter="1"/>
-<map name="Овраг" xml="Овраг.xml" preview="Овраг.jpg" winter="1"/>
-<map name="Оса" xml="Оса.xml" preview="Оса.jpg" winter="1"/>
-<map name="Осада" xml="Осада.xml" preview="Осада.jpg" winter="1"/>
-<map name="Остров" xml="Остров.xml" preview="Остров.jpg" winter="1"/>
-<map name="Остров CTF" xml="Остров CTF.xml" preview="Остров CTF.jpg" winter="0"/>
-<map name="Пак" xml="Пак.xml" preview="Пак.jpg" winter="0"/>
-<map name="Палуба-9" xml="Палуба-9.xml" preview="Палуба-9.jpg" winter="1"/>
-<map name="Парма" xml="Парма.xml" preview="Парма.jpg" winter="1"/>
-<map name="Перевал" xml="Перевал.xml" preview="Перевал.jpg" winter="1"/>
-<map name="Перекрёсток" xml="Перекрёсток.xml" preview="Перекрёсток.jpg" winter="1"/>
-<map name="Персия" xml="Персия.xml" preview="Персия.jpg" winter="0"/>
-<map name="Песочница" xml="Песочница.xml" preview="Песочница.jpg" winter="1"/>
-<map name="Песочница 2.0" xml="Песочница 2.xml" preview="Песочница 2.jpg" winter="0"/>
-<map name="Пещеры" xml="Пещеры.xml" preview="Пещеры.jpg" winter="0"/>
-<map name="Пинг-Понг" xml="Пинг-Понг.xml" preview="Пинг-Понг.jpg" winter="1"/>
-<map name="Плато" xml="Плато.xml" preview="Плато.jpg" winter="1"/>
-<map name="Плато II" xml="Плато II.xml" preview="Плато II.jpg" winter="1"/>
-<map name="Платформа (новая графика)" xml="Платформа (новая графика).xml" preview="Платформа (новая графика).jpg" winter="0"/>
-<map name="Подземка" xml="Подземка.xml" preview="Подземка.jpg" winter="1"/>
-<map name="Позиция" xml="Позиция.xml" preview="Позиция.jpg" winter="1"/>
-<map name="Полигон" xml="Полигон.xml" preview="Полигон.jpg" winter="1"/>
-<map name="Полигон CTF" xml="Полигон CTF.xml" preview="Полигон CTF.jpg" winter="1"/>
-<map name="Порт" xml="Порт.xml" preview="Порт.jpg" winter="0"/>
-<map name="Промзона" xml="Промзона.xml" preview="Промзона.jpg" winter="1"/>
-<map name="Простор" xml="Простор.xml" preview="Простор.jpg" winter="1"/>
-<map name="Противостояние" xml="Противостояние.xml" preview="Противостояние.jpg" winter="1"/>
-<map name="Пустыня" xml="Пустыня.xml" preview="Пустыня.jpg" winter="0"/>
-<map name="Пьедестал" xml="Пьедестал.xml" preview="Пьедестал.jpg" winter="0"/>
-<map name="Развалины" xml="Руины.xml" preview="Руины.jpg" winter="0"/>
-<map name="Ред Алерт" xml="Ред Алерт.xml" preview="Ред Алерт.jpg" winter="1"/>
-<map name="Ринг" xml="Ринг.xml" preview="Ринг.jpg" winter="1"/>
-<map name="Рио" xml="Рио.xml" preview="Рио.jpg" winter="0"/>
-<!--map name="С новым годом!" xml="NY 2014.xml" preview="NY 2014.jpg" winter="0"/>
-<map name="С новым годом! 2016" xml="NY 2016.xml" preview="NY 2016.jpg" winter="0"/>
-<map name="С новым годом! (гонка)" xml="NY race.xml" preview="NY race.jpg" winter="0"/-->
-<map name="Сандал" xml="Сандал.xml" preview="Сандал.jpg" winter="1"/>
-<map name="Сандал 2.0" xml="Сандал 2.xml" preview="Сандал 2.jpg" winter="0"/>
-<map name="Серпухов" xml="Серпухов.xml" preview="Серпухов.jpg" winter="1"/>
-<map name="Соликамск" xml="Соликамск.xml" preview="Соликамск.jpg" winter="1"/>
-<map name="Стадион" xml="Стадион.xml" preview="Стадион.jpg" winter="1"/>
-<map name="Станция" xml="Станция.xml" preview="Станция.jpg" winter="1"/>
-<map name="Старая тишина" xml="Старая тишина.xml" preview="Старая тишина.jpg" winter="1"/>
-<map name="Старое Безумие" xml="Старое Безумие.xml" preview="Старое Безумие.jpg" winter="0"/>
-<map name="Старое Монте-Карло" xml="Старое Монте-Карло.xml" preview="Старое Монте-Карло.jpg" winter="0"/>
-<map name="Тестирование полёта" xml="Тестирование полёта.xml" preview="Тестирование полёта.jpg" winter="0"/>
-<map name="Тестовая карта" xml="Тестовая карта.xml" preview="Тестовая карта.jpg" winter="0"/>
-<map name="Тестовый полигон" xml="Тестовый полигон.xml" preview="Тестовый полигон.jpg" winter="0"/>
-<map name="Тестовый полигон II" xml="Тестовый полигон II.xml" preview="Тестовый полигон II.jpg" winter="0"/>
-<map name="Тестовый полигон III" xml="Тестовый полигон III.xml" preview="Тестовый полигон III.jpg" winter="0"/>
-<map name="Тестовый полигон IV" xml="Тестовый полигон IV.xml" preview="Тестовый полигон IV.jpg" winter="0"/>
-<map name="Тишина" xml="Тишина.xml" preview="Тишина.jpg" winter="0"/>
-<map name="Тишина II" xml="Тишина II.xml" preview="Тишина II.jpg" winter="1"/>
-<map name="Тишина III" xml="Тишина III.xml" preview="Тишина III.jpg" winter="0"/>
-<map name="Тишина ММ" xml="Тишина ММ.xml" preview="Тишина ММ.jpg" winter="1"/>
-<map name="Трасса" xml="Трасса.xml" preview="Трасса.jpg" winter="0"/>
-<map name="Трек" xml="Трек.xml" preview="Трек.jpg" winter="1"/>
-<map name="Трек тест" xml="Трек тест.xml" preview="Трек тест.jpg" winter="0"/>
-<map name="Трибьют" xml="Трибьют.xml" preview="Трибьют.jpg" winter="1"/>
-<map name="Трибьют 2.0" xml="Трибьют 2.xml" preview="Трибьют 2.jpg" winter="0"/>
-<map name="Тэмпл" xml="Тэмпл.xml" preview="Тэмпл.jpg" winter="1"/>
-<map name="ТЭЦ" xml="ТЭЦ.xml" preview="ТЭЦ.jpg" winter="0"/>
-<map name="Ущелье" xml="Ущелье.xml" preview="Ущелье.jpg" winter="0"/>
-<map name="Ферма" xml="Ферма.xml" preview="Ферма.jpg" winter="1"/>
-<map name="Форест" xml="Форест.xml" preview="Форест.jpg" winter="1"/>
-<map name="Форт Нокс" xml="Форт Нокс.xml" preview="Форт Нокс.jpg" winter="1"/>
-<map name="Форт Нокс II" xml="Форт Нокс II.xml" preview="Форт Нокс II.jpg" winter="1"/>
-<map name="Форт Нокс III" xml="Форт Нокс III.xml" preview="Форт Нокс III.jpg" winter="0"/>
-<map name="Холм" xml="Холм.xml" preview="Холм.jpg" winter="0"/>
-<!--map name="ХЕЛЛОУИН" xml="halloween2017.xml" preview="halloween2017.jpg" winter="0"/>
-<map name="ХЕЛЛОУИН 2012" xml="halloween2012.xml" preview="halloween2012.jpg" winter="0"/>
-<map name="ХЕЛЛОУИН 2013" xml="halloween2013.xml" preview="halloween2013.jpg" winter="0"/>
-<map name="Хэллоуин 2014" xml="halloween2014.xml" preview="halloween2014.jpg" winter="0"/>
-<map name="Хэллоуин 2015" xml="halloween2015.xml" preview="halloween2015.jpg" winter="0"/>
-<map name="Хэллоуин 2020" xml="halloween2020.xml" preview="halloween2020.jpg" winter="0"/>
-<map name="Хэллоуин" xml="halloween.xml" preview="halloween.jpg" winter="0"/-->
-<map name="Чернобыль" xml="Чернобыль.xml" preview="Чернобыль.jpg" winter="1"/>
-<map name="Шоссе" xml="Шоссе.xml" preview="Шоссе.jpg" winter="1"/>
-<map name="Шум" xml="Шум.xml" preview="Шум.jpg" winter="1"/>
-<map name="Эспланада" xml="Эспланада.xml" preview="Эспланада.jpg" winter="0"/>
+<!--map name="2011 С Новым Годом!" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY 2011.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY 2011.jpg" winter="0"/>
+<map name="2012 С Новым Годом!" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY 2012.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY 2012.jpg" winter="0"/>
+<map name="2013 С Новым Годом!" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY 2013.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY 2013.jpg" winter="0"/>
+<map name="2018 С Новым Годом!" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY 2018.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY 2018.jpg" winter="0"/>
+<map name="2019 С Новым Годом!" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY 2019.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY 2019.jpg" winter="0"/>
+<map name="2021 С Новым Годом!" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY 2021.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY 2021.jpg" winter="0"/>
+<map name="Mishin870" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Mishin870.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Mishin870.jpg" winter="0"/-->
+<map name="2042" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/2042.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/2042.jpg" winter="1"/>
+<map name="refmap" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/refmap.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/refmap.jpg?v120" winter="0"/>
+<map name="Tankistograd" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Tankograd.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Tankograd.jpg" winter="1"/>
+<map name="tanki" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/tanki.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/tanki.jpg" winter="0"/>
+<map name="Ангары" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Ангары.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Ангары.jpg" winter="1"/>
+<map name="Антарес" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Антарес.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Антарес.jpg" winter="1"/>
+<map name="Арена" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Арена.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Арена.jpg" winter="1"/>
+<map name="Арена II" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Арена II.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Арена II.jpg" winter="0"/>
+<map name="Архипелаг ММ" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Архипелаг.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Архипелаг.jpg" winter="0"/>
+<map name="Астрелла" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Астрелла.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Астрелла.jpg" winter="0"/>
+<map name="Атра" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Атра.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Атра.jpg" winter="1"/>
+<map name="Атра II" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Атра II.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Атра II.jpg" winter="1"/>
+<map name="Атра III" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Атра III.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Атра III.jpg" winter="1"/>
+<map name="Барда" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Барда.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Барда.jpg" winter="1"/>
+<map name="Барда 2.0" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Барда 2.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Барда 2.jpg" winter="0"/>
+<map name="Бастион" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Бастион.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Бастион.jpg" winter="1"/>
+<map name="Бастион (новая графика)" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Бастион (новая графика).xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Бастион (новая графика).jpg" winter="0"/>
+<map name="Бездна" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Бездна.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Бездна.jpg" winter="0"/>
+<map name="Безумие" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Безумие.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Безумие.jpg" winter="0"/>
+<map name="Безумие (космос)" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Безумие (космос).xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Безумие (космос).jpg" winter="0"/>
+<map name="Берлин" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Берлин.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Берлин.jpg" winter="1"/>
+<map name="Бобруйск" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Бобруйск.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Бобруйск.jpg" winter="1"/>
+<map name="Бойня" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Бойня.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Бойня.jpg" winter="1"/>
+<map name="Брест" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Брест.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Брест.jpg" winter="1"/>
+<map name="Брест II" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Брест II.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Брест II.jpg" winter="1"/>
+<map name="Брянцев" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Брянцев.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Брянцев.jpg" winter="0"/>
+<map name="Бумбокс" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Бумбокс.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Бумбокс.jpg" winter="1"/>
+<map name="Бумбокс 2.0" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Бумбокс 2.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Бумбокс 2.jpg" winter="0"/>
+<map name="Вавилон" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Вавилон.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Вавилон.jpg" winter="1"/>
+<map name="Вокзал" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Вокзал.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Вокзал.jpg" winter="1"/>
+<map name="Волна" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Волна.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Волна.jpg" winter="1"/>
+<map name="Вольфенштейн" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Вольфенштейн.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Вольфенштейн.jpg" winter="1"/>
+<map name="Ворон" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Ворон.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Ворон.jpg" winter="0"/>
+<map name="Галерея (новая графика)" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Галерея (новая графика).xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Галерея (новая графика).jpg" winter="0"/>
+<map name="Гардер" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Гардер.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Гардер.jpg" winter="0"/>
+<map name="Гладиатор" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Гладиатор.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Гладиатор.jpg" winter="1"/>
+<map name="Гонка" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Гонка.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Гонка.jpg" winter="0"/>
+<map name="Гора" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Гора.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Гора.jpg" winter="0"/>
+<map name="Гравити" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Гравити.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Гравити.jpg" winter="1"/>
+<map name="Губаха" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Губаха.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Губаха.jpg" winter="1"/>
+<map name="Депо (новая графика)" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Депо (новая графика).xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Депо (новая графика).jpg" winter="0"/>
+<map name="Долина" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Долина.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Долина.jpg" winter="1"/>
+<map name="Дуалити" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Дуалити.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Дуалити.jpg" winter="1"/>
+<map name="Дуст" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Дуст.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Дуст.jpg" winter="0"/>
+<map name="Дуэль" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Дуэль.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Дуэль.jpg" winter="1"/>
+<map name="Дюссельдорф" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Дюссельдорф.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Дюссельдорф.jpg" winter="1"/>
+<map name="Дюссельдорф 2.0" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Дюссельдорф 2.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Дюссельдорф 2.jpg" winter="0"/>
+<map name="Жаворонки" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Жаворонки.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Жаворонки.jpg" winter="1"/>
+<map name="Зона" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Зона.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Зона.jpg" winter="1"/>
+<map name="Иран" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Иран.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Иран.jpg" winter="1"/>
+<map name="Каньон" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Каньон.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Каньон.jpg" winter="1"/>
+<map name="Карта" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Карта.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Карта.jpg" winter="0"/>
+<map name="Карта II" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Карта II.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Карта II.jpg" winter="0"/>
+<map name="Карта III" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Карта III.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Карта III.jpg" winter="0"/>
+<map name="Карта IV" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Карта IV.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Карта IV.jpg" winter="0"/>
+<map name="Карусель" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Карусель.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Карусель.jpg" winter="0"/>
+<map name="Кёнигсберг" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Кёнигсберг.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Кёнигсберг.jpg" winter="0"/>
+<map name="Киберспорт" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Киберспорт.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Киберспорт.jpg" winter="0"/>
+<map name="Киберспорт II" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Киберспорт II.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Киберспорт II.jpg" winter="1"/>
+<map name="Колхоз" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Колхоз.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Колхоз.jpg" winter="1"/>
+<map name="Контейнеры" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Контейнеры.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Контейнеры.jpg" winter="0"/>
+<map name="Королевство" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Королевство.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Королевство.jpg" winter="0"/>
+<map name="Кунгур" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Кунгур.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Кунгур.jpg" winter="1"/>
+<map name="Кунгур 2.0" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Кунгур 2.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Кунгур 2.jpg" winter="0"/>
+<map name="Кураж" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Кураж.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Кураж.jpg" winter="1"/>
+<map name="Крест" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Крест.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Крест.jpg" winter="0"/>
+<map name="Крушение" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Крушение.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Крушение.jpg" winter="0"/>
+<map name="Крушение II" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Крушение II.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Крушение II.jpg" winter="0"/>
+<map name="Крушение (новая графика)" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Крушение (новая графика).xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Крушение (новая графика).jpg" winter="0"/>
+<map name="Лабиринт" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Лабиринт.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Лабиринт.jpg" winter="0"/>
+<map name="Лагерь" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Лагерь.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Лагерь.jpg" winter="1"/>
+<map name="Лунная тишина" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Лунная тишина.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Лунная тишина.jpg" winter="0"/>
+<!--map name="Лунное Рио" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Лунное Рио.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Лунное Рио.jpg" winter="0"/-->
+<map name="Магадан" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Магадан.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Магадан.jpg" winter="1"/>
+<map name="Магистраль" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Магистраль.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Магистраль.jpg" winter="1"/>
+<map name="МегаПропс" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Megaprops.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Megaprops.jpg" winter="0"/>
+<map name="Мини Брест" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Мини Брест.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Мини Брест.jpg" winter="0"/>
+<map name="Молотов" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Молотов.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Молотов.jpg" winter="1"/>
+<map name="Молотов II" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Молотов II.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Молотов II.jpg" winter="0"/>
+<map name="Монте-Карло" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Монте-Карло.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Монте-Карло.jpg" winter="1"/>
+<map name="Мостик" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Мостик.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Мостик.jpg" winter="1"/>
+<map name="Мостик 2.0" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Мостик 2.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Мостик 2.jpg" winter="0"/>
+<map name="Мосты" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Мосты.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Мосты.jpg" winter="1"/>
+<map name="Наследие" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Наследие.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Наследие.jpg" winter="0"/>
+<map name="Наследие (новая графика)" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Наследие (новая графика).xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Наследие (новая графика).jpg" winter="0"/>
+<map name="Новая песочница" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Новая песочница.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Новая песочница.jpg" winter="0"/>
+<map name="Новые Детали" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Новые Детали.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Новые Детали.jpg" winter="0"/>
+<map name="Новые Пропы" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Новые Пропы.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Новые Пропы.jpg" winter="0"/>
+<map name="Новый Кунгур" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Новый кунгур.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Новый кунгур.jpg" winter="0"/>
+<map name="Новый Трибьют" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Новый Трибьют.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Новый Трибьют.jpg" winter="0"/>
+<map name="Новый формат" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Новый формат.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Новый формат.jpg" winter="0"/>
+<map name="Новэл" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Новэл.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Новэл.jpg" winter="1"/>
+<map name="Овраг" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Овраг.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Овраг.jpg" winter="1"/>
+<map name="Оса" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Оса.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Оса.jpg" winter="1"/>
+<map name="Осада" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Осада.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Осада.jpg" winter="1"/>
+<map name="Остров" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Остров.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Остров.jpg" winter="1"/>
+<map name="Остров CTF" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Остров CTF.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Остров CTF.jpg" winter="0"/>
+<map name="Пак" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Пак.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Пак.jpg" winter="0"/>
+<map name="Палуба-9" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Палуба-9.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Палуба-9.jpg" winter="1"/>
+<map name="Парма" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Парма.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Парма.jpg" winter="1"/>
+<map name="Перевал" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Перевал.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Перевал.jpg" winter="1"/>
+<map name="Перекрёсток" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Перекрёсток.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Перекрёсток.jpg" winter="1"/>
+<map name="Персия" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Персия.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Персия.jpg" winter="0"/>
+<map name="Песочница" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Песочница.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Песочница.jpg" winter="1"/>
+<map name="Песочница 2.0" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Песочница 2.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Песочница 2.jpg" winter="0"/>
+<map name="Пещеры" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Пещеры.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Пещеры.jpg" winter="0"/>
+<map name="Пинг-Понг" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Пинг-Понг.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Пинг-Понг.jpg" winter="1"/>
+<map name="Плато" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Плато.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Плато.jpg" winter="1"/>
+<map name="Плато II" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Плато II.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Плато II.jpg" winter="1"/>
+<map name="Платформа (новая графика)" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Платформа (новая графика).xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Платформа (новая графика).jpg" winter="0"/>
+<map name="Подземка" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Подземка.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Подземка.jpg" winter="1"/>
+<map name="Позиция" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Позиция.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Позиция.jpg" winter="1"/>
+<map name="Полигон" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Полигон.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Полигон.jpg" winter="1"/>
+<map name="Полигон CTF" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Полигон CTF.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Полигон CTF.jpg" winter="1"/>
+<map name="Порт" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Порт.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Порт.jpg" winter="0"/>
+<map name="Промзона" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Промзона.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Промзона.jpg" winter="1"/>
+<map name="Простор" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Простор.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Простор.jpg" winter="1"/>
+<map name="Противостояние" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Противостояние.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Противостояние.jpg" winter="1"/>
+<map name="Пустыня" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Пустыня.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Пустыня.jpg" winter="0"/>
+<map name="Пьедестал" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Пьедестал.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Пьедестал.jpg" winter="0"/>
+<map name="Развалины" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Руины.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Руины.jpg" winter="0"/>
+<map name="Ред Алерт" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Ред Алерт.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Ред Алерт.jpg" winter="1"/>
+<map name="Ринг" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Ринг.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Ринг.jpg" winter="1"/>
+<map name="Рио" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Рио.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Рио.jpg" winter="0"/>
+<!--map name="С новым годом!" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY 2014.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY 2014.jpg" winter="0"/>
+<map name="С новым годом! 2016" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY 2016.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY 2016.jpg" winter="0"/>
+<map name="С новым годом! (гонка)" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY race.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/NY race.jpg" winter="0"/-->
+<map name="Сандал" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Сандал.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Сандал.jpg" winter="1"/>
+<map name="Сандал 2.0" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Сандал 2.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Сандал 2.jpg" winter="0"/>
+<map name="Серпухов" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Серпухов.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Серпухов.jpg" winter="1"/>
+<map name="Соликамск" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Соликамск.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Соликамск.jpg" winter="1"/>
+<map name="Стадион" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Стадион.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Стадион.jpg" winter="1"/>
+<map name="Станция" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Станция.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Станция.jpg" winter="1"/>
+<map name="Старая тишина" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Старая тишина.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Старая тишина.jpg" winter="1"/>
+<map name="Старое Безумие" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Старое Безумие.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Старое Безумие.jpg" winter="0"/>
+<map name="Старое Монте-Карло" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Старое Монте-Карло.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Старое Монте-Карло.jpg" winter="0"/>
+<map name="Тестирование полёта" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тестирование полёта.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тестирование полёта.jpg" winter="0"/>
+<map name="Тестовая карта" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тестовая карта.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тестовая карта.jpg" winter="0"/>
+<map name="Тестовый полигон" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тестовый полигон.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тестовый полигон.jpg" winter="0"/>
+<map name="Тестовый полигон II" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тестовый полигон II.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тестовый полигон II.jpg" winter="0"/>
+<map name="Тестовый полигон III" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тестовый полигон III.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тестовый полигон III.jpg" winter="0"/>
+<map name="Тестовый полигон IV" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тестовый полигон IV.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тестовый полигон IV.jpg" winter="0"/>
+<map name="Тишина" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тишина.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тишина.jpg" winter="0"/>
+<map name="Тишина II" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тишина II.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тишина II.jpg" winter="1"/>
+<map name="Тишина III" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тишина III.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тишина III.jpg" winter="0"/>
+<map name="Тишина ММ" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тишина ММ.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тишина ММ.jpg" winter="1"/>
+<map name="Трасса" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Трасса.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Трасса.jpg" winter="0"/>
+<map name="Трек" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Трек.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Трек.jpg" winter="1"/>
+<map name="Трек тест" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Трек тест.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Трек тест.jpg" winter="0"/>
+<map name="Трибьют" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Трибьют.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Трибьют.jpg" winter="1"/>
+<map name="Трибьют 2.0" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Трибьют 2.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Трибьют 2.jpg" winter="0"/>
+<map name="Тэмпл" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тэмпл.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Тэмпл.jpg" winter="1"/>
+<map name="ТЭЦ" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/ТЭЦ.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/ТЭЦ.jpg" winter="0"/>
+<map name="Ущелье" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Ущелье.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Ущелье.jpg" winter="0"/>
+<map name="Ферма" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Ферма.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Ферма.jpg" winter="1"/>
+<map name="Форест" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Форест.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Форест.jpg" winter="1"/>
+<map name="Форт Нокс" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Форт Нокс.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Форт Нокс.jpg" winter="1"/>
+<map name="Форт Нокс II" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Форт Нокс II.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Форт Нокс II.jpg" winter="1"/>
+<map name="Форт Нокс III" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Форт Нокс III.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Форт Нокс III.jpg" winter="0"/>
+<map name="Холм" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Холм.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Холм.jpg" winter="0"/>
+<!--map name="ХЕЛЛОУИН" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/halloween2017.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/halloween2017.jpg" winter="0"/>
+<map name="ХЕЛЛОУИН 2012" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/halloween2012.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/halloween2012.jpg" winter="0"/>
+<map name="ХЕЛЛОУИН 2013" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/halloween2013.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/halloween2013.jpg" winter="0"/>
+<map name="Хэллоуин 2014" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/halloween2014.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/halloween2014.jpg" winter="0"/>
+<map name="Хэллоуин 2015" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/halloween2015.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/halloween2015.jpg" winter="0"/>
+<map name="Хэллоуин 2020" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/halloween2020.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/halloween2020.jpg" winter="0"/>
+<map name="Хэллоуин" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/halloween.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/halloween.jpg" winter="0"/-->
+<map name="Чернобыль" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Чернобыль.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Чернобыль.jpg" winter="1"/>
+<map name="Шоссе" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Шоссе.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Шоссе.jpg" winter="1"/>
+<map name="Шум" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Шум.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Шум.jpg" winter="1"/>
+<map name="Эспланада" xml="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Эспланада.xml" preview="https://old-tanks.github.io/oldtanksru/client/data/maps/Лето/Эспланада.jpg" winter="0"/>
 </maps>
 <!--settings ip="26.180.218.107" port="5482"/-->
 <weapons>
