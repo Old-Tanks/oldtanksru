@@ -1,6 +1,6 @@
-﻿﻿<config>
-	<!--settings ip="127.0.0.1" port="5482"/-->
+﻿<config>
 	<settings ip="127.0.0.1" port="5482"/>
+	<!--settings ip="26.180.218.107" port="5482"/-->
 	<hulls>
 		<hull path="data/hulls/ares/m0/" name="НЛО" price="1000"/>
 		<hull path="data/hulls/ares/m1/" name="НЛО" price="1210"/>
@@ -1918,8 +1918,8 @@
 <map name="Антарес" xml="Антарес.xml" preview="Антарес.jpg" winter="1"/>
 <map name="Арена" xml="Арена.xml" preview="Арена.jpg" winter="1"/>
 <map name="Арена II" xml="Арена II.xml" preview="Арена II.jpg" winter="0"/>
+<map name="Архипелаг ММ" xml="Архипелаг.xml" preview="Архипелаг.jpg" winter="0"/>
 <map name="Астрелла" xml="Астрелла.xml" preview="Астрелла.jpg" winter="0"/>
-<map name="Архипелаг ММ" xml="Архипелаг.xml" preview="Архипелаг.jpg" winter="1"/>
 <map name="Атра" xml="Атра.xml" preview="Атра.jpg" winter="1"/>
 <map name="Атра II" xml="Атра II.xml" preview="Атра II.jpg" winter="1"/>
 <map name="Атра III" xml="Атра III.xml" preview="Атра III.jpg" winter="1"/>
