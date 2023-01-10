@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="Industrial Bridge">
+    <prop-group name="default">
+        <prop name="Bridge 1">
+				<mesh  file="brid_1.3ds">
+					<texture name="Brid 1" diffuse-map="brid_1.png"/>
+					<texture name="Brid 1 px" diffuse-map="brid_1px.png"/>
+					<texture name="Brid 2" diffuse-map="brid_11.png"/>
+					<texture name="Brid 3" diffuse-map="brid_12.png"/>
+					<texture name="Brid 3 px" diffuse-map="brid_12px.png"/>
+					<texture name="Brid 4" diffuse-map="brid_13.png"/>
+					<texture name="Brid 4 px" diffuse-map="brid_13px.png"/>
+					<texture name="Brid 5" diffuse-map="brid_14.png"/>
+					<texture name="Brid 6" diffuse-map="brid_15.png"/>
+					<texture name="Brid 7" diffuse-map="brid_16.png"/>
+					<texture name="Brid 8" diffuse-map="brid_17.png"/>
+				    <texture name="Brid 8 px" diffuse-map="brid_17px.png"/>
+				</mesh>
+		</prop>
+		<prop name="Spring Board">
+				<mesh  file="springb.3ds">
+					<texture name="springb 1" diffuse-map="brid_1.png"/>
+					<texture name="springb 1 px" diffuse-map="brid_1px.png"/>
+					<texture name="springb 2" diffuse-map="brid_11.png"/>
+					<texture name="springb 3" diffuse-map="brid_12.png"/>
+					<texture name="springb 3 px" diffuse-map="brid_12px.png"/>
+					<texture name="springb 4" diffuse-map="brid_13.png"/>
+					<texture name="springb 4 px" diffuse-map="brid_13px.png"/>
+					<texture name="springb 5" diffuse-map="brid_14.png"/>
+					<texture name="springb 6" diffuse-map="brid_15.png"/>
+					<texture name="springb 7" diffuse-map="brid_16.png"/>
+					<texture name="springb 8" diffuse-map="brid_17.png"/>
+					<texture name="springb 8 px" diffuse-map="brid_17px.png"/>
+				</mesh>
+		</prop>
+        <prop name="MSpring Board">
+			<mesh  file="mspringb.3ds">
+				<texture name="springb 1" diffuse-map="brid_1.png"/>
+				<texture name="springb 1 mpx" diffuse-map="brid_1mpx.png"/>
+				<texture name="springb 2" diffuse-map="brid_11.png"/>
+				<texture name="springb 3" diffuse-map="brid_12.png"/>
+				<texture name="springb 3 mpx" diffuse-map="brid_12mpx.png"/>
+				<texture name="springb 4" diffuse-map="brid_13.png"/>
+				<texture name="springb 4 mpx" diffuse-map="brid_13mpx.png"/>
+				<texture name="springb 5" diffuse-map="brid_14.png"/>
+				<texture name="springb 6" diffuse-map="brid_15.png"/>
+				<texture name="springb 7" diffuse-map="brid_16.png"/>
+				<texture name="springb 8" diffuse-map="brid_17.png"/>
+				<texture name="springb 8 mpx" diffuse-map="brid_17mpx.png"/>
+			</mesh>
+		</prop>
+		<prop name="Bridge 1 left">
+            <mesh file="brid_1_1.3ds"/>
+        </prop>
+		<prop name="Bridge 1 both">
+            <mesh file="brid_1_2.3ds"/>
+        </prop>
+		<prop name="Bridge 1 right">
+            <mesh file="brid_1_3.3ds"/>
+        </prop>
+        <prop name="Bridge 2">
+            <mesh file="brid_2.3ds">
+                <texture name="Bridge 1" diffuse-map="brid_2.jpg"/>
+                <texture name="Bridge 2" diffuse-map="brid_21.jpg"/>
+                <texture name="Bridge 3" diffuse-map="brid_22.jpg"/>
+                <texture name="Bridge 4" diffuse-map="brid_23.jpg"/>
+                <texture name="Bridge 5" diffuse-map="brid_24.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Bridge 3">
+            <mesh file="brid_3.3ds"/>
+        </prop>
+        <prop name="Bridge 4">
+            <mesh file="brid_4.3ds"/>
+        </prop>
+        <prop name="Bridge 5">
+            <mesh file="brid_5.3ds"/>
+        </prop>
+        <prop name="Bridge 6">
+            <mesh file="brid_6.3ds">
+                <texture name="Bridge6 1" diffuse-map="brid_6.jpg"/>
+                <texture name="Bridge6 2" diffuse-map="brid_61.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="Bridge 7">
+            <mesh file="brid_7.3ds">
+                <texture name="Bridge6 1" diffuse-map="brid_7.jpg"/>
+                <texture name="Bridge6 3" diffuse-map="brid_71.jpg"/>
+                <texture name="Bridge6 2" diffuse-map="brid_72.jpg"/>
+            </mesh>
+        </prop>
+        <prop name="St_bridge 1">
+            <mesh file="st_br01.3ds"/>
+        </prop>
+        <prop name="St_bridge 2">
+            <mesh file="st_br02.3ds"/>
+        </prop>
+        <prop name="BA1">
+				<mesh  file="brid_1n.3ds"/>
+                    <texture name="brid1n" diffuse-map="brid_1.jpg" />
+		</prop>
+        <prop name="spring1">
+				<mesh  file="springb00.3ds"/>
+                    <texture name="brid2n" diffuse-map="brid_1.jpg" />
+		</prop>
+		<prop name="spring2">
+				<mesh  file="springb01.3ds"/>
+                    <texture name="brid3n" diffuse-map="brid_1.jpg" />
+		</prop>
+		<prop name="spring_up">
+				<mesh  file="sp_up.3ds"/>
+		</prop>
+		<prop name="spring_down">
+				<mesh  file="sp_down.3ds"/>
+		</prop>
+		<prop name="spring2_up">
+				<mesh  file="sp2_up.3ds"/>
+		</prop>
+		<prop name="spring2_down">
+				<mesh  file="sp2_down.3ds"/>
+		</prop>
+        <prop name="truck">
+                <mesh  file="truck.3ds"/>
+		</prop>
+    </prop-group>
+</library>

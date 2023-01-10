@@ -1,6 +1,6 @@
 <map version="1.0.Light">
  <skybox val="5"/> <static-geometry>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -11,7 +11,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -33,7 +33,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -44,7 +44,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -88,7 +88,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -99,7 +99,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -121,7 +121,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -132,7 +132,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>7.853982</z>
       </rotation>
@@ -143,7 +143,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -154,7 +154,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -165,7 +165,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="win1">
+    <prop library-name="Exterior New" group-name="default" name="win1">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -176,7 +176,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-12.566371</z>
       </rotation>
@@ -187,7 +187,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="winwall2">
+    <prop library-name="Exterior New" group-name="default" name="winwall2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -198,7 +198,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -209,7 +209,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -220,7 +220,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -231,7 +231,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="win1">
+    <prop library-name="Exterior New" group-name="default" name="win1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -275,7 +275,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -330,7 +330,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -352,7 +352,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -363,7 +363,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -385,7 +385,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -396,7 +396,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -418,7 +418,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -429,7 +429,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -440,7 +440,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -473,7 +473,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -484,7 +484,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -517,7 +517,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -528,7 +528,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -539,7 +539,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="winwall1">
+    <prop library-name="Exterior New" group-name="default" name="winwall1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -550,7 +550,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -572,7 +572,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -583,7 +583,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -616,7 +616,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -627,7 +627,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -638,7 +638,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -649,7 +649,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -671,7 +671,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -704,7 +704,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -715,7 +715,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -726,7 +726,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -737,7 +737,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -759,7 +759,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -781,7 +781,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -803,7 +803,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -825,7 +825,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -836,7 +836,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -869,7 +869,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -880,7 +880,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -891,7 +891,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -902,7 +902,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="win1">
+    <prop library-name="Exterior New" group-name="default" name="win1">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -913,7 +913,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -935,7 +935,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -946,7 +946,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -990,7 +990,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1001,7 +1001,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1012,7 +1012,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -1023,7 +1023,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1034,7 +1034,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -1045,7 +1045,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853981</z>
       </rotation>
@@ -1056,7 +1056,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="side3">
+    <prop library-name="Exterior New" group-name="default" name="side3">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -1067,7 +1067,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -1078,7 +1078,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -1089,7 +1089,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -1100,7 +1100,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1111,7 +1111,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -1122,7 +1122,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -1144,7 +1144,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA4">
+    <prop library-name="Passage" group-name="bridge_a" name="BA4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1155,7 +1155,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-12.566371</z>
       </rotation>
@@ -1177,7 +1177,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -1188,7 +1188,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="winwall1">
+    <prop library-name="Exterior New" group-name="default" name="winwall1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1210,7 +1210,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1221,7 +1221,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1243,7 +1243,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -1265,7 +1265,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -1287,7 +1287,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA4">
+    <prop library-name="Passage" group-name="bridge_a" name="BA4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1298,7 +1298,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -1320,7 +1320,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -1331,7 +1331,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1342,7 +1342,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -1375,7 +1375,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -1386,7 +1386,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1397,7 +1397,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -1408,7 +1408,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_1">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1430,7 +1430,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -1441,7 +1441,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -1463,7 +1463,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1474,7 +1474,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1485,7 +1485,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1496,7 +1496,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -1507,7 +1507,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -1529,7 +1529,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -1540,7 +1540,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1551,7 +1551,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -1562,7 +1562,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -1573,7 +1573,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570797</z>
       </rotation>
@@ -1595,7 +1595,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -1606,7 +1606,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -1617,7 +1617,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1628,7 +1628,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1639,7 +1639,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -1650,7 +1650,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -1661,7 +1661,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -1672,7 +1672,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -1694,7 +1694,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1705,7 +1705,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1716,7 +1716,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1727,7 +1727,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -1738,7 +1738,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -1760,7 +1760,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -1771,7 +1771,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -1837,7 +1837,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -1848,7 +1848,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1870,7 +1870,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1881,7 +1881,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -1892,7 +1892,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1903,7 +1903,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -1914,7 +1914,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1925,7 +1925,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -1936,7 +1936,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -1947,7 +1947,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -1958,7 +1958,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -1980,7 +1980,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2002,7 +2002,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -2013,7 +2013,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -2024,7 +2024,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2035,7 +2035,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2046,7 +2046,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -2068,7 +2068,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-14.137167</z>
       </rotation>
@@ -2079,7 +2079,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -2090,7 +2090,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -2101,7 +2101,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2112,7 +2112,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -2134,7 +2134,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -2145,7 +2145,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -2156,7 +2156,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2167,7 +2167,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2189,7 +2189,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -2211,7 +2211,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-12.566371</z>
       </rotation>
@@ -2255,7 +2255,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2266,7 +2266,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="side2">
+    <prop library-name="Exterior New" group-name="default" name="side2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -2277,7 +2277,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -2288,7 +2288,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -2299,7 +2299,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2310,7 +2310,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -2332,7 +2332,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2354,7 +2354,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -2365,7 +2365,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -2376,7 +2376,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2387,7 +2387,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="winwall1">
+    <prop library-name="Exterior New" group-name="default" name="winwall1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -2398,7 +2398,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -2409,7 +2409,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA3">
+    <prop library-name="Passage" group-name="bridge_a" name="BA3">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -2420,7 +2420,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2431,7 +2431,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -2442,7 +2442,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -2453,7 +2453,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="winwall1">
+    <prop library-name="Exterior New" group-name="default" name="winwall1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -2475,7 +2475,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2486,7 +2486,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -2541,7 +2541,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -2552,7 +2552,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -2563,7 +2563,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -2585,7 +2585,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_1">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2596,7 +2596,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="side3">
+    <prop library-name="Exterior New" group-name="default" name="side3">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -2618,7 +2618,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-12.566371</z>
       </rotation>
@@ -2629,7 +2629,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -2651,7 +2651,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -2662,7 +2662,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -2673,7 +2673,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -2684,7 +2684,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -2695,7 +2695,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2706,7 +2706,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2717,7 +2717,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -2728,7 +2728,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -2739,7 +2739,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -2750,7 +2750,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -2761,7 +2761,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -2794,7 +2794,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -2827,7 +2827,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA5">
+    <prop library-name="Passage" group-name="bridge_a" name="BA5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2838,7 +2838,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -2849,7 +2849,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -2860,7 +2860,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2871,7 +2871,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -2882,7 +2882,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -2893,7 +2893,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -2904,7 +2904,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="winwall1">
+    <prop library-name="Exterior New" group-name="default" name="winwall1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -2937,7 +2937,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -2948,7 +2948,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -2959,7 +2959,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -2970,7 +2970,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="winwall2">
+    <prop library-name="Exterior New" group-name="default" name="winwall2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -2981,7 +2981,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2992,7 +2992,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -3003,7 +3003,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -3036,7 +3036,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -3047,7 +3047,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>7.853982</z>
       </rotation>
@@ -3058,7 +3058,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -3069,7 +3069,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -3091,7 +3091,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA4">
+    <prop library-name="Passage" group-name="bridge_a" name="BA4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3102,7 +3102,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="win1">
+    <prop library-name="Exterior New" group-name="default" name="win1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -3113,7 +3113,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_1">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3124,7 +3124,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -3157,7 +3157,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -3168,7 +3168,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3179,7 +3179,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3190,7 +3190,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -3201,7 +3201,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3212,7 +3212,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="win1">
+    <prop library-name="Exterior New" group-name="default" name="win1">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -3223,7 +3223,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -3256,7 +3256,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -3267,7 +3267,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -3278,7 +3278,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -3300,7 +3300,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_1">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -3322,7 +3322,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall3">
+    <prop library-name="Exterior New" group-name="default" name="wall3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3333,7 +3333,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3344,7 +3344,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -3355,7 +3355,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -3366,7 +3366,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -3377,7 +3377,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -3388,7 +3388,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3399,7 +3399,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3410,7 +3410,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3421,7 +3421,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA5">
+    <prop library-name="Passage" group-name="bridge_a" name="BA5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3432,7 +3432,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3443,7 +3443,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -3454,7 +3454,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3465,7 +3465,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -3509,7 +3509,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -3520,7 +3520,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3531,7 +3531,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -3542,7 +3542,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -3553,7 +3553,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3575,7 +3575,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -3586,7 +3586,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -3597,7 +3597,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3619,7 +3619,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3630,7 +3630,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="winwall2">
+    <prop library-name="Exterior New" group-name="default" name="winwall2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3641,7 +3641,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-14.137167</z>
       </rotation>
@@ -3652,7 +3652,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA4">
+    <prop library-name="Passage" group-name="bridge_a" name="BA4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3674,7 +3674,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -3696,7 +3696,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall3">
+    <prop library-name="Exterior New" group-name="default" name="wall3">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -3707,7 +3707,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -3718,7 +3718,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -3762,7 +3762,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3773,7 +3773,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3784,7 +3784,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3806,7 +3806,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -3839,7 +3839,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -3850,7 +3850,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3861,7 +3861,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall3">
+    <prop library-name="Exterior New" group-name="default" name="wall3">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -3872,7 +3872,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -3894,7 +3894,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -3905,7 +3905,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -3916,7 +3916,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3927,7 +3927,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -3938,7 +3938,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -3949,7 +3949,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3971,7 +3971,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3982,7 +3982,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA5">
+    <prop library-name="Passage" group-name="bridge_a" name="BA5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3993,7 +3993,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4004,7 +4004,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -4015,7 +4015,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-12.566371</z>
       </rotation>
@@ -4026,7 +4026,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4037,7 +4037,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -4059,7 +4059,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -4070,7 +4070,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4081,7 +4081,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4103,7 +4103,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4114,7 +4114,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="side4">
+    <prop library-name="Exterior New" group-name="default" name="side4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4136,7 +4136,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4147,7 +4147,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -4169,7 +4169,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4180,7 +4180,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="side3">
+    <prop library-name="Exterior New" group-name="default" name="side3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4191,7 +4191,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_2">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4202,7 +4202,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4213,7 +4213,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -4224,7 +4224,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4235,7 +4235,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4246,7 +4246,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4257,7 +4257,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>7.853982</z>
       </rotation>
@@ -4268,7 +4268,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4279,7 +4279,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -4290,7 +4290,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4301,7 +4301,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4312,7 +4312,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4323,7 +4323,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -4334,7 +4334,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4356,7 +4356,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4367,7 +4367,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4378,7 +4378,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4411,7 +4411,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -4422,7 +4422,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4433,7 +4433,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -4444,7 +4444,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -4455,7 +4455,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4466,7 +4466,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4477,7 +4477,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4488,7 +4488,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4499,7 +4499,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4510,7 +4510,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -4521,7 +4521,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4543,7 +4543,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -4554,7 +4554,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="side4">
+    <prop library-name="Exterior New" group-name="default" name="side4">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4565,7 +4565,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -4587,7 +4587,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -4609,7 +4609,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA3">
+    <prop library-name="Passage" group-name="bridge_a" name="BA3">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4620,7 +4620,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4631,7 +4631,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4642,7 +4642,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4664,7 +4664,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4686,7 +4686,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4697,7 +4697,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4719,7 +4719,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4730,7 +4730,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -4741,7 +4741,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -4752,7 +4752,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4785,7 +4785,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4796,7 +4796,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4829,7 +4829,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4851,7 +4851,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4862,7 +4862,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -4873,7 +4873,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4884,7 +4884,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4895,7 +4895,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4906,7 +4906,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4917,7 +4917,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_1">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4939,7 +4939,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4950,7 +4950,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -4961,7 +4961,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -4972,7 +4972,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4983,7 +4983,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4994,7 +4994,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="win1">
+    <prop library-name="Exterior New" group-name="default" name="win1">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -5005,7 +5005,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5016,7 +5016,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="side4">
+    <prop library-name="Exterior New" group-name="default" name="side4">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -5027,7 +5027,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -5038,7 +5038,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5049,7 +5049,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -5060,7 +5060,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -5071,7 +5071,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5082,7 +5082,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_1">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5093,7 +5093,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5104,7 +5104,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5115,7 +5115,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5137,7 +5137,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="winwall2">
+    <prop library-name="Exterior New" group-name="default" name="winwall2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -5148,7 +5148,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -5159,7 +5159,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="side4">
+    <prop library-name="Exterior New" group-name="default" name="side4">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -5170,7 +5170,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -5181,7 +5181,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -5192,7 +5192,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5203,7 +5203,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -5247,7 +5247,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5258,7 +5258,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5269,7 +5269,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_1">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5302,7 +5302,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5335,7 +5335,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5346,7 +5346,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5357,7 +5357,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-12.566371</z>
       </rotation>
@@ -5368,7 +5368,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5379,7 +5379,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5390,7 +5390,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -5401,7 +5401,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5412,7 +5412,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -5434,7 +5434,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5445,7 +5445,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5467,7 +5467,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-12.566371</z>
       </rotation>
@@ -5478,7 +5478,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -5489,7 +5489,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -5500,7 +5500,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5511,7 +5511,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -5522,7 +5522,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5533,7 +5533,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -5544,7 +5544,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -5566,7 +5566,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -5577,7 +5577,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5588,7 +5588,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5599,7 +5599,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5610,7 +5610,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5632,7 +5632,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -5643,7 +5643,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -5676,7 +5676,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -5687,7 +5687,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -5698,7 +5698,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -5709,7 +5709,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5720,7 +5720,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -5731,7 +5731,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_1">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5742,7 +5742,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5764,7 +5764,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5775,7 +5775,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -5786,7 +5786,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -5797,7 +5797,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -5808,7 +5808,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5830,7 +5830,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5841,7 +5841,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5852,7 +5852,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -5863,7 +5863,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -5896,7 +5896,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5918,7 +5918,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5929,7 +5929,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5940,7 +5940,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5951,7 +5951,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-12.566371</z>
       </rotation>
@@ -5973,7 +5973,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -5984,7 +5984,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -6006,7 +6006,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -6050,7 +6050,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6061,7 +6061,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -6072,7 +6072,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -6083,7 +6083,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -6105,7 +6105,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -6116,7 +6116,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6138,7 +6138,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_1">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -6149,7 +6149,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_1">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6160,7 +6160,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-12.566371</z>
       </rotation>
@@ -6171,7 +6171,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6182,7 +6182,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -6193,7 +6193,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -6204,7 +6204,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -6215,7 +6215,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -6226,7 +6226,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -6248,7 +6248,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -6259,7 +6259,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -6270,7 +6270,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -6292,7 +6292,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6336,7 +6336,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6347,7 +6347,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -6358,7 +6358,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="spring1">
+    <prop library-name="Exterior New" group-name="default" name="spring1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -6369,7 +6369,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -6380,7 +6380,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -6391,7 +6391,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-12.566371</z>
       </rotation>
@@ -6402,7 +6402,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6413,7 +6413,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570797</z>
       </rotation>
@@ -6424,7 +6424,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6435,7 +6435,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -6446,7 +6446,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -6457,7 +6457,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6468,7 +6468,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -6479,7 +6479,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -6501,7 +6501,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="win1">
+    <prop library-name="Exterior New" group-name="default" name="win1">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -6523,7 +6523,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -6534,7 +6534,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -6545,7 +6545,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6578,7 +6578,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="win1">
+    <prop library-name="Exterior New" group-name="default" name="win1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -6589,7 +6589,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -6600,7 +6600,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-12.566371</z>
       </rotation>
@@ -6611,7 +6611,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570797</z>
       </rotation>
@@ -6622,7 +6622,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -6633,7 +6633,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -6644,7 +6644,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6655,7 +6655,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -6666,7 +6666,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -6677,7 +6677,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -6699,7 +6699,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6710,7 +6710,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -6721,7 +6721,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6732,7 +6732,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_1">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -6743,7 +6743,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -6776,7 +6776,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -6787,7 +6787,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -6820,7 +6820,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -6831,7 +6831,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -6842,7 +6842,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6864,7 +6864,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -6875,7 +6875,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -6886,7 +6886,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6897,7 +6897,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="side2">
+    <prop library-name="Exterior New" group-name="default" name="side2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -6908,7 +6908,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -6919,7 +6919,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -6930,7 +6930,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -6941,7 +6941,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -6963,7 +6963,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -6974,7 +6974,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="winwall1">
+    <prop library-name="Exterior New" group-name="default" name="winwall1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -7007,7 +7007,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7018,7 +7018,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570797</z>
       </rotation>
@@ -7029,7 +7029,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7040,7 +7040,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7051,7 +7051,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -7062,7 +7062,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7073,7 +7073,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="spring1">
+    <prop library-name="Exterior New" group-name="default" name="spring1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -7095,7 +7095,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -7106,7 +7106,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="winwall2">
+    <prop library-name="Exterior New" group-name="default" name="winwall2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -7117,7 +7117,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -7128,7 +7128,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="spring1">
+    <prop library-name="Exterior New" group-name="default" name="spring1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7161,7 +7161,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="spring1">
+    <prop library-name="Exterior New" group-name="default" name="spring1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -7183,7 +7183,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -7194,7 +7194,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7216,7 +7216,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -7227,7 +7227,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7238,7 +7238,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570797</z>
       </rotation>
@@ -7260,7 +7260,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -7282,7 +7282,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -7293,7 +7293,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -7304,7 +7304,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -7315,7 +7315,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -7326,7 +7326,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -7337,7 +7337,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -7359,7 +7359,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7370,7 +7370,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_1">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7381,7 +7381,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -7414,7 +7414,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -7425,7 +7425,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -7447,7 +7447,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="winwall1">
+    <prop library-name="Exterior New" group-name="default" name="winwall1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -7480,7 +7480,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA5">
+    <prop library-name="Passage" group-name="bridge_a" name="BA5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7491,7 +7491,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -7502,7 +7502,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7513,7 +7513,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -7524,7 +7524,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7535,7 +7535,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -7546,7 +7546,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -7590,7 +7590,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA3">
+    <prop library-name="Passage" group-name="bridge_a" name="BA3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7601,7 +7601,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7623,7 +7623,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7634,7 +7634,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -7645,7 +7645,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7656,7 +7656,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-12.566371</z>
       </rotation>
@@ -7678,7 +7678,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -7689,7 +7689,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -7711,7 +7711,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -7722,7 +7722,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -7733,7 +7733,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7766,7 +7766,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -7788,7 +7788,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7799,7 +7799,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7821,7 +7821,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7832,7 +7832,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -7843,7 +7843,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -7865,7 +7865,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -7876,7 +7876,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -7887,7 +7887,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -7898,7 +7898,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -7909,7 +7909,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7920,7 +7920,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -7931,7 +7931,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7942,7 +7942,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA3">
+    <prop library-name="Passage" group-name="bridge_a" name="BA3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7953,7 +7953,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="winwall2">
+    <prop library-name="Exterior New" group-name="default" name="winwall2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -7964,7 +7964,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -7975,7 +7975,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7986,7 +7986,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -7997,7 +7997,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -8008,7 +8008,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>21.991149</z>
       </rotation>
@@ -8019,7 +8019,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8030,7 +8030,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8041,7 +8041,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -8052,7 +8052,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="side2">
+    <prop library-name="Exterior New" group-name="default" name="side2">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -8063,7 +8063,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8085,7 +8085,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -8118,7 +8118,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -8129,7 +8129,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="spring1">
+    <prop library-name="Exterior New" group-name="default" name="spring1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8151,7 +8151,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -8162,7 +8162,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -8195,7 +8195,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -8217,7 +8217,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="spring1">
+    <prop library-name="Exterior New" group-name="default" name="spring1">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -8228,7 +8228,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8250,7 +8250,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -8261,7 +8261,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -8272,7 +8272,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="spring1">
+    <prop library-name="Exterior New" group-name="default" name="spring1">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -8294,7 +8294,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -8305,7 +8305,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8316,7 +8316,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8327,7 +8327,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8338,7 +8338,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8349,7 +8349,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -8371,7 +8371,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8382,7 +8382,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -8393,7 +8393,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8404,7 +8404,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -8437,7 +8437,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8448,7 +8448,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -8470,7 +8470,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall1">
+    <prop library-name="Exterior New" group-name="default" name="wall1">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -8503,7 +8503,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -8514,7 +8514,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -8525,7 +8525,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -8536,7 +8536,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -8547,7 +8547,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8558,7 +8558,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8569,7 +8569,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -8580,7 +8580,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_1">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -8591,7 +8591,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -8602,7 +8602,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -8624,7 +8624,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -8635,7 +8635,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -8646,7 +8646,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -8657,7 +8657,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8668,7 +8668,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -8679,7 +8679,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8701,7 +8701,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -8712,7 +8712,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -8723,7 +8723,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="win1">
+    <prop library-name="Exterior New" group-name="default" name="win1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8734,7 +8734,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8745,7 +8745,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -8756,7 +8756,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="spring1">
+    <prop library-name="Exterior New" group-name="default" name="spring1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -8767,7 +8767,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="winwall2">
+    <prop library-name="Exterior New" group-name="default" name="winwall2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8778,7 +8778,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8800,7 +8800,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -8811,7 +8811,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -8822,7 +8822,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wtile1">
+    <prop library-name="Exterior New" group-name="default" name="wtile1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -8833,7 +8833,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8844,7 +8844,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -8866,7 +8866,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -8877,7 +8877,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8888,7 +8888,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-12.566371</z>
       </rotation>
@@ -8899,7 +8899,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="side3">
+    <prop library-name="Exterior New" group-name="default" name="side3">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -8910,7 +8910,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8921,7 +8921,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570797</z>
       </rotation>
@@ -8932,7 +8932,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -8954,7 +8954,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="winwall2">
+    <prop library-name="Exterior New" group-name="default" name="winwall2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -8987,7 +8987,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_1">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -8998,7 +8998,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="side2">
+    <prop library-name="Exterior New" group-name="default" name="side2">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -9009,7 +9009,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -9020,7 +9020,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -9031,7 +9031,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -9053,7 +9053,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -9075,7 +9075,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="win1">
+    <prop library-name="Exterior New" group-name="default" name="win1">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -9108,7 +9108,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9119,7 +9119,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_1">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -9130,7 +9130,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -9152,7 +9152,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>10.995574</z>
       </rotation>
@@ -9174,7 +9174,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -9185,7 +9185,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9196,7 +9196,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9207,7 +9207,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9218,7 +9218,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -9240,7 +9240,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -9262,7 +9262,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-12.566371</z>
       </rotation>
@@ -9284,7 +9284,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -9295,7 +9295,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -9306,7 +9306,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -9339,7 +9339,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="winwall1">
+    <prop library-name="Exterior New" group-name="default" name="winwall1">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -9350,7 +9350,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9361,7 +9361,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9383,7 +9383,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9394,7 +9394,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -9416,7 +9416,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -9427,7 +9427,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -9438,7 +9438,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9460,7 +9460,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -9482,7 +9482,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -9493,7 +9493,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -9504,7 +9504,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Exterior" group-name="default" name="wall3">
+    <prop library-name="Exterior New" group-name="default" name="wall3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9526,7 +9526,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -9548,7 +9548,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9559,7 +9559,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -9570,7 +9570,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -9581,7 +9581,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -9592,7 +9592,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="big_bridge" name="cbr_1">
+    <prop library-name="Passage" group-name="big_bridge" name="cbr_1">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -9614,7 +9614,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9625,7 +9625,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -9636,7 +9636,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-6.283186</z>
       </rotation>
@@ -9647,7 +9647,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA2">
+    <prop library-name="Passage" group-name="bridge_a" name="BA2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -9669,7 +9669,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="PassageOldTanksRu" group-name="bridge_a" name="BA6">
+    <prop library-name="Passage" group-name="bridge_a" name="BA6">
       <rotation>
         <z>-1.570796</z>
       </rotation>

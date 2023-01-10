@@ -14,6 +14,7 @@
 				<mesh  file="fence_s.3ds"/>
 		</prop>
 	</prop-group>
+
 	<prop-group name="fence_a">
 		<prop name="fence1">
 				<mesh  file="wallbig.3ds"/>
@@ -37,21 +38,5 @@
 				<mesh  file="walltr.3ds"/>
 		</prop>
 	</prop-group>
-	<prop-group name="fence_b">
-		<prop name="fb1">
-				<mesh  file="wall_1.3ds"/>
-		</prop>
-		<prop name="fb2">
-				<mesh  file="wallcorn.3ds"/>
-		</prop>
-		<prop name="hor">
-				<mesh  file="gatehorn.3ds"/>
-		</prop>
-		<prop name="vik">
-				<mesh  file="gatevik.3ds"/>
-		</prop>
-		<prop name="mam">
-				<mesh  file="gatmamot.3ds"/>
-		</prop>
-	</prop-group>
+	
 </library>

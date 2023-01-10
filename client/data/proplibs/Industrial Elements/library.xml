@@ -12,7 +12,7 @@
         </prop>
         <prop name="Steel tower">
             <mesh file="tower.3ds">
-				<texture name="Steel tower 1" diffuse-map="tower.jpg"/>
+				<texture name="Steel tower 1" diffuse-map="tower.png"/>
 			</mesh>
         </prop>
     </prop-group>

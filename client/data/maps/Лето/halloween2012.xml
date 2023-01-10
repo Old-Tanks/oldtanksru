@@ -1,4 +1,4 @@
-<map version="1.0.Light">
+<map version="1.0">
  <skybox val="8"/>
 <sound type="halloween" volume="0.25"/> <static-geometry>
     <prop library-name="Landscape" group-name="Grass&amp;dirt Tiles" name="grass&amp;dirt 1x1">
