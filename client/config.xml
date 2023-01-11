@@ -1780,7 +1780,7 @@
 			<description name="Мина" text='https://old-tanks.github.io/oldtanksru/client/data/numerics/mine.png;Мина деактивируется, если владелец погиб, вышел из битвы или закончилась битва. В командной битве мины не реагируют на союзников. Мина — друг, товарищ и брат опытного танкиста. Незаметно прокрасться в тыл врага и заминировать его штаб, прикрыть товарищей при отступлении, заблокировать подходы к базе — всё это стало возможным благодаря применению незаметного смертоносного устройства. Танк, подорвавшийся на мине, теряет от 120 до 240 единиц здоровья (hp). Время активации мины — 2 секунды, повторное использование мины возможно только через 30 секунд.'/>
 		</numerics>
 	</descriptions>
-<images baseUrl="https://old-tanks.github.io/oldtanksru/client/data/images/">
+<images baseUrl="data/images/">
 <image id="smokyShot0" url="smoky/0/shot.png"/>
 <image id="smokyExplosion0" url="smoky/0/explosion.png"/>
 <image id="smokyShot1" url="smoky/1/shot.png"/>
