@@ -1,5 +1,5 @@
 ﻿<config>
-	<settings ip="127.0.0.1" port="5482"/>
+	<settings ip="6.tcp.eu.ngrok.io" port="13185"/>
 	<!--settings ip="26.180.218.107" port="5482"/-->
 	<hulls>
 		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m0/" name="НЛО" price="1000"/>
