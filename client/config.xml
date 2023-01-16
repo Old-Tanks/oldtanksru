@@ -391,7 +391,7 @@
 			<ПередняяСкорость>300</ПередняяСкорость>
 			<ЗадняяСкорость>300</ЗадняяСкорость>
 			<PазворотНаМесте>2</PазворотНаМесте>
-			<СмещениеТочкиZ>-25</СмещениеТочкиZ>
+			<СмещениеТочкиZ>-20</СмещениеТочкиZ>
 			<МалаяСилаТрения>50</МалаяСилаТрения>
 			<ОтношениеЧастей>1.5</ОтношениеЧастей>
 			<СилаТрения№1>0.05</СилаТрения№1>
@@ -417,7 +417,7 @@
 			<ПередняяСкорость>315</ПередняяСкорость>
 			<ЗадняяСкорость>315</ЗадняяСкорость>
 			<PазворотНаМесте>2</PазворотНаМесте>
-			<СмещениеТочкиZ>-25</СмещениеТочкиZ>
+			<СмещениеТочкиZ>-20</СмещениеТочкиZ>
 			<МалаяСилаТрения>50</МалаяСилаТрения>
 			<ОтношениеЧастей>1.5</ОтношениеЧастей>
 			<СилаТрения№1>0.05</СилаТрения№1>
@@ -443,7 +443,7 @@
 			<ПередняяСкорость>350</ПередняяСкорость>
 			<ЗадняяСкорость>350</ЗадняяСкорость>
 			<PазворотНаМесте>2</PазворотНаМесте>
-			<СмещениеТочкиZ>-25</СмещениеТочкиZ>
+			<СмещениеТочкиZ>-20</СмещениеТочкиZ>
 			<МалаяСилаТрения>50</МалаяСилаТрения>
 			<ОтношениеЧастей>1.5</ОтношениеЧастей>
 			<СилаТрения№1>0.05</СилаТрения№1>
@@ -1916,6 +1916,7 @@
 <map name="refmap" xml="refmap.xml" preview="refmap.jpg?v120" winter="0"/>
 <map name="Tankistograd" xml="Tankograd.xml" preview="Tankograd.jpg" winter="1"/>
 <map name="tanki" xml="tanki.xml" preview="tanki.jpg" winter="0"/>
+<map name="Александровск" xml="Александровск.xml" preview="Александровск.jpg" winter="1"/>
 <map name="Ангары" xml="Ангары.xml" preview="Ангары.jpg" winter="1"/>
 <map name="Антарес" xml="Антарес.xml" preview="Антарес.jpg" winter="1"/>
 <map name="Арена" xml="Арена.xml" preview="Арена.jpg" winter="1"/>
@@ -1938,6 +1939,7 @@
 <map name="Брест" xml="Брест.xml" preview="Брест.jpg" winter="1"/>
 <map name="Брест II" xml="Брест II.xml" preview="Брест II.jpg" winter="1"/>
 <map name="Брянцев" xml="Брянцев.xml" preview="Брянцев.jpg" winter="0"/>
+<map name="Будущее" xml="Будущее.xml" preview="Будущее.jpg" winter="0"/>
 <map name="Бумбокс" xml="Бумбокс.xml" preview="Бумбокс.jpg" winter="1"/>
 <map name="Бумбокс 2.0" xml="Бумбокс 2.xml" preview="Бумбокс 2.jpg" winter="0"/>
 <map name="Вавилон" xml="Вавилон.xml" preview="Вавилон.jpg" winter="1"/>
@@ -1949,6 +1951,7 @@
 <map name="Гардер" xml="Гардер.xml" preview="Гардер.jpg" winter="0"/>
 <map name="Гладиатор" xml="Гладиатор.xml" preview="Гладиатор.jpg" winter="1"/>
 <map name="Гонка" xml="Гонка.xml" preview="Гонка.jpg" winter="0"/>
+<map name="Гонка II" xml="Гонка II.xml" preview="Гонка II.jpg" winter="0"/>
 <map name="Гора" xml="Гора.xml" preview="Гора.jpg" winter="0"/>
 <map name="Городок" xml="Городок.xml" preview="Городок.jpg" winter="0"/>
 <map name="Гравити" xml="Гравити.xml" preview="Гравити.jpg" winter="1"/>
@@ -1963,6 +1966,7 @@
 <map name="Дюссельдорф 2.0" xml="Дюссельдорф 2.xml" preview="Дюссельдорф 2.jpg" winter="0"/>
 <map name="Жаворонки" xml="Жаворонки.xml" preview="Жаворонки.jpg" winter="1"/>
 <!--map name="Заброшенные земли" xml="Заброшенные земли.xml" preview="Заброшенные земли.jpg" winter="0"/-->
+<map name="Заезд головокрутов" xml="Заезд головокрутов.xml" preview="Заезд головокрутов.jpg" winter="1"/>
 <map name="Зона" xml="Зона.xml" preview="Зона.jpg" winter="1"/>
 <map name="Ивановск" xml="Иван.xml" preview="Иван.jpg" winter="0"/>
 <map name="Иран" xml="Иран.xml" preview="Иран.jpg" winter="1"/>
@@ -2005,6 +2009,7 @@
 <map name="Мосты" xml="Мосты.xml" preview="Мосты.jpg" winter="1"/>
 <map name="Наследие" xml="Наследие.xml" preview="Наследие.jpg" winter="0"/>
 <map name="Наследие (новая графика)" xml="Наследие (новая графика).xml" preview="Наследие (новая графика).jpg" winter="0"/>
+<map name="Небоскрёбы" xml="Небоскрёбы.xml" preview="Небоскрёбы.jpg" winter="0"/>
 <map name="Новая песочница" xml="Новая песочница.xml" preview="Новая песочница.jpg" winter="0"/>
 <map name="Новые Детали" xml="Новые Детали.xml" preview="Новые Детали.jpg" winter="0"/>
 <map name="Новые Пропы" xml="Новые Пропы.xml" preview="Новые Пропы.jpg" winter="0"/>
@@ -2035,6 +2040,7 @@
 <map name="Полигон" xml="Полигон.xml" preview="Полигон.jpg" winter="1"/>
 <map name="Полигон CTF" xml="Полигон CTF.xml" preview="Полигон CTF.jpg" winter="1"/>
 <map name="Порт" xml="Порт.xml" preview="Порт.jpg" winter="0"/>
+<map name="Пригород" xml="Пригород.xml" preview="Пригород.jpg" winter="0"/>
 <map name="Промзона" xml="Промзона.xml" preview="Промзона.jpg" winter="1"/>
 <map name="Простор" xml="Простор.xml" preview="Простор.jpg" winter="1"/>
 <map name="Противостояние" xml="Противостояние.xml" preview="Противостояние.jpg" winter="1"/>
@@ -2069,11 +2075,13 @@
 <map name="Трасса" xml="Трасса.xml" preview="Трасса.jpg" winter="0"/>
 <map name="Трек" xml="Трек.xml" preview="Трек.jpg" winter="1"/>
 <map name="Трек тест" xml="Трек тест.xml" preview="Трек тест.jpg" winter="0"/>
+<map name="Тренировочная" xml="Тренировочная.xml" preview="Тренировочная.jpg" winter="0"/>
 <map name="Трибьют" xml="Трибьют.xml" preview="Трибьют.jpg" winter="1"/>
 <map name="Трибьют 2.0" xml="Трибьют 2.xml" preview="Трибьют 2.jpg" winter="0"/>
 <map name="Тэмпл" xml="Тэмпл.xml" preview="Тэмпл.jpg" winter="1"/>
 <map name="ТЭЦ" xml="ТЭЦ.xml" preview="ТЭЦ.jpg" winter="0"/>
 <map name="Ущелье" xml="Ущелье.xml" preview="Ущелье.jpg" winter="0"/>
+<map name="Фабрика" xml="Фабрика.xml" preview="Фабрика.jpg" winter="0"/>
 <map name="Ферма" xml="Ферма.xml" preview="Ферма.jpg" winter="1"/>
 <map name="Форест" xml="Форест.xml" preview="Форест.jpg" winter="1"/>
 <map name="Форт Нокс" xml="Форт Нокс.xml" preview="Форт Нокс.jpg" winter="1"/>
@@ -2093,6 +2101,7 @@
 <map name="Шоссе" xml="Шоссе.xml" preview="Шоссе.jpg" winter="1"/>
 <map name="Шум" xml="Шум.xml" preview="Шум.jpg" winter="1"/>
 <map name="Эспланада" xml="Эспланада.xml" preview="Эспланада.jpg" winter="0"/>
+<map name="Эстафета" xml="Эстафета.xml" preview="Эстафета.jpg" winter="1"/>
 </maps>
 <!--settings ip="26.180.218.107" port="5482"/-->
 <weapons>

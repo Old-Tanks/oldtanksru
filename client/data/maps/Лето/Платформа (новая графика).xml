@@ -66,7 +66,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par1">
+    <prop library-name="Defense Old" group-name="parapets" name="par1">
       <rotation>
         <z>1.570797</z>
       </rotation>
@@ -264,7 +264,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -286,7 +286,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -297,7 +297,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -308,7 +308,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -374,7 +374,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -462,7 +462,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -561,7 +561,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -682,7 +682,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -858,7 +858,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren3">
+    <prop library-name="Defense Old" group-name="trench" name="tren3">
       <rotation>
         <z>-1.570797</z>
       </rotation>
@@ -1166,7 +1166,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren3">
+    <prop library-name="Defense Old" group-name="trench" name="tren3">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -1254,7 +1254,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -1419,7 +1419,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -1518,7 +1518,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -1749,7 +1749,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1793,7 +1793,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par2">
+    <prop library-name="Defense Old" group-name="parapets" name="par2">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -1969,7 +1969,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par1">
+    <prop library-name="Defense Old" group-name="parapets" name="par1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -2123,7 +2123,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2178,7 +2178,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par1">
+    <prop library-name="Defense Old" group-name="parapets" name="par1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -2321,7 +2321,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren3">
+    <prop library-name="Defense Old" group-name="trench" name="tren3">
       <rotation>
         <z>-1.570797</z>
       </rotation>
@@ -2508,7 +2508,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -2519,7 +2519,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -2607,7 +2607,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren3">
+    <prop library-name="Defense Old" group-name="trench" name="tren3">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -2640,7 +2640,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -2772,7 +2772,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2816,7 +2816,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2926,7 +2926,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3135,7 +3135,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par3">
+    <prop library-name="Defense Old" group-name="parapets" name="par3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3146,7 +3146,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -3234,7 +3234,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par1">
+    <prop library-name="Defense Old" group-name="parapets" name="par1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3311,7 +3311,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -3476,7 +3476,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par1">
+    <prop library-name="Defense Old" group-name="parapets" name="par1">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -3498,7 +3498,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -3685,7 +3685,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -3740,7 +3740,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3817,7 +3817,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -3828,7 +3828,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -3883,7 +3883,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -3960,7 +3960,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4158,7 +4158,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4400,7 +4400,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4532,7 +4532,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4653,7 +4653,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren3">
+    <prop library-name="Defense Old" group-name="trench" name="tren3">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4675,7 +4675,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -4928,7 +4928,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par3">
+    <prop library-name="Defense Old" group-name="parapets" name="par3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5126,7 +5126,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par2">
+    <prop library-name="Defense Old" group-name="parapets" name="par2">
       <rotation>
         <z>1.570797</z>
       </rotation>
@@ -5214,7 +5214,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par2">
+    <prop library-name="Defense Old" group-name="parapets" name="par2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -5236,7 +5236,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -5280,7 +5280,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -5291,7 +5291,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5456,7 +5456,7 @@
         <z>750.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par1">
+    <prop library-name="Defense Old" group-name="parapets" name="par1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5753,7 +5753,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5995,7 +5995,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6127,7 +6127,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par1">
+    <prop library-name="Defense Old" group-name="parapets" name="par1">
       <rotation>
         <z>1.570797</z>
       </rotation>
@@ -6237,7 +6237,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par2">
+    <prop library-name="Defense Old" group-name="parapets" name="par2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -6281,7 +6281,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par1">
+    <prop library-name="Defense Old" group-name="parapets" name="par1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -6567,7 +6567,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6809,7 +6809,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par2">
+    <prop library-name="Defense Old" group-name="parapets" name="par2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -7139,7 +7139,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7150,7 +7150,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par2">
+    <prop library-name="Defense Old" group-name="parapets" name="par2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7249,7 +7249,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren3">
+    <prop library-name="Defense Old" group-name="trench" name="tren3">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -7392,7 +7392,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -7469,7 +7469,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren3">
+    <prop library-name="Defense Old" group-name="trench" name="tren3">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -7557,7 +7557,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -7568,7 +7568,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7579,7 +7579,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -7612,7 +7612,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par3">
+    <prop library-name="Defense Old" group-name="parapets" name="par3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7700,7 +7700,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par2">
+    <prop library-name="Defense Old" group-name="parapets" name="par2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7755,7 +7755,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7777,7 +7777,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -8360,7 +8360,7 @@
         <z>450.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -8415,7 +8415,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8481,7 +8481,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8976,7 +8976,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9064,7 +9064,7 @@
         <z>150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren3">
+    <prop library-name="Defense Old" group-name="trench" name="tren3">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -9097,7 +9097,7 @@
         <z>1350.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9141,7 +9141,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -9229,7 +9229,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par3">
+    <prop library-name="Defense Old" group-name="parapets" name="par3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9317,7 +9317,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -9372,7 +9372,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -9405,7 +9405,7 @@
         <z>-150.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par2">
+    <prop library-name="Defense Old" group-name="parapets" name="par2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -9471,7 +9471,7 @@
         <z>1050.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>

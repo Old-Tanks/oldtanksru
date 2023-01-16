@@ -37,72 +37,39 @@
 	</prop-group>
 	<prop-group name="trench">
 		<prop name="tren1">
-				<mesh  file="tren_end.3ds">
-					<texture name="trench_p.jpg" diffuse-map="trench_p.jpg" />
-					<texture name="trench_u.jpg" diffuse-map="trench_u.jpg" />
-				</mesh>
+				<mesh  file="tren_end.3ds"/>
 		</prop>
 		<prop name="tren3">
-				<mesh  file="tren1end.3ds">
-					<texture name="trench_p.jpg" diffuse-map="trench_p.jpg" />
-					<texture name="trench_u.jpg" diffuse-map="trench_u.jpg" />
-				</mesh>
+				<mesh  file="tren1end.3ds"/>
 		</prop>
 		<prop name="tren4">
-				<mesh  file="trench.3ds">
-					<texture name="trench_p.jpg" diffuse-map="trench_p.jpg" />
-					<texture name="trench_u.jpg" diffuse-map="trench_u.jpg" />
-				</mesh>
+				<mesh  file="trench.3ds"/>
 		</prop>		
 		<prop name="tren5">
-				<mesh  file="trench1.3ds">
-					<texture name="trench_p.jpg" diffuse-map="trench_p.jpg" />
-					<texture name="trench_u.jpg" diffuse-map="trench_u.jpg" />
-				</mesh>
+				<mesh  file="trench1.3ds"/>
 		</prop>
 		</prop-group>
 	<prop-group name="parapets">
 		<prop name="par1">
-				<mesh  file="parapet1.3ds">
-					<texture name="trench_p.jpg" diffuse-map="trench_p.jpg" />
-					<texture name="trench_u.jpg" diffuse-map="trench_u.jpg" />
-				</mesh>
+				<mesh  file="parapet1.3ds"/>
 		</prop>
 		<prop name="par2">
-				<mesh  file="par_end1.3ds">
-					<texture name="trench_p.jpg" diffuse-map="trench_p.jpg" />
-					<texture name="trench_u.jpg" diffuse-map="trench_u.jpg" />
-				</mesh>
+				<mesh  file="par_end1.3ds"/>
 		</prop>
 		<prop name="par3">
-				<mesh  file="point.3ds">
-					<texture name="elmvv512.jpg" diffuse-map="elmvv512.jpg" />
-					<texture name="elmvv513.jpg" diffuse-map="elmvv513.jpg" />
-				</mesh>
+				<mesh  file="point.3ds"/>
 		</prop>
 		<prop name="par4">
-				<mesh  file="chet.3ds">
-					<texture name="chet512.jpg" diffuse-map="chet512.jpg" />
-					<texture name="chet513.jpg" diffuse-map="chet513.jpg" />
-				</mesh>
+				<mesh  file="chet.3ds"/>
 		</prop>
 		<prop name="par5">
-				<mesh  file="chetup.3ds">
-					<texture name="chet512.jpg" diffuse-map="chet512.jpg" />
-					<texture name="chet513.jpg" diffuse-map="chet513.jpg" />
-				</mesh>
+				<mesh  file="chetup.3ds"/>
 		</prop>
 		<prop name="par6">
-				<mesh  file="border.3ds">
-					<texture name="elmvv512.jpg" diffuse-map="elmvv512.jpg" />
-					<texture name="elmvv513.jpg" diffuse-map="elmvv513.jpg" />
-				</mesh>
+				<mesh  file="border.3ds"/>
 		</prop>
 		<prop name="par7">
-				<mesh  file="beam.3ds">
-					<texture name="elmvv512.jpg" diffuse-map="elmvv512.jpg" />
-					<texture name="elmvv513.jpg" diffuse-map="elmvv513.jpg" />
-				</mesh>
+				<mesh  file="beam.3ds"/>
 		</prop>
 	</prop-group>
 	<prop-group name="hill">
@@ -180,22 +147,13 @@
 	</prop-group>
 	<prop-group name="show">
 		<prop name="camera">
-				<mesh  file="camera.3ds">
-					<texture name="showelem" diffuse-map="showelem.jpg" />
-					<texture name="showelem1" diffuse-map="showelem1.jpg" />
-				</mesh>
+				<mesh  file="camera.3ds"/>
 		</prop>
 		<prop name="lighttow">
-				<mesh  file="lighttow.3ds">
-					<texture name="showelem" diffuse-map="showelem.jpg" />
-					<texture name="showelem1" diffuse-map="showelem1.jpg" />
-				</mesh>
+				<mesh  file="lighttow.3ds"/>
 		</prop>
 		<prop name="monitor">
-				<mesh  file="monitor.3ds">
-					<texture name="showelem" diffuse-map="showelem.jpg" />
-					<texture name="showelem1" diffuse-map="showelem1.jpg" />
-				</mesh>
+				<mesh  file="monitor.3ds"/>
 		</prop>
 	</prop-group>
 </library>
