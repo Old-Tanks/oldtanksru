@@ -1921,7 +1921,7 @@
 <map name="Антарес" xml="Антарес.xml" preview="Антарес.jpg" winter="1"/>
 <map name="Арена" xml="Арена.xml" preview="Арена.jpg" winter="1"/>
 <map name="Арена II" xml="Арена II.xml" preview="Арена II.jpg" winter="0"/>
-<map name="Архипелаг ММ" xml="Архипелаг.xml" preview="Архипелаг.jpg" winter="0"/>
+<map name="Архипелаг ММ" xml="Архипелаг.xml" preview="Архипелаг.jpg" winter="1"/>
 <map name="Астрелла" xml="Астрелла.xml" preview="Астрелла.jpg" winter="0"/>
 <map name="Атра" xml="Атра.xml" preview="Атра.jpg" winter="1"/>
 <map name="Атра II" xml="Атра II.xml" preview="Атра II.jpg" winter="1"/>
