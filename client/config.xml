@@ -1931,7 +1931,7 @@
 <map name="Бастион" xml="Бастион.xml" preview="Бастион.jpg" winter="1"/>
 <map name="Бастион (новая графика)" xml="Бастион (новая графика).xml" preview="Бастион (новая графика).jpg" winter="0"/>
 <map name="Бездна" xml="Бездна.xml" preview="Бездна.jpg" winter="0"/>
-<!--map name="Бездна (космос)" xml="Бездна (космос).xml" preview="Бездна (космос).jpg" winter="0"/-->
+<map name="Бездна (космос)" xml="Бездна (космос).xml" preview="Бездна (космос).jpg" winter="0"/>
 <map name="Безумие" xml="Безумие.xml" preview="Безумие.jpg" winter="0"/>
 <map name="Безумие (космос)" xml="Безумие (космос).xml" preview="Безумие (космос).jpg" winter="0"/>
 <map name="Берлин" xml="Берлин.xml" preview="Берлин.jpg" winter="1"/>
@@ -1997,8 +1997,8 @@
 <map name="Лагерь" xml="Лагерь.xml" preview="Лагерь.jpg" winter="1"/>
 <!--map name="Лисевск" xml="Лисевск.xml" preview="Лисевск.jpg" winter="0"/-->
 <!--map name="Лол" xml="lol.xml" preview="lol.jpg" winter="0"/-->
-<map name="Лунная тишина" xml="Лунная тишина.xml" preview="Лунная тишина.jpg" winter="0"/>
-<!--map name="Лунное Рио" xml="Лунное Рио.xml" preview="Лунное Рио.jpg" winter="0"/-->
+<!--map name="Лунная тишина" xml="Лунная тишина.xml" preview="Лунная тишина.jpg" winter="0"/>
+<map name="Лунное Рио" xml="Лунное Рио.xml" preview="Лунное Рио.jpg" winter="0"/-->
 <!--map name="Люксендор" xml="Люксендор.xml" preview="Люксендор.jpg" winter="0"/-->
 <map name="Магадан" xml="Магадан.xml" preview="Магадан.jpg" winter="1"/>
 <map name="Магистраль" xml="Магистраль.xml" preview="Магистраль.jpg" winter="1"/>
