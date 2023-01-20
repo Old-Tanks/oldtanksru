@@ -1,5 +1,6 @@
 <map version="1.0">
 <skybox val="5"/>
+<sound type="space" volume="0.25"/>
 <gravity x="0" y="0" z="-92"/>
   <static-geometry>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
