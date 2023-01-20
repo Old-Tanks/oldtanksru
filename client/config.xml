@@ -1997,8 +1997,8 @@
 <map name="Лагерь" xml="Лагерь.xml" preview="Лагерь.jpg" winter="1"/>
 <!--map name="Лисевск" xml="Лисевск.xml" preview="Лисевск.jpg" winter="0"/-->
 <!--map name="Лол" xml="lol.xml" preview="lol.jpg" winter="0"/-->
-<!--map name="Лунная тишина" xml="Лунная тишина.xml" preview="Лунная тишина.jpg" winter="0"/>
-<map name="Лунное Рио" xml="Лунное Рио.xml" preview="Лунное Рио.jpg" winter="0"/-->
+<map name="Лунная тишина" xml="Лунная тишина.xml" preview="Лунная тишина.jpg" winter="0"/>
+<!--map name="Лунное Рио" xml="Лунное Рио.xml" preview="Лунное Рио.jpg" winter="0"/-->
 <!--map name="Люксендор" xml="Люксендор.xml" preview="Люксендор.jpg" winter="0"/-->
 <map name="Магадан" xml="Магадан.xml" preview="Магадан.jpg" winter="1"/>
 <map name="Магистраль" xml="Магистраль.xml" preview="Магистраль.jpg" winter="1"/>
