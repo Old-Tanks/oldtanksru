@@ -1,5 +1,5 @@
 ﻿<config>
-	<settings ip="127.0.0.1" port="5482"/>
+	<!--settings ip="127.0.0.1" port="5482"/-->
 	<hulls>
 		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m0/" name="НЛО" price="1000"/>
 		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m1/" name="НЛО" price="1210"/>
@@ -2107,7 +2107,7 @@
 <map name="Эспланада" xml="Эспланада.xml" preview="Эспланада.jpg" winter="0"/>
 <map name="Эстафета" xml="Эстафета.xml" preview="Эстафета.jpg" winter="1"/>
 </maps>
-<!--settings ip="26.180.218.107" port="5482"/-->
+<settings ip="0.tcp.eu.ngrok.io" port="12017"/>
 <weapons>
 <smoky>
 <profile id="m0">
