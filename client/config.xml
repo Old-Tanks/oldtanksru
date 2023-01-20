@@ -1923,6 +1923,7 @@
 <map name="Архипелаг ММ" xml="Архипелаг.xml" preview="Архипелаг.jpg" winter="1"/>
 <map name="Астрелла" xml="Астрелла.xml" preview="Астрелла.jpg" winter="0"/>
 <map name="Атра" xml="Атра.xml" preview="Атра.jpg" winter="1"/>
+<!--map name="Атра (космос)" xml="Атра (космос).xml" preview="Атра (космос).jpg" winter="0"/-->
 <map name="Атра II" xml="Атра II.xml" preview="Атра II.jpg" winter="1"/>
 <map name="Атра III" xml="Атра III.xml" preview="Атра III.jpg" winter="1"/>
 <map name="Барда" xml="Барда.xml" preview="Барда.jpg" winter="1"/>
@@ -1930,6 +1931,7 @@
 <map name="Бастион" xml="Бастион.xml" preview="Бастион.jpg" winter="1"/>
 <map name="Бастион (новая графика)" xml="Бастион (новая графика).xml" preview="Бастион (новая графика).jpg" winter="0"/>
 <map name="Бездна" xml="Бездна.xml" preview="Бездна.jpg" winter="0"/>
+<!--map name="Бездна (космос)" xml="Бездна (космос).xml" preview="Бездна (космос).jpg" winter="0"/-->
 <map name="Безумие" xml="Безумие.xml" preview="Безумие.jpg" winter="0"/>
 <map name="Безумие (космос)" xml="Безумие (космос).xml" preview="Безумие (космос).jpg" winter="0"/>
 <map name="Берлин" xml="Берлин.xml" preview="Берлин.jpg" winter="1"/>
@@ -1982,6 +1984,7 @@
 <map name="Колхоз" xml="Колхоз.xml" preview="Колхоз.jpg" winter="1"/>
 <map name="Контейнеры" xml="Контейнеры.xml" preview="Контейнеры.jpg" winter="0"/>
 <map name="Королевство" xml="Королевство.xml" preview="Королевство.jpg" winter="0"/>
+<!--map name="Королевство (космос)" xml="Королевство (космос).xml" preview="Королевство (космос).jpg" winter="0"/-->
 <map name="Кунгур" xml="Кунгур.xml" preview="Кунгур.jpg" winter="1"/>
 <map name="Кунгур 2.0" xml="Кунгур 2.xml" preview="Кунгур 2.jpg" winter="0"/>
 <map name="Кураж" xml="Кураж.xml" preview="Кураж.jpg" winter="1"/>
@@ -1989,12 +1992,13 @@
 <map name="Крушение" xml="Крушение.xml" preview="Крушение.jpg" winter="0"/>
 <map name="Крушение II" xml="Крушение II.xml" preview="Крушение II.jpg" winter="0"/>
 <map name="Крушение (новая графика)" xml="Крушение (новая графика).xml" preview="Крушение (новая графика).jpg" winter="0"/>
+<map name="Кхуй" xml="Khuy.xml" preview="Khuy.jpg" winter="1"/>
 <map name="Лабиринт" xml="Лабиринт.xml" preview="Лабиринт.jpg" winter="0"/>
 <map name="Лагерь" xml="Лагерь.xml" preview="Лагерь.jpg" winter="1"/>
 <!--map name="Лисевск" xml="Лисевск.xml" preview="Лисевск.jpg" winter="0"/-->
 <!--map name="Лол" xml="lol.xml" preview="lol.jpg" winter="0"/-->
-<map name="Лунная тишина" xml="Лунная тишина.xml" preview="Лунная тишина.jpg" winter="0"/>
-<!--map name="Лунное Рио" xml="Лунное Рио.xml" preview="Лунное Рио.jpg" winter="0"/-->
+<!--map name="Лунная тишина" xml="Лунная тишина.xml" preview="Лунная тишина.jpg" winter="0"/>
+<map name="Лунное Рио" xml="Лунное Рио.xml" preview="Лунное Рио.jpg" winter="0"/-->
 <!--map name="Люксендор" xml="Люксендор.xml" preview="Люксендор.jpg" winter="0"/-->
 <map name="Магадан" xml="Магадан.xml" preview="Магадан.jpg" winter="1"/>
 <map name="Магистраль" xml="Магистраль.xml" preview="Магистраль.jpg" winter="1"/>
@@ -2061,6 +2065,7 @@
 <map name="Старая тишина" xml="Старая тишина.xml" preview="Старая тишина.jpg" winter="1"/>
 <map name="Старое Безумие" xml="Старое Безумие.xml" preview="Старое Безумие.jpg" winter="0"/>
 <map name="Старое Монте-Карло" xml="Старое Монте-Карло.xml" preview="Старое Монте-Карло.jpg" winter="0"/>
+<map name="Тест1" xml="test1.xml" preview="test1.jpg" winter="0"/>
 <map name="Тестирование полёта" xml="Тестирование полёта.xml" preview="Тестирование полёта.jpg" winter="0"/>
 <map name="Тестовая карта" xml="Тестовая карта.xml" preview="Тестовая карта.jpg" winter="0"/>
 <map name="Тестовый полигон" xml="Тестовый полигон.xml" preview="Тестовый полигон.jpg" winter="0"/>
