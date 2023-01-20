@@ -1,5 +1,5 @@
 <map version="1.0">
- <skybox val="17"/> <static-geometry>
+ <skybox val="24"/> <static-geometry>
     <prop library-name="Roadblock" group-name="default" name="fence3">
       <rotation>
         <z>0.000000</z>
