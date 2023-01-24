@@ -34,7 +34,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg2">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -45,7 +45,7 @@
         <z>1800.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -78,7 +78,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -100,7 +100,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg4">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg4">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -144,7 +144,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -188,7 +188,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -276,7 +276,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch1">
+    <prop library-name="Passage Old" group-name="arch" name="arch1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -287,7 +287,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg4">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -309,7 +309,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch1">
+    <prop library-name="Passage Old" group-name="arch" name="arch1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -353,7 +353,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -375,7 +375,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch3">
+    <prop library-name="Passage Old" group-name="arch" name="arch3">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -386,7 +386,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -441,7 +441,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch1">
+    <prop library-name="Passage Old" group-name="arch" name="arch1">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -496,7 +496,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch3">
+    <prop library-name="Passage Old" group-name="arch" name="arch3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -529,7 +529,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch5">
+    <prop library-name="Passage Old" group-name="arch" name="arch5">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -540,7 +540,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -573,7 +573,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -584,7 +584,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg4">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -617,7 +617,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_h_up">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_h_up">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -628,7 +628,7 @@
         <z>1200.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -650,7 +650,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -760,7 +760,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="cell" name="cell3">
+    <prop library-name="Defense Old" group-name="cell" name="cell3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -771,7 +771,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren1">
+    <prop library-name="Defense Old" group-name="trench" name="tren1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -947,7 +947,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par4">
+    <prop library-name="Defense Old" group-name="parapets" name="par4">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -958,7 +958,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch2">
+    <prop library-name="Passage Old" group-name="arch" name="arch2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -1035,7 +1035,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1112,7 +1112,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1189,7 +1189,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -1211,7 +1211,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch4">
+    <prop library-name="Passage Old" group-name="arch" name="arch4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1244,7 +1244,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="dot" name="dot1">
+    <prop library-name="Defense Old" group-name="dot" name="dot1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -1277,7 +1277,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_h_up">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_h_up">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1354,7 +1354,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1365,7 +1365,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1387,7 +1387,7 @@
         <z>300.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -1409,7 +1409,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch4">
+    <prop library-name="Passage Old" group-name="arch" name="arch4">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -1420,7 +1420,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1453,7 +1453,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="show" name="lighttow">
+    <prop library-name="Defense Old" group-name="show" name="lighttow">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -1552,7 +1552,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_m_up">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_m_up">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1640,7 +1640,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par6">
+    <prop library-name="Defense Old" group-name="parapets" name="par6">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -1662,7 +1662,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par6">
+    <prop library-name="Defense Old" group-name="parapets" name="par6">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -1706,7 +1706,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1772,7 +1772,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch5">
+    <prop library-name="Passage Old" group-name="arch" name="arch5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1794,7 +1794,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg3">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1805,7 +1805,7 @@
         <z>1800.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_up">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_up">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -1816,7 +1816,7 @@
         <z>2700.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch1">
+    <prop library-name="Passage Old" group-name="arch" name="arch1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -1882,7 +1882,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1915,7 +1915,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -1992,7 +1992,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2003,7 +2003,7 @@
         <z>2700.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch3">
+    <prop library-name="Passage Old" group-name="arch" name="arch3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2036,7 +2036,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2047,7 +2047,7 @@
         <z>2700.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_up">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_up">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2146,7 +2146,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch4">
+    <prop library-name="Passage Old" group-name="arch" name="arch4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2157,7 +2157,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2212,7 +2212,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2245,7 +2245,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="cell" name="cell1">
+    <prop library-name="Defense Old" group-name="cell" name="cell1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2289,7 +2289,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch2">
+    <prop library-name="Passage Old" group-name="arch" name="arch2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -2311,7 +2311,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="springboard" name="truck">
+    <prop library-name="Passage Old" group-name="springboard" name="truck">
       <rotation>
         <z>7.853982</z>
       </rotation>
@@ -2355,7 +2355,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2410,7 +2410,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2498,7 +2498,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg2">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2575,7 +2575,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -2784,7 +2784,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -3026,7 +3026,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3059,7 +3059,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel1">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -3323,7 +3323,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="show" name="lighttow">
+    <prop library-name="Defense Old" group-name="show" name="lighttow">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -3477,7 +3477,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3510,7 +3510,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-18.849556</z>
       </rotation>
@@ -3543,7 +3543,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3554,7 +3554,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="dot" name="dot1">
+    <prop library-name="Defense Old" group-name="dot" name="dot1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -3587,7 +3587,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3653,7 +3653,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg4">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3675,7 +3675,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren3">
+    <prop library-name="Defense Old" group-name="trench" name="tren3">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -3708,7 +3708,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3752,7 +3752,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3763,7 +3763,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3774,7 +3774,7 @@
         <z>2700.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -3829,7 +3829,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -3851,7 +3851,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch3">
+    <prop library-name="Passage Old" group-name="arch" name="arch3">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -3873,7 +3873,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3961,7 +3961,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -4005,7 +4005,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4060,7 +4060,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch5">
+    <prop library-name="Passage Old" group-name="arch" name="arch5">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4104,7 +4104,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4126,7 +4126,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4159,7 +4159,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -4170,7 +4170,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4192,7 +4192,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4203,7 +4203,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4225,7 +4225,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -4269,7 +4269,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4291,7 +4291,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -4346,7 +4346,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -4357,7 +4357,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren3">
+    <prop library-name="Defense Old" group-name="trench" name="tren3">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -4390,7 +4390,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4456,7 +4456,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -4500,7 +4500,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4522,7 +4522,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -4544,7 +4544,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4555,7 +4555,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4566,7 +4566,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4577,7 +4577,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -4599,7 +4599,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4687,7 +4687,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -4731,7 +4731,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4764,7 +4764,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch2">
+    <prop library-name="Passage Old" group-name="arch" name="arch2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -4786,7 +4786,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -4797,7 +4797,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -4841,7 +4841,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -4863,7 +4863,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="dot_com" name="dc4">
+    <prop library-name="Defense Old" group-name="dot_com" name="dc4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5039,7 +5039,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -5094,7 +5094,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5182,7 +5182,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5237,7 +5237,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg4">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5281,7 +5281,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5314,7 +5314,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5336,7 +5336,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of4" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of4" free="true">
       <rotation>
         <z>-4.712389</z>
       </rotation>
@@ -5380,7 +5380,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="cell" name="cell3">
+    <prop library-name="Defense Old" group-name="cell" name="cell3">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -5402,7 +5402,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of4" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of4" free="true">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -5457,7 +5457,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5490,7 +5490,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch5">
+    <prop library-name="Passage Old" group-name="arch" name="arch5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5545,7 +5545,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren4">
+    <prop library-name="Defense Old" group-name="trench" name="tren4">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -5567,7 +5567,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5633,7 +5633,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5677,7 +5677,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5688,7 +5688,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5721,7 +5721,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch4">
+    <prop library-name="Passage Old" group-name="arch" name="arch4">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -5732,7 +5732,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5743,7 +5743,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5754,7 +5754,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5765,7 +5765,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch1">
+    <prop library-name="Passage Old" group-name="arch" name="arch1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5864,7 +5864,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -5930,7 +5930,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5963,7 +5963,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_h_up">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_h_up">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5996,7 +5996,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -6007,7 +6007,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6018,7 +6018,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="dot_com" name="dc4">
+    <prop library-name="Defense Old" group-name="dot_com" name="dc4">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -6128,7 +6128,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch3">
+    <prop library-name="Passage Old" group-name="arch" name="arch3">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -6315,7 +6315,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6381,7 +6381,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch1">
+    <prop library-name="Passage Old" group-name="arch" name="arch1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6414,7 +6414,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6535,7 +6535,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch2">
+    <prop library-name="Passage Old" group-name="arch" name="arch2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6557,7 +6557,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg4">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg4">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -6568,7 +6568,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6612,7 +6612,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6645,7 +6645,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="show" name="lighttow">
+    <prop library-name="Defense Old" group-name="show" name="lighttow">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -6722,7 +6722,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6777,7 +6777,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -6821,7 +6821,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="show" name="lighttow">
+    <prop library-name="Defense Old" group-name="show" name="lighttow">
       <rotation>
         <z>-12.566371</z>
       </rotation>
@@ -6909,7 +6909,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -6964,7 +6964,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -7030,7 +7030,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7096,7 +7096,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7217,7 +7217,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7228,7 +7228,7 @@
         <z>2700.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7305,7 +7305,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7360,7 +7360,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7382,7 +7382,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7393,7 +7393,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -7525,7 +7525,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_h_up">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_h_up">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -7558,7 +7558,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch3">
+    <prop library-name="Passage Old" group-name="arch" name="arch3">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -7646,7 +7646,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_h_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_h_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7657,7 +7657,7 @@
         <z>2100.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7745,7 +7745,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg4">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7877,7 +7877,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_h_up">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_h_up">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7954,7 +7954,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch3">
+    <prop library-name="Passage Old" group-name="arch" name="arch3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7965,7 +7965,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch5">
+    <prop library-name="Passage Old" group-name="arch" name="arch5">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -7998,7 +7998,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch4">
+    <prop library-name="Passage Old" group-name="arch" name="arch4">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -8009,7 +8009,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8020,7 +8020,7 @@
         <z>-300.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8108,7 +8108,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg5">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg5">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -8185,7 +8185,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="hill" name="hill4">
+    <prop library-name="Defense Old" group-name="hill" name="hill4">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -8196,7 +8196,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par4">
+    <prop library-name="Defense Old" group-name="parapets" name="par4">
       <rotation>
         <z>15.707963</z>
       </rotation>
@@ -8229,7 +8229,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -8262,7 +8262,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of4" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of4" free="true">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -8427,7 +8427,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8537,7 +8537,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -8559,7 +8559,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8603,7 +8603,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_m_up">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_m_up">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -8691,7 +8691,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8757,7 +8757,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_h_up">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_h_up">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8834,7 +8834,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_m_up">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_m_up">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -8856,7 +8856,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8900,7 +8900,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren1">
+    <prop library-name="Defense Old" group-name="trench" name="tren1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8922,7 +8922,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8955,7 +8955,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8966,7 +8966,7 @@
         <z>2700.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par3">
+    <prop library-name="Defense Old" group-name="parapets" name="par3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8977,7 +8977,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="show" name="lighttow">
+    <prop library-name="Defense Old" group-name="show" name="lighttow">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -9010,7 +9010,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg5">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9065,7 +9065,7 @@
         <z>1200.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="dot_com" name="dc4">
+    <prop library-name="Defense Old" group-name="dot_com" name="dc4">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -9076,7 +9076,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9087,7 +9087,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg4">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg4">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -9109,7 +9109,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -9120,7 +9120,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch2">
+    <prop library-name="Passage Old" group-name="arch" name="arch2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -9252,7 +9252,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9274,7 +9274,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9285,7 +9285,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch5">
+    <prop library-name="Passage Old" group-name="arch" name="arch5">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -9307,7 +9307,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch5">
+    <prop library-name="Passage Old" group-name="arch" name="arch5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9318,7 +9318,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par6">
+    <prop library-name="Defense Old" group-name="parapets" name="par6">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -9351,7 +9351,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9362,7 +9362,7 @@
         <z>2700.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9472,7 +9472,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="springboard" name="spring1">
+    <prop library-name="Passage Old" group-name="springboard" name="spring1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9527,7 +9527,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9538,7 +9538,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9549,7 +9549,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9560,7 +9560,7 @@
         <z>2700.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="dot_com" name="dc4">
+    <prop library-name="Defense Old" group-name="dot_com" name="dc4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9582,7 +9582,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par6">
+    <prop library-name="Defense Old" group-name="parapets" name="par6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -9615,7 +9615,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch4">
+    <prop library-name="Passage Old" group-name="arch" name="arch4">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -9714,7 +9714,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9802,7 +9802,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9890,7 +9890,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9967,7 +9967,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10011,7 +10011,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch2">
+    <prop library-name="Passage Old" group-name="arch" name="arch2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10066,7 +10066,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10088,7 +10088,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par1">
+    <prop library-name="Defense Old" group-name="parapets" name="par1">
       <rotation>
         <z>1.570797</z>
       </rotation>
@@ -10110,7 +10110,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par6">
+    <prop library-name="Defense Old" group-name="parapets" name="par6">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -10121,7 +10121,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10132,7 +10132,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10198,7 +10198,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10220,7 +10220,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10286,7 +10286,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10330,7 +10330,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -10341,7 +10341,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -10363,7 +10363,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch4">
+    <prop library-name="Passage Old" group-name="arch" name="arch4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10396,7 +10396,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="dot_com" name="dc1">
+    <prop library-name="Defense Old" group-name="dot_com" name="dc1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -10462,7 +10462,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10484,7 +10484,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch2">
+    <prop library-name="Passage Old" group-name="arch" name="arch2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10528,7 +10528,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_h_up">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_h_up">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -10594,7 +10594,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10616,7 +10616,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -10627,7 +10627,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10638,7 +10638,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par3">
+    <prop library-name="Defense Old" group-name="parapets" name="par3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10649,7 +10649,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="show" name="lighttow">
+    <prop library-name="Defense Old" group-name="show" name="lighttow">
       <rotation>
         <z>-9.424778</z>
       </rotation>
@@ -10660,7 +10660,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-6.283185</z>
       </rotation>
@@ -10671,7 +10671,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -10693,7 +10693,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10770,7 +10770,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="cell" name="cell2">
+    <prop library-name="Defense Old" group-name="cell" name="cell2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10781,7 +10781,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10792,7 +10792,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10902,7 +10902,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_m_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_m_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10935,7 +10935,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10990,7 +10990,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11045,7 +11045,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11056,7 +11056,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11067,7 +11067,7 @@
         <z>2700.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11089,7 +11089,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch1">
+    <prop library-name="Passage Old" group-name="arch" name="arch1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -11133,7 +11133,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren1">
+    <prop library-name="Defense Old" group-name="trench" name="tren1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -11144,7 +11144,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11210,7 +11210,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11221,7 +11221,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11265,7 +11265,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch3">
+    <prop library-name="Passage Old" group-name="arch" name="arch3">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -11375,7 +11375,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par6">
+    <prop library-name="Defense Old" group-name="parapets" name="par6">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -11386,7 +11386,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="dot" name="dot1">
+    <prop library-name="Defense Old" group-name="dot" name="dot1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -11419,7 +11419,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11430,7 +11430,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="cell" name="cell1">
+    <prop library-name="Defense Old" group-name="cell" name="cell1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -11463,7 +11463,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11529,7 +11529,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11540,7 +11540,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="dot" name="dot3">
+    <prop library-name="Defense Old" group-name="dot" name="dot3">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -11573,7 +11573,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11595,7 +11595,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="springboard" name="truck" free="true">
+    <prop library-name="Passage Old" group-name="springboard" name="truck" free="true">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -11617,7 +11617,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch2">
+    <prop library-name="Passage Old" group-name="arch" name="arch2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11650,7 +11650,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11672,7 +11672,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -11760,7 +11760,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11782,7 +11782,7 @@
         <z>300.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11826,7 +11826,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11936,7 +11936,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11980,7 +11980,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -12002,7 +12002,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par6">
+    <prop library-name="Defense Old" group-name="parapets" name="par6">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -12013,7 +12013,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -12035,7 +12035,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -12079,7 +12079,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg5">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -12090,7 +12090,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -12123,7 +12123,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -12222,7 +12222,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -12233,7 +12233,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -12332,7 +12332,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg5">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg5">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -12409,7 +12409,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch1">
+    <prop library-name="Passage Old" group-name="arch" name="arch1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -12541,7 +12541,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -12563,7 +12563,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="dot" name="dot4">
+    <prop library-name="Defense Old" group-name="dot" name="dot4">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -12574,7 +12574,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -12629,7 +12629,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -12673,7 +12673,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch1">
+    <prop library-name="Passage Old" group-name="arch" name="arch1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -12695,7 +12695,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch4">
+    <prop library-name="Passage Old" group-name="arch" name="arch4">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -12871,7 +12871,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par1">
+    <prop library-name="Defense Old" group-name="parapets" name="par1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -12882,7 +12882,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -12959,7 +12959,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="dot" name="dot4">
+    <prop library-name="Defense Old" group-name="dot" name="dot4">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -13014,7 +13014,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -13069,7 +13069,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -13124,7 +13124,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -13234,7 +13234,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -13278,7 +13278,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -13289,7 +13289,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par6">
+    <prop library-name="Defense Old" group-name="parapets" name="par6">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -13322,7 +13322,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -13333,7 +13333,7 @@
         <z>2700.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel1">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -13355,7 +13355,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par3">
+    <prop library-name="Defense Old" group-name="parapets" name="par3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -13432,7 +13432,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -13520,7 +13520,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -13608,7 +13608,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -13674,7 +13674,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg4">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -13696,7 +13696,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch2">
+    <prop library-name="Passage Old" group-name="arch" name="arch2">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -13718,7 +13718,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -13729,7 +13729,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="dot" name="dot3">
+    <prop library-name="Defense Old" group-name="dot" name="dot3">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -13773,7 +13773,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -13861,7 +13861,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -13872,7 +13872,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg5">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -13960,7 +13960,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg2">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -13971,7 +13971,7 @@
         <z>1800.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -14004,7 +14004,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_m_up">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_m_up">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -14048,7 +14048,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -14081,7 +14081,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="rico_brid" name="rico_brid">
+    <prop library-name="Passage Old" group-name="rico_brid" name="rico_brid">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -14103,7 +14103,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -14136,7 +14136,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -14158,7 +14158,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -14180,7 +14180,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg4">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg4">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -14367,7 +14367,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -14422,7 +14422,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -14433,7 +14433,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -14510,7 +14510,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -14532,7 +14532,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -14543,7 +14543,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="cell" name="cell2">
+    <prop library-name="Defense Old" group-name="cell" name="cell2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -14565,7 +14565,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -14609,7 +14609,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -14642,7 +14642,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="rico_brid" name="rico_brid">
+    <prop library-name="Passage Old" group-name="rico_brid" name="rico_brid">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -14664,7 +14664,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="dot_com" name="dc4">
+    <prop library-name="Defense Old" group-name="dot_com" name="dc4">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -14675,7 +14675,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="show" name="lighttow">
+    <prop library-name="Defense Old" group-name="show" name="lighttow">
       <rotation>
         <z>-12.566371</z>
       </rotation>
@@ -14697,7 +14697,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch5">
+    <prop library-name="Passage Old" group-name="arch" name="arch5">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -14708,7 +14708,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -14719,7 +14719,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -14741,7 +14741,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -14939,7 +14939,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_m_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_m_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -14994,7 +14994,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -15005,7 +15005,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch4">
+    <prop library-name="Passage Old" group-name="arch" name="arch4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -15049,7 +15049,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -15082,7 +15082,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -15104,7 +15104,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -15192,7 +15192,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr3">
+    <prop library-name="Defense Old" group-name="grid" name="gr3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -15236,7 +15236,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par1">
+    <prop library-name="Defense Old" group-name="parapets" name="par1">
       <rotation>
         <z>20.420352</z>
       </rotation>
@@ -15247,7 +15247,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -15258,7 +15258,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch5">
+    <prop library-name="Passage Old" group-name="arch" name="arch5">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -15280,7 +15280,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch1">
+    <prop library-name="Passage Old" group-name="arch" name="arch1">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -15291,7 +15291,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -15302,7 +15302,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="show" name="lighttow">
+    <prop library-name="Defense Old" group-name="show" name="lighttow">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -15313,7 +15313,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -15346,7 +15346,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -15368,7 +15368,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -15401,7 +15401,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -15423,7 +15423,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -15445,7 +15445,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -15511,7 +15511,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch5">
+    <prop library-name="Passage Old" group-name="arch" name="arch5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -15522,7 +15522,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg3">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -15566,7 +15566,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg4">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg4">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -15643,7 +15643,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -15709,7 +15709,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -15753,7 +15753,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -15808,7 +15808,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -15819,7 +15819,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch3">
+    <prop library-name="Passage Old" group-name="arch" name="arch3">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -15885,7 +15885,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -15940,7 +15940,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -15973,7 +15973,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg3">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -15995,7 +15995,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_m_up">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_m_up">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -16039,7 +16039,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -16138,7 +16138,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par2">
+    <prop library-name="Defense Old" group-name="parapets" name="par2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -16215,7 +16215,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch4">
+    <prop library-name="Passage Old" group-name="arch" name="arch4">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -16226,7 +16226,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of4" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of4" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -16248,7 +16248,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -16259,7 +16259,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of1" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of1" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -16303,7 +16303,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of3" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3" free="true">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -16369,7 +16369,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-3.141593</z>
       </rotation>
@@ -16380,7 +16380,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par6">
+    <prop library-name="Defense Old" group-name="parapets" name="par6">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -16402,7 +16402,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of1" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of1" free="true">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -16435,7 +16435,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren5">
+    <prop library-name="Defense Old" group-name="trench" name="tren5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -16534,7 +16534,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -16567,7 +16567,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of1" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of1" free="true">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -16611,7 +16611,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence" group-name="out_fence" name="of1" free="true">
+    <prop library-name="Fence Old" group-name="out_fence" name="of1" free="true">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -16633,7 +16633,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -16655,7 +16655,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -16688,7 +16688,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="dot_com" name="dc1">
+    <prop library-name="Defense Old" group-name="dot_com" name="dc1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -16699,7 +16699,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="dot" name="dot2">
+    <prop library-name="Defense Old" group-name="dot" name="dot2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -16754,7 +16754,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -16765,7 +16765,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-15.707963</z>
       </rotation>
@@ -16776,7 +16776,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren4">
+    <prop library-name="Defense Old" group-name="trench" name="tren4">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -16787,7 +16787,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-1.570796</z>
       </rotation>
@@ -16820,7 +16820,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -16864,7 +16864,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -16985,7 +16985,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17018,7 +17018,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -17040,7 +17040,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17051,7 +17051,7 @@
         <z>2700.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17084,7 +17084,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17161,7 +17161,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-15.707963</z>
       </rotation>
@@ -17194,7 +17194,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -17227,7 +17227,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par6">
+    <prop library-name="Defense Old" group-name="parapets" name="par6">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -17249,7 +17249,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17337,7 +17337,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch2">
+    <prop library-name="Passage Old" group-name="arch" name="arch2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -17370,7 +17370,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17403,7 +17403,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -17414,7 +17414,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17425,7 +17425,7 @@
         <z>2700.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17469,7 +17469,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17557,7 +17557,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg3">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17579,7 +17579,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-20.420352</z>
       </rotation>
@@ -17623,7 +17623,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_m_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_m_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17656,7 +17656,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="parapets" name="par6">
+    <prop library-name="Defense Old" group-name="parapets" name="par6">
       <rotation>
         <z>-7.853982</z>
       </rotation>
@@ -17667,7 +17667,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel6">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17678,7 +17678,7 @@
         <z>-300.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17821,7 +17821,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="arch" name="arch3">
+    <prop library-name="Passage Old" group-name="arch" name="arch3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17887,7 +17887,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="trench" name="tren1">
+    <prop library-name="Defense Old" group-name="trench" name="tren1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17931,7 +17931,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg1">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17964,7 +17964,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -17986,7 +17986,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg4">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg4">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -18107,7 +18107,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-18.849556</z>
       </rotation>
@@ -18239,7 +18239,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="small_tunnel" name="Tunnel2">
+    <prop library-name="Defense Old" group-name="small_tunnel" name="Tunnel2">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -18250,7 +18250,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr2">
+    <prop library-name="Defense Old" group-name="grid" name="gr2">
       <rotation>
         <z>-10.995574</z>
       </rotation>
@@ -18294,7 +18294,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="big_bridge" name="B_brg5">
+    <prop library-name="Passage Old" group-name="big_bridge" name="B_brg5">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -18327,7 +18327,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Defense" group-name="grid" name="gr1">
+    <prop library-name="Defense Old" group-name="grid" name="gr1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -18382,7 +18382,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Passage" group-name="small_bridge" name="br_mh_st">
+    <prop library-name="Passage Old" group-name="small_bridge" name="br_mh_st">
       <rotation>
         <z>0.000000</z>
       </rotation>
