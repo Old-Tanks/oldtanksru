@@ -2106,7 +2106,7 @@
 <map name="Эспланада" xml="Эспланада.xml" preview="Эспланада.jpg" winter="0"/>
 <map name="Эстафета" xml="Эстафета.xml" preview="Эстафета.jpg" winter="1"/>
 </maps>
-<settings ip="5.tcp.eu.ngrok.io" port="16040"/>
+<settings ip="2.tcp.eu.ngrok.io" port="16585"/>
 <weapons>
 <smoky>
 <profile id="m0">
