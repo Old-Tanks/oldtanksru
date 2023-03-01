@@ -1,5 +1,5 @@
 ﻿<config>
-	<!settings ip="127.0.0.1" port="5482"/>
+	<settings ip="127.0.0.1" port="5482"/>
 	<hulls>
 		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m0/" name="НЛО" price="1000"/>
 		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m1/" name="НЛО" price="1210"/>
@@ -2034,6 +2034,7 @@
 <map name="Песочница" xml="Песочница.xml" preview="Песочница.jpg" winter="1"/>
 <map name="Песочница 2.0" xml="Песочница 2.xml" preview="Песочница 2.jpg" winter="0"/>
 <map name="Пещеры" xml="Пещеры.xml" preview="Пещеры.jpg" winter="0"/>
+<map name="Пещеры II" xml="Пещеры II.xml" preview="Пещеры II.jpg" winter="0"/>
 <map name="Пинг-Понг" xml="Пинг-Понг.xml" preview="Пинг-Понг.jpg" winter="1"/>
 <map name="Плато" xml="Плато.xml" preview="Плато.jpg" winter="1"/>
 <map name="Плато II" xml="Плато II.xml" preview="Плато II.jpg" winter="1"/>
@@ -2092,6 +2093,7 @@
 <map name="Форт Нокс III" xml="Форт Нокс III.xml" preview="Форт Нокс III.jpg" winter="0"/>
 <!--map name="Футбол" xml="Футбол.xml" preview="Футбол.jpg" winter="0"/-->
 <map name="Холм" xml="Холм.xml" preview="Холм.jpg" winter="0"/>
+<map name="Холмы" xml="Холмы.xml" preview="Холмы.jpg" winter="0"/>
 <!--map name="ХЕЛЛОУИН" xml="halloween2017.xml" preview="halloween2017.jpg" winter="0"/>
 <map name="ХЕЛЛОУИН 2012" xml="halloween2012.xml" preview="halloween2012.jpg" winter="0"/>
 <map name="ХЕЛЛОУИН 2013" xml="halloween2013.xml" preview="halloween2013.jpg" winter="0"/>
@@ -2106,7 +2108,7 @@
 <map name="Эспланада" xml="Эспланада.xml" preview="Эспланада.jpg" winter="0"/>
 <map name="Эстафета" xml="Эстафета.xml" preview="Эстафета.jpg" winter="1"/>
 </maps>
-<settings ip="2.tcp.eu.ngrok.io" port="18195"/>
+<!settings ip="2.tcp.eu.ngrok.io" port="18195"/>
 <weapons>
 <smoky>
 <profile id="m0">
