@@ -1889,14 +1889,14 @@
 <image id="isidaHealShaft3" url="isida/3/heal_shaft.png"/>
 <image id="box_armr" url="bonus/armr.jpg"/>
 <image id="box_crys" url="bonus/crys.jpg"/>
-<image id="box_gold" url="bonus/gold.jpg"/>
+<image id="box_gold" url="bonus/gold200kr.jpg"/>
 <image id="box_med" url="bonus/med.jpg"/>
 <image id="box_nos" url="bonus/nos.jpg"/>
 <image id="box_shot" url="bonus/shot.jpg"/>
 <image id="box_repair" url="bonus/repair.jpg"/>
 <image id="cords" url="bonus/cords.png"/>
-<image id="para" url="bonus/parachute.jpg"/>
-<image id="parai" url="bonus/parachutei.jpg"/>
+<image id="para" url="bonus/parachute_wd.jpg"/>
+<image id="parai" url="bonus/parachutei_wd.jpg"/>
 <image id="explColormap" url="explTank.jpg"/>
 <image id="tank_explosion_shockwave" url="explosion/shock_wave.png"/>
 <image id="tank_explosion_smoke" url="explosion/smoke.png"/>
@@ -2108,7 +2108,7 @@
 <map name="Эспланада" xml="Эспланада.xml" preview="Эспланада.jpg" winter="0"/>
 <map name="Эстафета" xml="Эстафета.xml" preview="Эстафета.jpg" winter="1"/>
 </maps>
-<settings ip="2.tcp.eu.ngrok.io" port="17290"/>
+<settings ip="7.tcp.eu.ngrok.io" port="14877"/>
 <weapons>
 <smoky>
 <profile id="m0">
