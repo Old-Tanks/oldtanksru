@@ -1,0 +1,42 @@
+<library name="Cave Tiles">
+    <prop-group name="default">
+		<prop name="Grass 1x1">
+				<mesh  file="tile_01.3DS">
+					<texture name="Grass" diffuse-map="grass.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Grass 2x1">
+				<mesh  file="tile2_1.3DS">
+					<texture name="Grass" diffuse-map="grass2x1.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Grass 2x2">
+				<mesh  file="tile2_2.3DS">
+					<texture name="Grass" diffuse-map="grass2x2.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Grass 3x1">
+				<mesh  file="tile3_1.3DS">
+					<texture name="Grass" diffuse-map="grass3x1.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Grass 3x2">
+				<mesh  file="tile3_2.3DS">
+					<texture name="Grass" diffuse-map="grass3x2.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Grass 3x3">
+				<mesh  file="tile3_3.3DS">
+					<texture name="Grass" diffuse-map="grass3x3.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Grass test">
+				<mesh  file="tile2_2.3DS">
+					<texture name="Grass" diffuse-map="ground.jpg" />
+				</mesh>
+		</prop>
+		<prop name="Wood 2">
+			<sprite file="wood2.png" origin-y="0.95" scale="5"/>
+		</prop>
+	</prop-group>
+</library>

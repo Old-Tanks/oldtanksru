@@ -1,5 +1,5 @@
 <map version="1.0">
-<skybox val="2"/>
+<skybox val="1"/>
   <static-geometry>
     <prop library-name="Land v1" group-name="Tiles" name="Tile 1x1">
       <rotation>
