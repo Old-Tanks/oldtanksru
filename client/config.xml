@@ -1622,11 +1622,11 @@
 		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/kuba/" name="Куба (-10%)" price="500"/>
 	</colormaps>
 	<numerics>
-		<numeric name="Аптечка" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/heal_hud.png (-10%)" price="15"/>
-		<numeric name="Двойная защита" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/armor_hud.png (-10%)" price="5"/>
-		<numeric name="Двойная энергия" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/damage_hud.png (-10%)" price="5"/>
-		<numeric name="Ускорение" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/n2o_hud.png (-10%)" price="5"/>
-		<numeric name="Мина" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/mine_hud.png (-10%)" price="10"/>
+		<numeric name="Аптечка (-10%)" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/heal_hud.png" price="15"/>
+		<numeric name="Двойная защита (-10%)" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/armor_hud.png" price="5"/>
+		<numeric name="Двойная энергия (-10%)" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/damage_hud.png" price="5"/>
+		<numeric name="Ускорение (-10%)" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/n2o_hud.png" price="5"/>
+		<numeric name="Мина (-10%)" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/mine_hud.png" price="10"/>
 	</numerics>
 	<descriptions>
 		<turrets>
