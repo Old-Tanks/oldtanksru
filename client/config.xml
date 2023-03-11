@@ -1,70 +1,70 @@
 ﻿<config>
 	<!settings ip="127.0.0.1" port="5482"/>
 	<hulls>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m0/" name="НЛО (-10%)" price="1000"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m1/" name="НЛО (-10%)" price="1210"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m2/" name="НЛО (-10%)" price="2900"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m3/" name="НЛО (-10%)" price="5950"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m0/" name="НЛО (-5%)" price="1000"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m1/" name="НЛО (-5%)" price="1210"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m2/" name="НЛО (-5%)" price="2900"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m3/" name="НЛО (-5%)" price="5950"/>
 
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp/m0/" name="Васп (-10%)" price="0"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp/m1/" name="Васп (-10%)" price="50"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp/m2/" name="Васп (-10%)" price="150"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp/m3/" name="Васп (-10%)" price="500"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp/m0/" name="Васп (-5%)" price="0"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp/m1/" name="Васп (-5%)" price="50"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp/m2/" name="Васп (-5%)" price="150"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp/m3/" name="Васп (-5%)" price="500"/>
 		
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hunter/m0/" name="Хантер (-10%)" price="10"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hunter/m1/" name="Хантер (-10%)" price="70"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hunter/m2/" name="Хантер (-10%)" price="210"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hunter/m3/" name="Хантер (-10%)" price="700"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hunter/m0/" name="Хантер (-5%)" price="10"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hunter/m1/" name="Хантер (-5%)" price="70"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hunter/m2/" name="Хантер (-5%)" price="210"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hunter/m3/" name="Хантер (-5%)" price="700"/>
 		
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/titan/m0/" name="Титан (-10%)" price="20"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/titan/m1/" name="Титан (-10%)" price="100"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/titan/m2/" name="Титан (-10%)" price="300"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/titan/m3/" name="Титан (-10%)" price="900"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/titan/m0/" name="Титан (-5%)" price="20"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/titan/m1/" name="Титан (-5%)" price="100"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/titan/m2/" name="Титан (-5%)" price="300"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/titan/m3/" name="Титан (-5%)" price="900"/>
 		
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/dictator/m0/" name="Диктатор (-10%)" price="150"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/dictator/m1/" name="Диктатор (-10%)" price="500"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/dictator/m2/" name="Диктатор (-10%)" price="1500"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/dictator/m3/" name="Диктатор (-10%)" price="5000"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/dictator/m0/" name="Диктатор (-5%)" price="150"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/dictator/m1/" name="Диктатор (-5%)" price="500"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/dictator/m2/" name="Диктатор (-5%)" price="1500"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/dictator/m3/" name="Диктатор (-5%)" price="5000"/>
 
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hornet1/beta/" name="Хорнет бета (-10%)" price="450"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hornet1/beta/" name="Хорнет бета (-10%)" price="1600"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hornet1/beta/" name="Хорнет бета (-10%)" price="4000"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hornet1/beta/" name="Хорнет бета (-10%)" price="12000"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hornet1/beta/" name="Хорнет бета (-5%)" price="450"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hornet1/beta/" name="Хорнет бета (-5%)" price="1600"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hornet1/beta/" name="Хорнет бета (-5%)" price="4000"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hornet1/beta/" name="Хорнет бета (-5%)" price="12000"/>
 
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hornet1/m0/" name="Хорнет (-10%)" price="450"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hornet1/m1/" name="Хорнет (-10%)" price="1350"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hornet1/m2/" name="Хорнет (-10%)" price="4000"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hornet1/m3/" name="Хорнет (-10%)" price="12000"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hornet1/m0/" name="Хорнет (-5%)" price="450"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hornet1/m1/" name="Хорнет (-5%)" price="1350"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hornet1/m2/" name="Хорнет (-5%)" price="4000"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/hornet1/m3/" name="Хорнет (-5%)" price="12000"/>
 
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/viking1/m0/" name="Викинг (-10%)" price="600"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/viking1/m1/" name="Викинг (-10%)" price="1800"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/viking1/m2/" name="Викинг (-10%)" price="5400"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/viking1/m3/" name="Викинг (-10%)" price="16200"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/viking1/m0/" name="Викинг (-5%)" price="600"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/viking1/m1/" name="Викинг (-5%)" price="1800"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/viking1/m2/" name="Викинг (-5%)" price="5400"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/viking1/m3/" name="Викинг (-5%)" price="16200"/>
 
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/mammoth1/m0/" name="Мамонт (-10%)" price="750"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/mammoth1/m1/" name="Мамонт (-10%)" price="2250"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/mammoth1/m2/" name="Мамонт (-10%)" price="6800"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/mammoth1/m3/" name="Мамонт (-10%)" price="20400"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/mammoth1/m0/" name="Мамонт (-5%)" price="750"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/mammoth1/m1/" name="Мамонт (-5%)" price="2250"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/mammoth1/m2/" name="Мамонт (-5%)" price="6800"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/mammoth1/m3/" name="Мамонт (-5%)" price="20400"/>
 
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp2/m0/" name="Васп 2.0 (-10%)" price="100"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp2/m1/" name="Васп 2.0 (-10%)" price="1310"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp2/m2/" name="Васп 2.0 (-10%)" price="10270"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp2/m3/" name="Васп 2.0 (-10%)" price="21570"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp2/m0/" name="Васп 2.0 (-5%)" price="100"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp2/m1/" name="Васп 2.0 (-5%)" price="1310"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp2/m2/" name="Васп 2.0 (-5%)" price="10270"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp2/m3/" name="Васп 2.0 (-5%)" price="21570"/>
 
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/light/m0/" name="Лёгкий (green) (-10%)" price="500"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/light/m1/" name="Лёгкий (bluegray) (-10%)" price="1200"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/light/m2/" name="Лёгкий (desert) (-10%)" price="5900"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/light/m3/" name="Лёгкий (dead) (-10%)" price="12000"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/light/m0/" name="Лёгкий (green) (-5%)" price="500"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/light/m1/" name="Лёгкий (bluegray) (-5%)" price="1200"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/light/m2/" name="Лёгкий (desert) (-5%)" price="5900"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/light/m3/" name="Лёгкий (dead) (-5%)" price="12000"/>
 
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/middle/m0/" name="Средний (green) (-10%)" price="800"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/middle/m1/" name="Средний (bluegray) (-10%)" price="1300"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/middle/m2/" name="Средний (desert) (-10%)" price="6200"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/middle/m3/" name="Средний (bright green) (-10%)" price="13500"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/middle/m0/" name="Средний (green) (-5%)" price="800"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/middle/m1/" name="Средний (bluegray) (-5%)" price="1300"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/middle/m2/" name="Средний (desert) (-5%)" price="6200"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/middle/m3/" name="Средний (bright green) (-5%)" price="13500"/>
 
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/heavy/m0/" name="Тяжёлый (green) (-10%)" price="1100"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/heavy/m1/" name="Тяжёлый (bluegray) (-10%)" price="2700"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/heavy/m2/" name="Тяжёлый (desert) (-10%)" price="7700"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/heavy/m3/" name="Тяжёлый (alter) (-10%)" price="15000"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/heavy/m0/" name="Тяжёлый (green) (-5%)" price="1100"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/heavy/m1/" name="Тяжёлый (bluegray) (-5%)" price="2700"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/heavy/m2/" name="Тяжёлый (desert) (-5%)" price="7700"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/heavy/m3/" name="Тяжёлый (alter) (-5%)" price="15000"/>
 	</hulls>
 	<profiles>
 		<!--ARES M0-->
@@ -1425,208 +1425,208 @@
 		</profile>
 	</profiles>
 	<turrets>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky/xt/" name="Смоки XT (-10%)" price="3950"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky/xt/" name="Смоки XT (-10%)" price="30"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky/xt/" name="Смоки XT (-10%)" price="90"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky/xt/" name="Смоки XT (-10%)" price="300"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky/xt/" name="Смоки XT (-5%)" price="3950"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky/xt/" name="Смоки XT (-5%)" price="30"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky/xt/" name="Смоки XT (-5%)" price="90"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky/xt/" name="Смоки XT (-5%)" price="300"/>
 		
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky/m0/" name="Смоки (-10%)" price="0"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky/m1/" name="Смоки (-10%)" price="30"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky/m2/" name="Смоки (-10%)" price="90"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky/m3/" name="Смоки (-10%)" price="300"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky/m0/" name="Смоки (-5%)" price="0"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky/m1/" name="Смоки (-5%)" price="30"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky/m2/" name="Смоки (-5%)" price="90"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky/m3/" name="Смоки (-5%)" price="300"/>
 		
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/flamethrower/m0/" name="Огнемет (-10%)" price="5"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/flamethrower/m1/" name="Огнемет (-10%)" price="40"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/flamethrower/m2/" name="Огнемет (-10%)" price="120"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/flamethrower/m3/" name="Огнемет (-10%)" price="400"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/flamethrower/m0/" name="Огнемет (-5%)" price="5"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/flamethrower/m1/" name="Огнемет (-5%)" price="40"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/flamethrower/m2/" name="Огнемет (-5%)" price="120"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/flamethrower/m3/" name="Огнемет (-5%)" price="400"/>
 		
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/twins/m0/" name="Твинс (-10%)" price="10"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/twins/m1/" name="Твинс (-10%)" price="50"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/twins/m2/" name="Твинс (-10%)" price="150"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/twins/m3/" name="Твинс (-10%)" price="500"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/twins/m0/" name="Твинс (-5%)" price="10"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/twins/m1/" name="Твинс (-5%)" price="50"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/twins/m2/" name="Твинс (-5%)" price="150"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/twins/m3/" name="Твинс (-5%)" price="500"/>
 		
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/fear/m0/" name="Fear Machine (-10%)" price="100"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/fear/m1/" name="Fear Machine (-10%)" price="350"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/fear/m2/" name="Fear Machine (-10%)" price="1100"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/fear/m3/" name="Fear Machine (-10%)" price="3700"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/fear/m0/" name="Fear Machine (-5%)" price="100"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/fear/m1/" name="Fear Machine (-5%)" price="350"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/fear/m2/" name="Fear Machine (-5%)" price="1100"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/fear/m3/" name="Fear Machine (-5%)" price="3700"/>
 
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/railgun/m0/" name="Рельса (-10%)" price="100"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/railgun/m1/" name="Рельса (-10%)" price="350"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/railgun/m2/" name="Рельса (-10%)" price="1100"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/railgun/m3/" name="Рельса (-10%)" price="3700"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/railgun/m0/" name="Рельса (-5%)" price="100"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/railgun/m1/" name="Рельса (-5%)" price="350"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/railgun/m2/" name="Рельса (-5%)" price="1100"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/railgun/m3/" name="Рельса (-5%)" price="3700"/>
 
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/isida/beta/" name="Гиппократ (-10%)" price="400"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/isida/beta/" name="Гиппократ (-10%)" price="700"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/isida/beta/" name="Гиппократ (-10%)" price="1800"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/isida/beta/" name="Гиппократ (-10%)" price="4500"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/isida/beta/" name="Гиппократ (-5%)" price="400"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/isida/beta/" name="Гиппократ (-5%)" price="700"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/isida/beta/" name="Гиппократ (-5%)" price="1800"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/isida/beta/" name="Гиппократ (-5%)" price="4500"/>
 
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/isida/m0/" name="Изида (-10%)" price="300"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/isida/m1/" name="Изида (-10%)" price="700"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/isida/m2/" name="Изида (-10%)" price="1800"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/isida/m3/" name="Изида (-10%)" price="4500"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/isida/m0/" name="Изида (-5%)" price="300"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/isida/m1/" name="Изида (-5%)" price="700"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/isida/m2/" name="Изида (-5%)" price="1800"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/isida/m3/" name="Изида (-5%)" price="4500"/>
 
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/thunder/m0/" name="Гром (-10%)" price="500"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/thunder/m1/" name="Гром (-10%)" price="1500"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/thunder/m2/" name="Гром (-10%)" price="4500"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/thunder/m3/" name="Гром (-10%)" price="14000"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/thunder/m0/" name="Гром (-5%)" price="500"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/thunder/m1/" name="Гром (-5%)" price="1500"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/thunder/m2/" name="Гром (-5%)" price="4500"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/thunder/m3/" name="Гром (-5%)" price="14000"/>
 
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/freeze/m0/" name="Фриз (-10%)" price="500"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/freeze/m1/" name="Фриз (-10%)" price="1500"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/freeze/m2/" name="Фриз (-10%)" price="4500"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/freeze/m3/" name="Фриз (-10%)" price="14000"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/freeze/m0/" name="Фриз (-5%)" price="500"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/freeze/m1/" name="Фриз (-5%)" price="1500"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/freeze/m2/" name="Фриз (-5%)" price="4500"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/freeze/m3/" name="Фриз (-5%)" price="14000"/>
 
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/ricochet/beta/" name="Вулкан (-10%)" price="750"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/ricochet/beta/" name="Вулкан (-10%)" price="2000"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/ricochet/beta/" name="Вулкан (-10%)" price="6000"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/ricochet/beta/" name="Вулкан (-10%)" price="18000"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/ricochet/beta/" name="Вулкан (-5%)" price="750"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/ricochet/beta/" name="Вулкан (-5%)" price="2000"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/ricochet/beta/" name="Вулкан (-5%)" price="6000"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/ricochet/beta/" name="Вулкан (-5%)" price="18000"/>
 
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/ricochet/m0/" name="Рикошет (-10%)" price="650"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/ricochet/m1/" name="Рикошет (-10%)" price="2000"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/ricochet/m2/" name="Рикошет (-10%)" price="6000"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/ricochet/m3/" name="Рикошет (-10%)" price="18000"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/ricochet/m0/" name="Рикошет (-5%)" price="650"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/ricochet/m1/" name="Рикошет (-5%)" price="2000"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/ricochet/m2/" name="Рикошет (-5%)" price="6000"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/ricochet/m3/" name="Рикошет (-5%)" price="18000"/>
 
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/shaft/beta/" name="Shaft (-10%)" price="800"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/shaft/beta/" name="Shaft (-10%)" price="2400"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/shaft/beta/" name="Shaft (-10%)" price="7200"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/shaft/beta/" name="Шафт (-10%)" price="21600"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/shaft/beta/" name="Shaft (-5%)" price="800"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/shaft/beta/" name="Shaft (-5%)" price="2400"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/shaft/beta/" name="Shaft (-5%)" price="7200"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/shaft/beta/" name="Шафт (-5%)" price="21600"/>
 
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/shaft/m0/" name="Шафт (-10%)" price="800"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/shaft/m1/" name="Шафт (-10%)" price="2400"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/shaft/m2/" name="Шафт (-10%)" price="7200"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/shaft/m3/" name="Шафт (-10%)" price="21600"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/shaft/m0/" name="Шафт (-5%)" price="800"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/shaft/m1/" name="Шафт (-5%)" price="2400"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/shaft/m2/" name="Шафт (-5%)" price="7200"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/shaft/m3/" name="Шафт (-5%)" price="21600"/>
 
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky2/m0/" name="Смоки 2.0 (-10%)" price="100"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky2/m1/" name="Смоки 2.0 (-10%)" price="1100"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky2/m2/" name="Смоки 2.0 (-10%)" price="11480"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky2/m3/" name="Смоки 2.0 (-10%)" price="26860"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky2/m0/" name="Смоки 2.0 (-5%)" price="100"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky2/m1/" name="Смоки 2.0 (-5%)" price="1100"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky2/m2/" name="Смоки 2.0 (-5%)" price="11480"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/smoky2/m3/" name="Смоки 2.0 (-5%)" price="26860"/>
 
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/light/m0/" name="Лёгкая смоки (green) (-10%)" price="500"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/light/m1/" name="Лёгкая смоки (bluegray) (-10%)" price="1200"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/light/m2/" name="Лёгкая смоки (desert) (-10%)" price="5900"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/light/m3/" name="Лёгкая смоки (dead) (-10%)" price="12000"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/light/m0/" name="Лёгкая смоки (green) (-5%)" price="500"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/light/m1/" name="Лёгкая смоки (bluegray) (-5%)" price="1200"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/light/m2/" name="Лёгкая смоки (desert) (-5%)" price="5900"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/light/m3/" name="Лёгкая смоки (dead) (-5%)" price="12000"/>
 
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/middle/m0/" name="Средняя смоки (green) (-10%)" price="800"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/middle/m1/" name="Средняя смоки (bluegray) (-10%)" price="1300"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/middle/m2/" name="Средняя смоки (desert) (-10%)" price="6200"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/middle/m3/" name="Средняя смоки (bright green) (-10%)" price="13500"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/middle/m0/" name="Средняя смоки (green) (-5%)" price="800"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/middle/m1/" name="Средняя смоки (bluegray) (-5%)" price="1300"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/middle/m2/" name="Средняя смоки (desert) (-5%)" price="6200"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/middle/m3/" name="Средняя смоки (bright green) (-5%)" price="13500"/>
 
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/heavy/m0/" name="Тяжёлая смоки (green) (-10%)" price="1100"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/heavy/m1/" name="Тяжёлая смоки (bluegray) (-10%)" price="2700"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/heavy/m2/" name="Тяжёлая смоки (desert) (-10%)" price="7700"/>
-		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/heavy/m3/" name="Тяжёлая смоки (alter) (-10%)" price="15000"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/heavy/m0/" name="Тяжёлая смоки (green) (-5%)" price="1100"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/heavy/m1/" name="Тяжёлая смоки (bluegray) (-5%)" price="2700"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/heavy/m2/" name="Тяжёлая смоки (desert) (-5%)" price="7700"/>
+		<turret path="https://old-tanks.github.io/oldtanksru/client/data/turrets/heavy/m3/" name="Тяжёлая смоки (alter) (-5%)" price="15000"/>
  	</turrets>
 	<colormaps>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/Mishin870/" name="Mishin870 (-10%)" price="0"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/Warn/" name="Warning (-10%)" price="10"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/1000_footballers_pla/" name="Для игроков (-10%)" price="100"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/1000_footballers_dev/" name="Для разработчиков (-10%)" price="100"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/sun/" name="Sun (-10%)" price="100"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/kasim/" name="Kasim (-10%)" price="100"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/S-N-E-G/" name="S-N-E-G (-10%)" price="100"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/KALASH86RUS/" name="KALASH86RUS (-10%)" price="100"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/Goliafffffff/" name="Goliafffffff (-10%)" price="100"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/1000_cosmonauts_pla/" name="Для игроков (-10%)" price="500"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/1000_cosmonauts_dev/" name="Для разработчиков (-10%)" price="500"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/traceur/" name="Трейсер (-10%)" price="30"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/players/" name="За игроков (-10%)" price="1000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/developers/" name="За разработчиков (-10%)" price="1000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/moonwalker/" name="Луноход (-10%)" price="150"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/rusty_barrels_pla/" name="За игроков (-10%)" price="500"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/rusty_barrels_dev/" name="За разработчиков (-10%)" price="500"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/Scorpions/" name="Scorpions (-10%)" price="1000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/NooBest/" name="NooBest (-10%)" price="1000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/helpe/" name="Помощник (-10%)" price="22000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/mop/" name="Мастера паркура (-10%)" price="12000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/prem/" name="Премиум (-10%)" price="15000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/devil/" name="Люцифер (-10%)" price="0"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/deviln/" name="Демон (-10%)" price="1000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/Mishin870/" name="Mishin870 (-5%)" price="0"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/Warn/" name="Warning (-5%)" price="10"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/1000_footballers_pla/" name="Для игроков (-5%)" price="100"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/1000_footballers_dev/" name="Для разработчиков (-5%)" price="100"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/sun/" name="Sun (-5%)" price="100"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/kasim/" name="Kasim (-5%)" price="100"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/S-N-E-G/" name="S-N-E-G (-5%)" price="100"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/KALASH86RUS/" name="KALASH86RUS (-5%)" price="100"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/Goliafffffff/" name="Goliafffffff (-5%)" price="100"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/1000_cosmonauts_pla/" name="Для игроков (-5%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/1000_cosmonauts_dev/" name="Для разработчиков (-5%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/traceur/" name="Трейсер (-5%)" price="30"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/players/" name="За игроков (-5%)" price="1000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/developers/" name="За разработчиков (-5%)" price="1000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/moonwalker/" name="Луноход (-5%)" price="150"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/rusty_barrels_pla/" name="За игроков (-5%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/rusty_barrels_dev/" name="За разработчиков (-5%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/Scorpions/" name="Scorpions (-5%)" price="1000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/NooBest/" name="NooBest (-5%)" price="1000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/helpe/" name="Помощник (-5%)" price="22000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/mop/" name="Мастера паркура (-5%)" price="12000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/prem/" name="Премиум (-5%)" price="15000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/devil/" name="Люцифер (-5%)" price="0"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/deviln/" name="Демон (-5%)" price="1000"/>
 
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/holiday_wd/" name="Праздник (-10%)" price=""/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/green/" name="Зелёный (-10%)" price=""/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/red/" name="Красный (-10%)" price="5"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/blue/" name="Синий (-10%)" price="5"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/black/" name="Чёрный (-10%)" price="10"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/white/" name="Белый (-10%)" price="10"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/orange/" name="Оранж (-10%)" price="50"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/flora/" name="Флора (-10%)" price="50"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/love/" name="С любовью (-10%)" price="50"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/holiday_wd/" name="Праздник (-5%)" price=""/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/green/" name="Зелёный (-5%)" price=""/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/red/" name="Красный (-5%)" price="5"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/blue/" name="Синий (-5%)" price="5"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/black/" name="Чёрный (-5%)" price="10"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/white/" name="Белый (-5%)" price="10"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/orange/" name="Оранж (-5%)" price="50"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/flora/" name="Флора (-5%)" price="50"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/love/" name="С любовью (-5%)" price="50"/>
 
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/metallic/" name="Металлик (-10%)" price="100"/>		
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/wood/" name="Лесник (-10%)" price="100"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/lava/" name="Лава (-10%)" price="100"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/morpex/" name="Морпех (-10%)" price="200"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/savanna/" name="Саванна (-10%)" price="200"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/metallic/" name="Металлик (-5%)" price="100"/>		
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/wood/" name="Лесник (-5%)" price="100"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/lava/" name="Лава (-5%)" price="100"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/morpex/" name="Морпех (-5%)" price="200"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/savanna/" name="Саванна (-5%)" price="200"/>
 		
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/yrban/" name="Урбан (-10%)" price="200"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/pustina/" name="Бархан (-10%)" price="200"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/xoxlom/" name="Хохлома (-10%)" price="2000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/mery/" name="Мэри (-10%)" price="2000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/prib/" name="Прибой (-10%)" price="2000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/graz/" name="Грязь (-10%)" price="500"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/karbon/" name="Карбон (-10%)" price="500"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/bolot/" name="Болотный (-10%)" price="500"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/metel/" name="Метель (-10%)" price="1000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/safari/" name="Сафари (-10%)" price="1000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/chyzoy/" name="Чужой (-10%)" price="1000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/tundra/" name="Тундра (-10%)" price="3000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/drakon/" name="Дракон (-10%)" price="3000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/rodjer/" name="Роджер (-10%)" price="3000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/digital/" name="Диджитал (-10%)" price="8000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/yaguar/" name="Ягуар (-10%)" price="8000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/elektro/" name="Электра (-10%)" price="8000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/rzavhina/" name="Ржавчина (-10%)" price="5000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/burya/" name="Буря (-10%)" price="5000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/glina/" name="Глина (-10%)" price="5000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/shel/" name="Шелест (-10%)" price="12000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/piton/" name="Питон (-10%)" price="12000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/iskra/" name="Искра (-10%)" price="12000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/taiga/" name="Тайга (-10%)" price="7000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/pechanik/" name="Песчаник (-10%)" price="7000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/kedr/" name="Кедр (-10%)" price="7000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/cvin/" name="Свинец (-10%)" price="7000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/prod/" name="Продиджи (-10%)" price="10000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/ckala/" name="Скала (-10%)" price="10000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/xvoia/" name="Хвоя (-10%)" price="10000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/tina/" name="Тина (-10%)" price="10000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/irbis/" name="Ирбис (-10%)" price="10000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/inferno/" name="Инферно (-10%)" price="15000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/izum/" name="Изумруд (-10%)" price="15000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/pic/" name="Пикассо (-10%)" price="15000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/zews/" name="Зевс (-10%)" price="15000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/nefrit/" name="Нефрит (-10%)" price="15000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/yrban/" name="Урбан (-5%)" price="200"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/pustina/" name="Бархан (-5%)" price="200"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/xoxlom/" name="Хохлома (-5%)" price="2000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/mery/" name="Мэри (-5%)" price="2000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/prib/" name="Прибой (-5%)" price="2000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/graz/" name="Грязь (-5%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/karbon/" name="Карбон (-5%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/bolot/" name="Болотный (-5%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/metel/" name="Метель (-5%)" price="1000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/safari/" name="Сафари (-5%)" price="1000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/chyzoy/" name="Чужой (-5%)" price="1000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/tundra/" name="Тундра (-5%)" price="3000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/drakon/" name="Дракон (-5%)" price="3000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/rodjer/" name="Роджер (-5%)" price="3000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/digital/" name="Диджитал (-5%)" price="8000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/yaguar/" name="Ягуар (-5%)" price="8000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/elektro/" name="Электра (-5%)" price="8000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/rzavhina/" name="Ржавчина (-5%)" price="5000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/burya/" name="Буря (-5%)" price="5000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/glina/" name="Глина (-5%)" price="5000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/shel/" name="Шелест (-5%)" price="12000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/piton/" name="Питон (-5%)" price="12000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/iskra/" name="Искра (-5%)" price="12000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/taiga/" name="Тайга (-5%)" price="7000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/pechanik/" name="Песчаник (-5%)" price="7000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/kedr/" name="Кедр (-5%)" price="7000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/cvin/" name="Свинец (-5%)" price="7000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/prod/" name="Продиджи (-5%)" price="10000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/ckala/" name="Скала (-5%)" price="10000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/xvoia/" name="Хвоя (-5%)" price="10000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/tina/" name="Тина (-5%)" price="10000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/irbis/" name="Ирбис (-5%)" price="10000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/inferno/" name="Инферно (-5%)" price="15000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/izum/" name="Изумруд (-5%)" price="15000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/pic/" name="Пикассо (-5%)" price="15000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/zews/" name="Зевс (-5%)" price="15000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/nefrit/" name="Нефрит (-5%)" price="15000"/>
 
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/kis/" name="Кислота (-10%)" price="25000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/gla/" name="Гладиатор (-10%)" price="25000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/cha/" name="Чемпион (-10%)" price="25000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/ser/" name="Серебро (-10%)" price="15000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/br/" name="Бронза (-10%)" price="5000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/lor/" name="Властелин (-10%)" price="35000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/star/" name="Звезда (-10%)" price="15000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/luckysev/" name="Счастливая семёрка (-10%)" price="16000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/storm/" name="Шторм (-10%)" price="16000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/colba/" name="Кобальт (-10%)" price="2600"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/vet/" name="Ветеран (-10%)" price="20000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/glai/" name="Глайд (-10%)" price="500"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/rep/" name="Репортер (-10%)" price="500"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/all/" name="Аллигатор (-10%)" price="500"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/tester/" name="Механик (-10%)" price="25000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/mik/" name="Микросхема (-10%)" price="800"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/fl/" name="Пламя (-10%)" price="500"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/rub/" name="Рубин (-10%)" price="500"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/ara/" name="Арамид (-10%)" price="500"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/heli/" name="Гелиос (-10%)" price="500"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/aero/" name="Аэро (-10%)" price="500"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/ek/" name="Екатеринбург (синяя) (-10%)" price="1000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/ek2/" name="Екатеринбург (желтая) (-10%)" price="1000"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/spec/" name="Оператор (-10%)" price="500"/>
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/kuba/" name="Куба (-10%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/kis/" name="Кислота (-5%)" price="25000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/gla/" name="Гладиатор (-5%)" price="25000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/cha/" name="Чемпион (-5%)" price="25000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/ser/" name="Серебро (-5%)" price="15000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/br/" name="Бронза (-5%)" price="5000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/lor/" name="Властелин (-5%)" price="35000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/star/" name="Звезда (-5%)" price="15000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/luckysev/" name="Счастливая семёрка (-5%)" price="16000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/storm/" name="Шторм (-5%)" price="16000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/colba/" name="Кобальт (-5%)" price="2600"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/vet/" name="Ветеран (-5%)" price="20000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/glai/" name="Глайд (-5%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/rep/" name="Репортер (-5%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/all/" name="Аллигатор (-5%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/tester/" name="Механик (-5%)" price="25000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/mik/" name="Микросхема (-5%)" price="800"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/fl/" name="Пламя (-5%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/rub/" name="Рубин (-5%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/ara/" name="Арамид (-5%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/heli/" name="Гелиос (-5%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/aero/" name="Аэро (-5%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/ek/" name="Екатеринбург (синяя) (-5%)" price="1000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/ek2/" name="Екатеринбург (желтая) (-5%)" price="1000"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/spec/" name="Оператор (-5%)" price="500"/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/kuba/" name="Куба (-5%)" price="500"/>
 	</colormaps>
 	<numerics>
-		<numeric name="Аптечка (-10%)" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/heal_hud.png" price="15"/>
-		<numeric name="Двойная защита (-10%)" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/armor_hud.png" price="5"/>
-		<numeric name="Двойная энергия (-10%)" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/damage_hud.png" price="5"/>
-		<numeric name="Ускорение (-10%)" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/n2o_hud.png" price="5"/>
-		<numeric name="Мина (-10%)" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/mine_hud.png" price="10"/>
+		<numeric name="Аптечка (-5%)" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/heal_hud.png" price="15"/>
+		<numeric name="Двойная защита (-5%)" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/armor_hud.png" price="5"/>
+		<numeric name="Двойная энергия (-5%)" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/damage_hud.png" price="5"/>
+		<numeric name="Ускорение (-5%)" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/n2o_hud.png" price="5"/>
+		<numeric name="Мина (-5%)" url="https://old-tanks.github.io/oldtanksru/client/data/numerics/mine_hud.png" price="10"/>
 	</numerics>
 	<descriptions>
 		<turrets>
@@ -1889,7 +1889,7 @@
 <image id="isidaHealShaft3" url="isida/3/heal_shaft.png"/>
 <image id="box_armr" url="bonus/armr.jpg"/>
 <image id="box_crys" url="bonus/crys.jpg"/>
-<image id="box_gold" url="bonus/gold200kr.jpg"/>
+<image id="box_gold" url="bonus/gold.jpg"/>
 <image id="box_med" url="bonus/med.jpg"/>
 <image id="box_nos" url="bonus/nos.jpg"/>
 <image id="box_shot" url="bonus/shot.jpg"/>
@@ -2108,7 +2108,7 @@
 <map name="Эспланада" xml="Эспланада.xml" preview="Эспланада.jpg" winter="0"/>
 <map name="Эстафета" xml="Эстафета.xml" preview="Эстафета.jpg" winter="1"/>
 </maps>
-<settings ip="6.tcp.eu.ngrok.io" port="15649"/>
+<settings ip="7.tcp.eu.ngrok.io" port="18168"/>
 <weapons>
 <smoky>
 <profile id="m0">
