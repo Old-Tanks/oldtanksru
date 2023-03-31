@@ -2796,7 +2796,7 @@
 <sound id="newyear" url="ny.mp3"/>
 <sound id="track" url="track01.mp3"/>
 <sound id="mineActivation" url="mine/activation.mp3"/>
-<sound id="gold" url="gold.mp3"/>
+<sound id="gold" url="gold_ap.mp3"/>
 <sound id="bonus" url="effects/drop/bonus.mp3"/>
 <sound id="tank" url="tank.mp3"/>
 <sound id="isida" url="turrets/Isida.mp3"/>
