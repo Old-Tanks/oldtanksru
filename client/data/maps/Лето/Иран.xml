@@ -1,5 +1,5 @@
 <map version="1.0">
-<skybox val="3"/>
+<skybox val="25"/>
   <static-geometry>
     <prop library-name="zamin" group-name="zamin" name="halfx1">
       <rotation>
