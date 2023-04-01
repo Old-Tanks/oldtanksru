@@ -2108,7 +2108,7 @@
 <map name="Эспланада" xml="Эспланада.xml" preview="Эспланада.jpg" winter="0"/>
 <map name="Эстафета" xml="Эстафета.xml" preview="Эстафета.jpg" winter="1"/>
 </maps>
-<settings ip="7.tcp.eu.ngrok.io" port="17195"/>
+<settings ip="7.tcp.eu.ngrok.io" port="19026"/>
 <weapons>
 <smoky>
 <profile id="m0">
@@ -2796,7 +2796,7 @@
 <sound id="newyear" url="ny.mp3"/>
 <sound id="track" url="track01.mp3"/>
 <sound id="mineActivation" url="mine/activation.mp3"/>
-<sound id="gold" url="gold_ap.mp3"/>
+<sound id="gold" url="gold_halloween.mp3"/>
 <sound id="bonus" url="effects/drop/bonus.mp3"/>
 <sound id="tank" url="tank.mp3"/>
 <sound id="isida" url="turrets/Isida.mp3"/>
