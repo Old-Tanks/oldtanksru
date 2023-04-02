@@ -2108,7 +2108,8 @@
 <map name="Эспланада" xml="Эспланада.xml" preview="Эспланада.jpg" winter="0"/>
 <map name="Эстафета" xml="Эстафета.xml" preview="Эстафета.jpg" winter="1"/>
 </maps>
-<settings ip="5.tcp.eu.ngrok.io" port="12401"/>
+<settings ip="fra02.pylexnodes.net" port="41127"/>
+<!settings ip="5.tcp.eu.ngrok.io" port="12401"/>
 <weapons>
 <smoky>
 <profile id="m0">
