@@ -1933,10 +1933,12 @@
 <map name="Бездна" xml="Бездна.xml" preview="Бездна.jpg" winter="0"/>
 <!--map name="Бездна (космос)" xml="Бездна (космос).xml" preview="Бездна (космос).jpg" winter="0"/-->
 <map name="Безумие" xml="Безумие.xml" preview="Безумие.jpg" winter="0"/>
+<map name="Безумие CTF" xml="Безумие CTF.xml" preview="Безумие CTF.jpg" winter="0"/>
 <map name="Безумие (космос)" xml="Безумие (космос).xml" preview="Безумие (космос).jpg" winter="0"/>
 <map name="Берлин" xml="Берлин.xml" preview="Берлин.jpg" winter="1"/>
 <map name="Бобруйск" xml="Бобруйск.xml" preview="Бобруйск.jpg" winter="1"/>
 <map name="Бойня" xml="Бойня.xml" preview="Бойня.jpg" winter="1"/>
+<map name="Большая" xml="Большая.xml" preview="Большая.jpg" winter="0"/>
 <map name="Брест" xml="Брест.xml" preview="Брест.jpg" winter="1"/>
 <map name="Брест II" xml="Брест II.xml" preview="Брест II.jpg" winter="1"/>
 <map name="Брянцев" xml="Брянцев.xml" preview="Брянцев.jpg" winter="0"/>
@@ -2046,6 +2048,7 @@
 <map name="Порт" xml="Порт.xml" preview="Порт.jpg" winter="0"/>
 <map name="Пригород" xml="Пригород.xml" preview="Пригород.jpg" winter="0"/>
 <map name="Промзона" xml="Промзона.xml" preview="Промзона.jpg" winter="1"/>
+<map name="Промышленная зона" xml="Промышленная зона.xml" preview="Промышленная зона.jpg" winter="0"/>
 <map name="Простор" xml="Простор.xml" preview="Простор.jpg" winter="1"/>
 <map name="Противостояние" xml="Противостояние.xml" preview="Противостояние.jpg" winter="1"/>
 <map name="Пустыня" xml="Пустыня.xml" preview="Пустыня.jpg" winter="0"/>
@@ -2061,11 +2064,14 @@
 <map name="Сандал 2.0" xml="Сандал 2.xml" preview="Сандал 2.jpg" winter="0"/>
 <map name="Серпухов" xml="Серпухов.xml" preview="Серпухов.jpg" winter="1"/>
 <map name="Соликамск" xml="Соликамск.xml" preview="Соликамск.jpg" winter="1"/>
+<map name="Средняя" xml="Средняя.xml" preview="Средняя.jpg" winter="0"/>
 <map name="Стадион" xml="Стадион.xml" preview="Стадион.jpg" winter="1"/>
 <map name="Станция" xml="Станция.xml" preview="Станция.jpg" winter="1"/>
 <map name="Старая тишина" xml="Старая тишина.xml" preview="Старая тишина.jpg" winter="1"/>
 <map name="Старое Безумие" xml="Старое Безумие.xml" preview="Старое Безумие.jpg" winter="0"/>
 <map name="Старое Монте-Карло" xml="Старое Монте-Карло.xml" preview="Старое Монте-Карло.jpg" winter="0"/>
+<map name="Старое Монте-Карло II" xml="Старое Монте-Карло II.xml" preview="Старое Монте-Карло II.jpg" winter="0"/>
+<map name="Старый перевал" xml="Старый Перевал.xml" preview="Старое Перевал.jpg" winter="1"/>
 <map name="Тестирование полёта" xml="Тестирование полёта.xml" preview="Тестирование полёта.jpg" winter="0"/>
 <map name="Тестовая карта" xml="Тестовая карта.xml" preview="Тестовая карта.jpg" winter="0"/>
 <map name="Тестовый полигон" xml="Тестовый полигон.xml" preview="Тестовый полигон.jpg" winter="0"/>
