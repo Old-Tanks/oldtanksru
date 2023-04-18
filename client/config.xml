@@ -1,5 +1,5 @@
 ﻿<config>
-	<!settings ip="127.0.0.1" port="5482"/>
+	<settings ip="127.0.0.1" port="5482"/>
 	<hulls>
 		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m0/" name="НЛО (-12%)" price="1000"/>
 		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m1/" name="НЛО (-12%)" price="1210"/>
@@ -2114,7 +2114,7 @@
 <map name="Эспланада" xml="Эспланада.xml" preview="Эспланада.jpg" winter="0"/>
 <map name="Эстафета" xml="Эстафета.xml" preview="Эстафета.jpg" winter="1"/>
 </maps>
-<settings ip="fra02.pylexnodes.net" port="41127"/>
+<!settings ip="fra02.pylexnodes.net" port="41127"/>
 <weapons>
 <smoky>
 <profile id="m0">
