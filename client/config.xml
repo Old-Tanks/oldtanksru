@@ -1,10 +1,10 @@
 ﻿<config>
 	<!settings ip="127.0.0.1" port="5482"/>
 	<hulls>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m0/" name="НЛО (-12%)" price="1000"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m1/" name="НЛО (-12%)" price="1210"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m2/" name="НЛО (-12%)" price="2900"/>
-		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m3/" name="НЛО (-12%)" price="5950"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m0/" name="НЛО (-10%)" price="1000"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m1/" name="НЛО (-10%)" price="1210"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m2/" name="НЛО (-10%)" price="2900"/>
+		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/ares/m3/" name="НЛО (-10%)" price="5950"/>
 
 		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp/m0/" name="Васп (-10%)" price="0"/>
 		<hull path="https://old-tanks.github.io/oldtanksru/client/data/hulls/wasp/m1/" name="Васп (-10%)" price="50"/>
