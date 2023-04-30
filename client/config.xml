@@ -2119,7 +2119,7 @@
 <map name="Эспланада" xml="Эспланада.xml" preview="Эспланада.jpg" winter="0"/>
 <map name="Эстафета" xml="Эстафета.xml" preview="Эстафета.jpg" winter="1"/>
 </maps>
-<settings ip="de1.pylexservers.xyz" port="25606"/>
+<settings ip="de1.pylexservers.xyz" port="25662"/>
 <weapons>
 <smoky>
 <profile id="m0">
