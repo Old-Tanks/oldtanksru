@@ -1541,7 +1541,7 @@
 		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/devil/" name="Люцифер" price="0"/>
 		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/deviln/" name="Демон" price="1000"/>
 
-		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/holiday_vd/" name="Праздник" price=""/>
+		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/holiday_may/" name="Праздник" price=""/>
 		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/green/" name="Зелёный" price=""/>
 		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/red/" name="Красный" price="5"/>
 		<colormap path="https://old-tanks.github.io/oldtanksru/client/data/colormaps/blue/" name="Синий" price="5"/>
@@ -1668,21 +1668,21 @@
 		<colormaps>
 			<description name="Mishin870" text="https://old-tanks.github.io/oldtanksru/client/data/colormaps/Mishin870/preview.png;Эта краска создана специально для администратора сервера - Mishin870. Краска защищает от: смоки - 75%. твинс - 75%. огнемет - 75%"/>
 			<description name="Warning" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/Warn/preview.png;Защита от всех 5% Не имеет описания.'/>
-			<description name="Для игроков" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/1000_footballers_pla/preview.png;Покрытие, созданное специально для команды игроков.	 Покупая данную краску, вы становитесь участником акции «Битва «1000 футболистов»». Подробности на форуме.'/>
-			<description name="Для разработчиков" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/1000_footballers_dev/preview.png;Покрытие, созданное специально для команды разработчиков.	 Покупая данную краску, вы становитесь участником акции «Битва «1000 футболистов»». Подробности на форуме.'/>
+			<description name="Для игроков" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/1000_footballers_pla/preview.png;Покрытие, созданное специально для команды игроков.	 Покупая данную краску, вы становитесь участником акции «1000 футболистов». Подробности на форуме.'/>
+			<description name="Для разработчиков" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/1000_footballers_dev/preview.png;Покрытие, созданное специально для команды разработчиков.	 Покупая данную краску, вы становитесь участником акции «1000 футболистов». Подробности на форуме.'/>
 			<description name="Sun" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/sun/preview.png;Краска болельщиков Sun.	 Покупая данную краску, вы становитесь участником акции «Kasim против Sun». Подробности на форуме.'/>
 			<description name="Kasim" text="https://old-tanks.github.io/oldtanksru/client/data/colormaps/kasim/preview.png;Краска болельщиков Kasim'a.	 Покупая данную краску, вы становитесь участником акции «Kasim против Sun». Подробности на форуме."/>
-			<description name="S-N-E-G" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/S-N-E-G/preview.png;Краска болельщиков консультанта S-N-E-G.	 Покупая данную краску, вы становитесь участником акции «Соревнование «Битва консультантов»». Подробности на форуме.'/>
-			<description name="KALASH86RUS" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/KALASH86RUS/preview.png;Краска болельщиков консультанта KALASH86RUS.	  Покупая данную краску, вы становитесь участником акции «Соревнование «Битва консультантов»». Подробности на форуме.'/>
-			<description name="Goliafffffff" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/Goliafffffff/preview.png;Краска болельщиков консультанта Goliafffffff.	 Покупая данную краску, вы становитесь участником акции «Соревнование «Битва консультантов»». Подробности на форуме.'/>
-			<description name="Для игроков" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/1000_cosmonauts_pla/preview.png;Покрытие участников команды игроков.	 Покупая данную краску, вы становитесь участником акции «Битва «1000 космонавтов»». Подробности на форуме.'/>
-			<description name="Для разработчиков" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/1000_cosmonauts_dev/preview.png;Покрытие участников команды разработчиков.	 Покупая данную краску, вы становитесь участником акции «Битва «1000 космонавтов»». Подробности на форуме.'/>
+			<description name="S-N-E-G" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/S-N-E-G/preview.png;Краска болельщиков консультанта S-N-E-G.	 Покупая данную краску, вы становитесь участником акции «Битва консультантов». Подробности на форуме.'/>
+			<description name="KALASH86RUS" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/KALASH86RUS/preview.png;Краска болельщиков консультанта KALASH86RUS.	  Покупая данную краску, вы становитесь участником акции «Битва консультантов». Подробности на форуме.'/>
+			<description name="Goliafffffff" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/Goliafffffff/preview.png;Краска болельщиков консультанта Goliafffffff.	 Покупая данную краску, вы становитесь участником акции «Битва консультантов». Подробности на форуме.'/>
+			<description name="Для игроков" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/1000_cosmonauts_pla/preview.png;Покрытие участников команды игроков.	 Покупая данную краску, вы становитесь участником акции «1000 космонавтов». Подробности на форуме.'/>
+			<description name="Для разработчиков" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/1000_cosmonauts_dev/preview.png;Покрытие участников команды разработчиков.	 Покупая данную краску, вы становитесь участником акции «1000 космонавтов». Подробности на форуме.'/>
 			<description name="Трейсер" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/traceur/preview.png;Карабкаться на дома, совершать головокружительные полёты и прочие впечатляющие трюки в этой краске станет гораздо легче. В её создании участвовали ведущие лаборатории, занимающиеся самолётостроением и исследованиями в области аэродинамики. Получившееся покрытие резко снижает сопротивление воздуха и позволяет прыгать дальше, летать выше, кувыркаться быстрее. А ещё ваши навыки паркура точно не останутся незамеченными в этой яркой и радующей глаз краске.	 Покрытие было создано специально для участников конкурса «Мастера паркура».'/>
 			<description name="За игроков" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/players/preview.png;Это покрытие для тех, кто уверен в победе игроков. Покупая данную краску, вы становитесь участником акции «Kasim и Sun против...». Подробности читайте на форуме.'/>
 			<description name="За разработчиков" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/developers/preview.png;Это покрытие для тех, кто уверен в победе разработчиков. Покупая данную краску, вы становитесь участником акции «Kasim и Sun против...». Подробности читайте на форуме.'/>
 			<description name="Луноход" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/moonwalker/preview.png;Защита от пушек: Рикошет - 22% Твинс - 20%  Редкая краска, которую можно было купить лишь в течение недели — со 2 по 10 октября 2013 года — во время акции «Прощание с Лунной тишиной». У тех, кто её купил, в память об этой карте краска остаётся в гараже навсегда.'/>
-			<description name="За игроков" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/rusty_barrels_pla/preview.png;Это покрытие для тех, кто уверен в победе игроков. Покупая данную краску, вы становитесь участником акции «Битва «Ржавые стволы»». Подробности на форуме.'/>
-			<description name="За разработчиков" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/rusty_barrels_dev/preview.png;Это покрытие для тех, кто уверен в победе разработчиков. Покупая данную краску, вы становитесь участником акции «Битва «Ржавые стволы»». Подробности на форуме.'/>
+			<description name="За игроков" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/rusty_barrels_pla/preview.png;Это покрытие для тех, кто уверен в победе игроков. Покупая данную краску, вы становитесь участником акции «Ржавые стволы». Подробности на форуме.'/>
+			<description name="За разработчиков" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/rusty_barrels_dev/preview.png;Это покрытие для тех, кто уверен в победе разработчиков. Покупая данную краску, вы становитесь участником акции «Ржавые стволы». Подробности на форуме.'/>
 			<description name="Scorpions" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/Scorpions/preview.png;Краска болельщика команды «Scorpions». Покупая данную краску, вы становитесь участником акции «Суперфинал восьмого сезона Межкланового Чемпионата». Подробности на форуме.'/>
 			<description name="NooBest" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/NooBest/preview.png;Краска болельщика команды «NooBest». Покупая данную краску, вы становитесь участником акции «Суперфинал восьмого сезона Межкланового Чемпионата». Подробности на форуме.'/>
 			<description name="Помощник" text="https://old-tanks.github.io/oldtanksru/client/data/colormaps/helpe/preview.png;Защита от пушек: Всех - 18% Наградная краска, которая выдаётся лучшим помощникам месяца. Уникальное покрытие, обладающее резистами от всех типов повреждений. Им награждаются только лучшие помощники проекта. Люди, двигающие его вперёд. Танкисты, для которых «Танки Онлайн» — это больше чем игра."/>
@@ -1691,7 +1691,7 @@
 			<description name="Люцифер" text="https://old-tanks.github.io/oldtanksru/client/data/colormaps/devil/preview.png;Эта краска создана специально для администратора сервера - Godmode_ON. Краска защищает от: смоки - 99%. твинс - 99%. огнемет - 99%"/>
 			<description name="Демон" text="https://old-tanks.github.io/oldtanksru/client/data/colormaps/deviln/preview.png;Защита от пушек: Всех - 99%  Самая загадочная краска в игре!"/>
 
-			<description name="Праздник" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/holiday_vd/preview.png;Это уникальное "умное" покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день оно - нейтрально серое, но с наступлением того или иного праздника разительно преображается'/>
+			<description name="Праздник" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/holiday_may/preview.png;Это уникальное "умное" покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день оно - нейтрально серое, но с наступлением того или иного праздника разительно преображается'/>
 			<description name="Зелёный" text="https://old-tanks.github.io/oldtanksru/client/data/colormaps/green/preview.png;Являясь скорее данью традициям классического танкостроения, этот незамысловатый цвет, так полюбившийся конструкторам всего мира, стал своеобразным стандартом для заводских моделей. К этому легендарному цвету часто возвращаются истинные ценители, перепробовав всё на свете."/>
 			<description name="Красный" text="https://old-tanks.github.io/oldtanksru/client/data/colormaps/red/preview.png;Красный цвет - воплощение ярости и отваги, обладает также природной практичностью, позволяя деликатно скрывать пятна вражеской крови, неизбежно появляющиеся на корпусе, как бы вы ни аккуратничали."/>
 			<description name="Синий" text='https://old-tanks.github.io/oldtanksru/client/data/colormaps/blue/preview.png;Эту расцветку оставили в официальном перечне, как память о провалившемся проекте разработки танка-амфибии "Сом". По задумке конструкторов он должен был передвигаться по руслам неглубоких рек, и, благодаря синей расцветке, беспрепятственно проникать в глубокий вражеский тыл, оставаясь незамеченным.'/>
@@ -1889,14 +1889,14 @@
 <image id="isidaHealShaft3" url="isida/3/heal_shaft.png"/>
 <image id="box_armr" url="bonus/armr.jpg"/>
 <image id="box_crys" url="bonus/crys.jpg"/>
-<image id="box_gold" url="bonus/gold_vd.jpg"/>
+<image id="box_gold" url="bonus/gold200kr.jpg"/>
 <image id="box_med" url="bonus/med.jpg"/>
 <image id="box_nos" url="bonus/nos.jpg"/>
 <image id="box_shot" url="bonus/shot.jpg"/>
 <image id="box_repair" url="bonus/repair.jpg"/>
 <image id="cords" url="bonus/cords.png"/>
-<image id="para" url="bonus/parachute_vd.jpg"/>
-<image id="parai" url="bonus/parachutei_vd.jpg"/>
+<image id="para" url="bonus/parachute.jpg"/>
+<image id="parai" url="bonus/parachutei.jpg"/>
 <image id="explColormap" url="explTank.jpg"/>
 <image id="tank_explosion_shockwave" url="explosion/shock_wave.png"/>
 <image id="tank_explosion_smoke" url="explosion/smoke.png"/>
@@ -2119,7 +2119,7 @@
 <map name="Эспланада" xml="Эспланада.xml" preview="Эспланада.jpg" winter="0"/>
 <map name="Эстафета" xml="Эстафета.xml" preview="Эстафета.jpg" winter="1"/>
 </maps>
-<settings ip="de2.pylexservers.xyz" port="25894"/>
+<settings ip="f4.apexnodes.xyz" port="26848"/>
 <weapons>
 <smoky>
 <profile id="m0">
