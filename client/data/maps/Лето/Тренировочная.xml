@@ -1,5 +1,6 @@
-<map version="1.0">
- <skybox val="0"/> <static-geometry>
+<map version="1.0.Light">
+ <skybox val="0"/>
+  <static-geometry>
     <prop library-name="Tutorial Landscape" group-name="Grass&amp;dirt Tiles" name="grass&amp;dirt 1x1">
       <rotation>
         <z>-1.570796</z>
