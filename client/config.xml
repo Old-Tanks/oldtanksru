@@ -2072,7 +2072,6 @@
 <map name="Старая Эспланада" xml="Старая Эспланада.xml" preview="Старая Эспланада.jpg" winter="0"/>
 <map name="Старое Безумие" xml="Старое Безумие.xml" preview="Старое Безумие.jpg" winter="0"/>
 <map name="Старое Монте-Карло" xml="Старое Монте-Карло.xml" preview="Старое Монте-Карло.jpg" winter="0"/>
-<map name="Старое Монте-Карло II" xml="Старое Монте-Карло II.xml" preview="Старое Монте-Карло II.jpg" winter="0"/>
 <map name="Старый перевал" xml="Старый Перевал.xml" preview="Старый Перевал.jpg" winter="1"/>
 <map name="Старый полигон" xml="Старый полигон.xml" preview="Старый полигон.jpg" winter="1"/>
 <map name="Старый шум" xml="Старый шум.xml" preview="Старый шум.jpg" winter="1"/>
@@ -2089,6 +2088,7 @@
 <map name="Тишина ММ" xml="Тишина ММ.xml" preview="Тишина ММ.jpg" winter="1"/>
 <map name="Трасса" xml="Трасса.xml" preview="Трасса.jpg" winter="0"/>
 <map name="Трек" xml="Трек.xml" preview="Трек.jpg" winter="1"/>
+<map name="Трек смерти" xml="Трек смерти.xml" preview="Трек смерти.jpg" winter="0"/>
 <map name="Трек тест" xml="Трек тест.xml" preview="Трек тест.jpg" winter="0"/>
 <map name="Тренировочная" xml="Тренировочная.xml" preview="Тренировочная.jpg" winter="0"/>
 <map name="Трибьют" xml="Трибьют.xml" preview="Трибьют.jpg" winter="1"/>
