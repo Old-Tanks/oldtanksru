@@ -2119,7 +2119,7 @@
 <map name="Эспланада" xml="Эспланада.xml" preview="Эспланада.jpg" winter="0"/>
 <map name="Эстафета" xml="Эстафета.xml" preview="Эстафета.jpg" winter="1"/>
 </maps>
-<settings ip="f4.apexnodes.xyz" port="26848"/>
+<settings ip="168.119.78.105" port="27401"/>
 <weapons>
 <smoky>
 <profile id="m0">
